@@ -14,8 +14,10 @@ import pandas as pd
 
 from config_loader import cfg
 
-_CORPUS_DIR    = Path(cfg["corpus_dir"])
+# _CORPUS_DIR    = Path(cfg["corpus_dir"])
+_EXTRACTED_DIR = Path(cfg["extracted_dir"])
 _CSV_OUTPUT    = Path(cfg["csv_output"])
+txt_path = _EXTRACTED_DIR / "academic_programmes.txt"
 
 # Degree level detection from section headings
 _DEGREE_PATTERN = re.compile(
@@ -47,7 +49,7 @@ def parse() -> list[dict]:
 
     Returns list of {department, faculty, degree_level, program_name, duration}
     """
-    txt_path = _CORPUS_DIR / "academic_programmes.txt"
+    txt_path = _EXTRACTED_DIR / "academic_programmes.txt"
     if not txt_path.exists():
         print(f"[csv_builder] Warning: {txt_path} not found — skipping CSV build")
         return []
