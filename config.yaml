@@ -2,9 +2,9 @@
 # All tunable values live here. No hardcoded constants in any Python file.
 
 # ── Paths ──────────────────────────────────────────────────────────────
-corpus_dir: "../../NED- Corpus for admission bot"
-extracted_dir: "./data/extracted"
-csv_output: "./data/programs.csv"
+corpus_dir: "data/extracted"
+extracted_dir: "data/extracted"
+csv_output: "data/programs.csv"
 db_path: "./admission_assistant.db"
 
 
