@@ -1,0 +1,47 @@
+# ── Python ──────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.pytest_cache/
+
+# ── Virtual environment ─────────────────────────────────────────────
+venv/
+.venv/
+env/
+
+# ── Environment ─────────────────────────────────────────────────────
+.env
+
+# ── IDE ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── SQLite databases (auto-created by pipeline) ─────────────────────
+*.db
+*.sqlite
+
+# ── FAISS index (auto-created by ingestion) ─────────────────────────
+admission_bot/data/index/
+*.faiss
+*.meta
+
+# ── Extracted text (auto-created by ingestion) ──────────────────────
+admission_bot/data/extracted/
+admission_bot/data/programs.csv
+admission_bot/data/raw/
+
+# ── Corpus source (large, not part of the code) ─────────────────────
+NED- Corpus for admission bot/
+
+# ── Ollama models (large binaries, local only) ──────────────────────
+models/
+*.gguf
+
+# ── OS ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

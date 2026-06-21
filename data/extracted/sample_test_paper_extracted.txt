@@ -1,0 +1,572 @@
+NED UNIVERSITY OF ENGINEERING & TECHNOLOGY, 
+UNIVERSITY ROAD, KARACHI-75270 
+Tel: 99261261-8 Fax: (92-21) 99261255 
+E-Mail:    registrar@neduet.edu.pk Web Site: http://www.neduet.edu.pk 
+ 
+SAMPLE QUESTIONS 
+FOR 
+COMPUTER BASED PRE-ADMISSION ENTRY TEST 
+BACHELOR PROGRAMMES 
+(REGULAR/SELF FINANCE) 
+Each Section carries five examples of the question type contained in the Test Paper in 
+the subject of English, Mathematics/Biology/Economics/English Comprehension, 
+Physics/Statistics/Business Mathematics, Basic Mathematics and Chemistry/Computer 
+Science/Accounting /General Knowledge. 
+For further details related to structure of question paper for different groups, pleae refer to 
+FAQs on FAQ.pdf (neduet.edu.pk)  
+Duration of the Test shall be two hours. 
+ 
+(SAMPLE QUESTIONS) 
+ 
+SECTION I (ENGLISH) 
+1. Choose the alternative closest in meaning to the underlined words in the 
+following sentence. 
+He is good at making model airplanes. 
+(A) 
+useful 
+(B) 
+competent 
+(C) 
+clever 
+(D) skillful 
+2. Choose one word to fit the meaning in the following sentence. 
+The teacher asked him to 
+his mistake. 
+(A) 
+expect 
+(B) accept 
+(C) 
+aspect 
+(D) inspect 
+3. Which of the underlined words (given below as options) is incorrect? 
+The idea for the air-supported plastic structures has come from an aeronautical 
+engineer in 1945. 
+(A) 
+for 
+(B) has come 
+(C) 
+an 
+(D) in 
+4. Choose the best option to complete the sentence. 
+Bilal graduates from this University, he wants to go abroad for higher studies. 
+(A) 
+By the time 
+(B) After 
+(C) 
+Before 
+(D) Until 
+5. Read the given paragraph and choose the best option as the summary. 
+For centuries Asia has suffered under the insolence of the White Man, I have myself 
+seen this insolence in ways that made my blood boil and that, if I had been and 
+Asian and not a European would have roused me to fury. This long experience of 
+European domination has naturally produced a mood of resistance, and, as always 
+happens in such cases, there is a danger lest the fight for independence should 
+become a desire for conquest. 
+ 
+(A) 
+The White Man's behaviour has produced a rebellious attitude among the 
+Asians. 
+(B) 
+The White Man's insolence has affected both the Europeans and the Asians. 
+(C) 
+ There is danger that the Asians may strike back in reaction to the White 
+Man's domination. 
+(D) 
+Asians have suffered at the hands of the Europeans.
+
+SECTION II (MATHEMATICS) - (For Pre-Engineering Group) 
+1. The product of (2,3) and (1,1) is 
+. 
+(A) 
+(2,3) 
+(B) (1,5) 
+(C) 
+(1,-5) 
+(D) (-1,5) 
+ 
+2. cosec 2x - cot 2x = 
+(A) 
+sec x 
+(B) cos x 
+(C) 
+cot x 
+(D) tan x 
+ 
+3. The limit of (x2 - 4) I (x2 - 2x) as x tends to 2 is 
+. 
+(A) 
+0 
+(B) 2 
+(C) 
+-2 
+(D) 4 
+ 
+4. Equation of normal to the parabola y = 5 - x2 at the point where x = 2 is 
+. 
+(A) 
+4y - x = 8 
+(B) 4y - x = 2 
+(C) 
+y + 4x = 9 
+(D) y + 4x = 7 
+5. ƒ2 (𝑥—  1 ) 𝑑𝑥 = 
+1 
+x2 
+ 
+(A) 
+0 
+(B) 1 
+(c) 
+2 
+(D) 4 
+ 
+OR 
+SECTION II (BIOLOGY) - (For Pre-Medical Group) 
+1. In plants, inorganic salts are absorbed from the soil to the upper regions of 
+the plants where they can be utilized during metabolism. This process is known 
+as: 
+(A) Transportation 
+(B) Transpiration 
+(C) Photosynthesis 
+(D) Osmosis 
+ 
+2. Which of the following statements is NOT true? 
+(A) 
+Arteries have a smaller lumen than veins. 
+(B) 
+Arterial walls contain much elastic tissue and smooth muscle. 
+(c) 
+Blood flow through veins occurs against gravity. 
+(D) 
+Arteries carry blood towards the heart. 
+3. "The appearance of an individual on the basis of inherent traits including both 
+physical and Physiological" is the definition of 
+(A) 
+Phenotype 
+(B) genotype 
+(C) homozygous 
+(D) heterozygous 
+ 
+4. Protein synthesis takes place in 
+(A) 
+Ribosome 
+(B) Mitochondria (C) Endoplasmic Reticulum (D) Golgi apparatus 
+ 
+5. Which of the following, regarding DNA, is incorrect? 
+(A) 
+Adenine pairs with Tymine 
+(B) cytosine pairs with Gnanine 
+(C) 
+There are two hydrogen bonds between A and T (A=T) and three between c and G (c=G) 
+(D) 
+The coiling of double helix is left handed.
+
+OR 
+SECTION II (ECONOMICS) - (For Commerce Group) 
+1. The number of factors of production is? 
+(A) 
+One 
+(B) Two 
+(C) 
+Three 
+(D) Four 
+ 
+2. The law of diminishing marginal returns applies especially to: 
+(A) 
+Industry 
+(B) Agriculture (C) 
+Mining 
+(D) None of these. 
+ 
+3. The utility is maximum when marginal utility is: 
+(A) 
+Positive 
+(B) Negative 
+(C) 
+Zero 
+(D) None of these. 
+ 
+4. The total cost is equals to: 
+(A) A.Fc+A.Vc 
+(B) Fc+Vc 
+(C) Fc+A.Vc 
+(D) Fc+Mc 
+ 
+5. The book 'Wealth of Nation' is written by: 
+(A) 
+J. S. Mill 
+(B) Adam Smith 
+(C) Robert Malthus (D) William Robbins 
+ 
+OR 
+SECTION II ENGLISH (Reading Comprehension) - (For Humanities Group) 
+Question: Read the given passages and answer the comprehension questions by selecting the best option 
+for each question 
+Passage One 
+Those privileged members of the community who have been through a secondary or public school 
+education may be expected to know something about the elementary physics and chemistry of a hundred 
+years ago, but they probably know hardly more than any bright boy can pick up from an interest in wireless 
+or scientific hobbies out of school hours. As to the learning of scientific method, the whole thing is 
+palpably a farce. Actually, for the convenience of teachers and the requirements of the examination 
+system, it is necessary that the pupils not only do not learn scientific method but learn precisely the 
+reverse, that is, to believe exactly what they are told and to reproduce it when asked, whether it seems 
+nonsense to them or not. The way in which educated people respond to such quackeries as spiritualism or 
+astrology, not to say more dangerous ones such as racial theories or currency myths, shows that fifty years 
+of education in the method of science in Britain or Germany has produced no visible effect whatever. 
+Adapted from: The Social Function of Science, John D Bernal (1939) 
+1. The author blames all of the following for the failure to impart scientific method through the 
+education system except 
+(A) poor teaching 
+(B) examination method 
+(C) lack of interest on the part of students 
+(D) lack of direct experience 
+ 
+2. If the author were to study current education in science to see how things have changed since he 
+wrote the piece, he would probably be most interested in the answer to which of the following 
+questions? 
+(A) Do students know more about the world about them? 
+(B) Do students spend more time in laboratories? 
+(C) Can students apply their knowledge logically? 
+(D) Have textbooks improved? 
+3. Astrology is mentioned as an example of 
+(A) a science that needs to be better understood 
+(B) a belief which no educated people hold 
+(C) something unsupportable to those who have absorbed the methods of science 
+(D) an acknowledged failure of science
+
+SECTION III (PHYSICS) 
+1. The magnitude of the resultant vector of the vectors 2i + 2j - k and j + 7k is 
+. 
+ 
+(A) 
+0 
+(B) 
+5 
+(C) 
+7 
+(D) 10 
+2. If g = 9.8 m/sec2 at 
+radius of earth is 
+the surface 
+. 
+of earth, the value of 'g' at a height equal to the 
+(A) 
+0 
+(B) 
+2.45 
+(C) 
+4.9 
+(D) 9.8 
+3. The coefficient of cubical expansion of a substance depends upon 
+. 
+ 
+(A) 
+change in volume 
+(B) 
+original volume 
+(C) 
+rise in temperature 
+(D) 
+none of these 
+4. A radio station broadcasts at frequency of 2000 kHz, having a wave length of 
+(A) 2000 m 
+(B) 1000 m 
+(C) 
+300 m 
+(D) 150 m 
+5. Gamma rays are fast moving 
+. 
+(A) 
+electrons 
+(B) protons 
+(C) 
+neutrons 
+(D) photons 
+ 
+OR 
+SECTION III (STATISTICS) - (For Science Group / Statistics) 
+ 
+1. Find the modal value of the following data 2, 3, 4, 5,6, 6, 7, 8? 
+(A) 
+5 
+(B) 7 
+(C) 
+6 
+(D) 8 
+2. How many committees of size 3 can be formed from a group of 4 men and 5 women, if there 
+is no restriction? 
+(A) 
+508 
+(B) 84 
+(C) 
+42 
+(D) 61 
+3. Find the number of permutation of letters of the word, all taken together THATTA? (A) 60 
+(B) 
+720   (C) 
+120 (D) 150 
+4. If two coins are tossed simultaneously find probability that at least 1 head appears. (A) 
+0.25 
+(B) 0.50 
+(C) 
+0.75 
+(D) 1.00 
+5. If A = [0, 1, 2, 3], B = [2, 3, 4], c = [4, 5, 6, 7, 8] find the order of (A U B)? 
+(A) 
+15 
+(B) 5 
+(C) 
+7 
+(D) 10
+
+OR 
+SECTION III (BUSINESS MATHEMATICS) - (For Commerce Group) 
+ 
+ 
+OR 
+SECTION III (BASIC MATHEMATICS) - (For Humanities Group) 
+ 
+1. If set A= {1, 2, 3, 4} and set B= {a, b, c, d}, the order of AUB is   
+ 
+ 
+(A) 
+4 
+(B) 
+8 
+(C) 
+2 
+(D) 
+16 
+ 
+2. The average of five number 1, 2, 3, 4, x is 5, find x? 
+ 
+(A) 
+5 
+(B) 
+15 
+(C) 
+10 
+(D) 
+20 
+ 
+3. One root of the equation x2 + 5x – 6 = 0 is   
+ 
+ 
+(A) 
+2 
+(B) 
+3 
+(C) 
+0 
+(D) 
+-6 
+ 
+4. If Matrix 𝐴 = [7 
+4] and Matrix 𝐴 = [1 
+0], find determinant of A+B is   
+ 
+3 2 
+0 1 
+(A) 
+12 
+(B) 
+24 
+(C) 
+0 
+(D) 
+36 
+ 
+5. The linear equation x + y = 1 and x = 2, find the value of x and y? 
+(A) 
+1 & -1 (B) 
+2 & -1 (C) 
+2 & 1 (D) 
+3 & -1
+
+SECTION IV (CHEMISTRY) 
+ 
+1. Under what conditions of temperature and pressure will a real gas behave most like an 
+ideal gas? 
+ 
+(A) 
+low temperature & low pressure 
+(B) 
+low temperature & high pressure 
+(C) 
+high temperature & low pressure 
+(D) 
+high temperature & high pressure 
+ 
+2. For complete oxidation, 1 mol of an organic compound requires 3 mol of oxygen gas. 
+What could be the formula of the compound? 
+(A) 
+CH3CH2OH 
+(B) CH3CHO 
+(C) 
+CH3CH3 
+(D)  CH3CO2H 
+ 
+3. Ammonia gas can be obtained by heating an ammonium salt with 
+. 
+ 
+(A) 
+an acid 
+(B) an alkali 
+(C) 
+an oxidizing agent 
+(D) 
+a reducing agent 
+ 
+(A) an acid 
+(B) an alkali 
+(C) an oxidizing agent 
+(D) a reducing agent 
+4. An example of a polymer made from two different monomers is 
+. 
+(A) 
+polythene 
+(B) nylon 
+(C) 
+PVC 
+(D) protein 
+ 
+5. Maximum possible number of electrons in an energy level or shell 'n' is given by 
+(A) 2n2 
+(B) 4n2 
+(C) 
+4n 
+(D) 2n4 
+OR 
+SECTION IV (COMPUTER SCIENCE) - (For Science Group) 
+ 
+1. 
+The component of CPU that manages all operations is called? 
+ 
+(A) Arithmetic and Logic Unit 
+(B) 
+control Unit 
+(c) Linker 
+(D) 
+Memory Unit 
+ 
+2. 
+  
+is the name of a computer virus.? 
+(A) Hypertext 
+(B)Boot sector 
+(C)   Trojan Horse 
+(D) Shell 
+ 
+3. 
+  
+ is a small amount of storage available as part of CPU? 
+ 
+(A) Buffer 
+(B) ROM 
+(C)   RAM 
+(D) Register 
+ 
+4.   
+is computer software designed to operate and control the computer 
+hardware and to provide a platform for running 
+(A) Application software, system software 
+(B) Application software, system software 
+(C) System software, operating system 
+(D) Application software, operating system 
+ 
+5. The 
+statement computes the value of an arithmetic expression and 
+assigns the result of that to a variable. 
+(A) 
+LET 
+(B) FOR 
+(C) 
+REM 
+(D) Data
+
+OR 
+SECTION IV (ACCOUNTING) - (For Commerce Group) 
+ 
+1. Which of the following equations properly represents a derivation of the fundamental 
+accounting equation? 
+(A) Assets + liabilities = owner's equity. (B) Assets = owner's equity 
+(C) cash = assets. 
+(D) Assets - liabilities = owner's equity. 
+ 
+2. Which of these items would be accounted for as an expense? 
+ 
+(A) Repayment of a bank loan. 
+(B) 
+Dividends to stockholders 
+(C) 
+The purchase of land. 
+(D) 
+Payment of the current period's 
+ 
+3. Akbar had beginning total stockholders' equity of Rs. 160,000. During the year, total 
+assets increased by Rs. 240,000 and total liabilities increased by Rs. 120,000. Akbar net 
+income was Rs. 180,000. No additional investments were made; however, dividends did 
+occur during the year. How much were the dividends? 
+(A)   Rs. 20,000. 
+(B) Rs. 60,000. 
+(C)   Rs. 140,000. 
+(D) Rs. 220,000. 
+ 
+4. 
+On a classified balance sheet, the appropriate ordering of specific classifications is: 
+(A) current assets; long-term investments; property, plant, and equipment; 
+intangible assets; other assets 
+(B) 
+current assets; property, plant, and equipment; long-term investments; 
+intangible assets; other assets. 
+(C) 
+current assets; intangible assets; property, plant, and equipment; 
+long-term investments; other assets. 
+(D) current assets; other assets; long-term investments; intangible assets; 
+property, plant, and equipment. 
+5. The proper journal entry to record Raheem company's billing of clients for Rs. 500 of 
+services rendered is: 
+ 
+(A) Cash 
+500 
+(B) Accounts Receivable 500 
+Account Receivable 500 
+Capital Stock 
+500 
+(C) Account Receivable 500 
+(D) Cash 
+500 
+Service Revenue 
+500 
+Service Revenue 
+500
+
+OR 
+SECTION IV (GENERAL KNOWLEDGE) - (For Humanities Group) 
+ 
+1. Which surah is preface of Holy Quran? 
+(A) Al-fatiha 
+(B) Al-Baqarah 
+(C) Al-Ikhlas 
+(D) Al-Falaq 
+2. Prophet Muhammad (PBUH) belonged to 
+family. 
+(A) Banu Anus 
+(B) Banu Khuzah 
+(C) Banu Hashim 
+(D) Banu Qainoqua 
+3. USA, UK, France, Russa and China are the permanent members of; 
+(A) UNO 
+(B) European Union 
+(C) Security Council 
+(D) Council of Welfare 
+4. Who is associated with the creation of Facebook? 
+(A) Mark Zuckerberg 
+(B) Steve Jobs 
+(C) Bill Gates 
+(D) Larry Page 
+5. Which is the planet closest to the sun in the solar system? 
+(A) Venus 
+(B) Mercury 
+(C) Mercury 
+(D) Jupitar

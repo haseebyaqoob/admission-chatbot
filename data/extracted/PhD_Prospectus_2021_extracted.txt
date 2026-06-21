@@ -1,0 +1,8280 @@
+NED University of  
+Engineering & Technology 
+Ph.D. 
+Programme 
+Prospectus 2021
+
+FOREWORD 
+ 
+ 
+NED University of Engineering & Technology is one of the two oldest engineering 
+institutions in Pakistan and well known throughout the world in engineering education. It 
+consistently endeavours for quality of teaching and research. Having a long history of 
+engineering education, the University is committed to its future growth and development 
+and believes in establishing environment conducive to continual improvement in its efforts 
+for providing the highest level of quality engineering education. 
+ 
+The aim of this programme is to create high quality valued human capital capable of 
+changing the research environment in the country and at the same time compete with the 
+emerging world leaders in research and innovation. This programme is designed to provide 
+our students with state of the art analytical, design and computing skills that underpin 
+modern engineering practices, while encouraging the creativity and problem-solving skills 
+that are so important for a good engineer. The courses aim at producing engineers both for 
+local and global market.  
+ 
+We believe in training our graduates to be leaders both technically and ethically and 
+emphasize multidisciplinary activities in education, service and research. We maintain a 
+friendly, supportive and diverse environment that encourages our faculty and students to 
+achieve their best, which is aptly provided in the quality policy which is strictly adhered to.  
+ 
+This prospectus provides necessary information to all the aspirants who wish to seek 
+admission in the PhD programmes in various engineering and non-engineering disciplines.  
+ 
+ 
+ 
+ 
+Dr. S. H. Lodi 
+Vice-Chancellor
+
+Contents 
+1. 
+General Information 
+1 
+1.1 Historical Background of  
+theUniversity 
+1 
+1.2 Administration & Academic  Support 
+3 
+2. 
+Department of Civil Engineering  
+4 
+2.1 Research Facilities 
+4 
+2.2 Academic and Industrial Research 
+ Endeavors and Linkages 
+6 
+2.3 Faculty Members 
+9 
+2.4 Research Areas  
+10 
+3. 
+Department of Environmental Engineering  
+13 
+3.1 Research Facilities  
+13 
+3.2 Research Areas  
+14 
+3.3 Faculty Members 
+14 
+4. 
+Department of Earthquake Engineering 
+15 
+4.1 Research Facilities 
+15 
+4.2 Expertise Available  
+15 
+4.3 Research Areas  
+16 
+4.4 Faculty Members 
+16 
+5. 
+Department of Architecture and Planning  
+17 
+5.1 Research Facilities 
+17 
+5.2 Research Areas 
+18 
+5.3 Faculty Members 
+18 
+6. 
+Department of Urban and Infrastructure 
+Engineering  
+19 
+6.1 Research Facilities  
+19 
+6.2 Research Areas 
+22 
+6.3 Faculty Members 
+23 
+7. 
+Department of Mechanical Engineering  
+24 
+7.1 Research Facilities 
+24 
+7.2 Academic & Industrial Research  
+Projects and Linkages  
+27 
+7.3 Research Areas  
+28 
+7.4 Faculty Members 
+29 
+8. 
+Department of Industrial and Manufacturing 
+Engineering  
+30 
+8.1 Research Facilities 
+30 
+8.2 Research Areas  
+31 
+8.3 Faculty Members 
+33 
+9. 
+Department of Textile Engineering  
+34 
+9.1 Laboratory Facilities 
+34 
+9.2 Research Areas  
+35 
+9.3 Faculty Members 
+35 
+10. 
+Department of Electrical Engineering  
+37 
+10.1 Research Facilities 
+37 
+10.2 Academic & Industrial Linkages 
+38 
+ 
+10.3 Thematic Research   
+39 
+10.4 Faculty Members 
+40 
+11. 
+Department of Computer and  
+Information Systems  
+41 
+11.1 Research Facilities 
+41 
+11.2 Post Graduate Research    
+43 
+11.3 Research Areas 
+43 
+11.4 Faculty Members 
+43 
+12. 
+Department of Electronics Engineering  
+44 
+12.1 Research Facilities 
+44 
+12.2 Faculty Members 
+47 
+13. 
+Department of Materials Engineering  
+48 
+13.1 Research Facilities 
+48 
+13.2 Research Areas  
+49 
+13.3 Faculty Members 
+50 
+14. 
+Department of Bio-Medical Engineering  
+51 
+14.1 Research Areas 
+51 
+14.2 Research Facilities   
+51 
+14.3 Academic & Industrial Research  
+Endeavours and Collaborations 
+52 
+14.4 Faculty Members 
+53 
+15. 
+Department of Computer Science & 
+Information Technology 
+54 
+15.1 Research Facilities 
+54 
+15.2 Research Areas  
+54 
+15.3 Faculty Members 
+56 
+16. 
+Department of Mathematics  
+57 
+16.1 Research Facilities  
+57 
+16.2 Research Areas 
+57 
+16.3 Faculty Members 
+57 
+17. 
+Miscellaneous Research Facilities 
+58 
+17.1 Department of Petroleum Engineering 58 
+17.2 Department of Automotive Engineering 
+58 
+17.3 Department of Chemical Engineering 
+58 
+18. 
+Regulations for Doctor of Philosophy Degree 
+59 
+1. 
+Title and Nature of Degree 
+59 
+ 
+2. 
+Commencement   
+59 
+3. 
+Criteria and Procedure for Admission   
+59 
+4. 
+General Scheme of Studies  
+60 
+5. 
+Research Assignment and Supervision  
+61 
+6. 
+Progress of Work  
+61 
+7. 
+Submission and Evaluation of Thesis 
+62 
+8. 
+Award of Degree  
+63 
+9. 
+Publication of Thesis 
+63 
+10. Remuneration of Examiners, Fees and  
+Other Charges  
+64 
+11. University Fees and Deposit 
+ 
+64
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+1 
+General Information 
+ 
+1. GENERAL INFORMATION 
+1.1 HISTORICAL BACKGROUND OF THE UNIVERSITY 
+The 
+NED 
+University 
+of 
+Engineering &Technology was 
+established in March 1977 
+under an act of the Provincial 
+Assembly 
+of 
+Sindh 
+after 
+upgrading of the former NED 
+Government 
+Engineering 
+College, which was set up in 
+1922. The NED University is 
+thus 
+one 
+of 
+the 
+oldest 
+institution in Pakistan for  
+teaching 
+and 
+producing 
+Engineering graduates. Prior to 
+this, the D.J.SindhCollege, used 
+to 
+run 
+classes 
+to 
+train 
+subordinates for the Sindh 
+P.W.D., the Municipalities and 
+Local Boards.  
+ 
+On August 29, 1921 College 
+Principal CS Shahani made a 
+concerted 
+effort 
+to 
+get 
+Engineering Degree 
+classes 
+started to meet demands of 
+Civil Engineers on the project 
+for completion of the Sukkur 
+Barrage. Application to this 
+effect was made to 
+the 
+University of Bombay through 
+the Commissioner of Sindh, 
+who was ex-officio president 
+of Sindh Collegiate Association 
+(a 
+registered 
+society 
+of 
+subscribers 
+for 
+providing 
+higher education in Sindh). The 
+Bombay University however 
+rejected the application on the 
+grounds of insufficient finance 
+and 
+insisted 
+on 
+entirely 
+separate 
+buildings, 
+laboratories 
+for 
+the 
+engineering 
+college 
+as 
+a 
+separate 
+institution. 
+After 
+collection of donations from 
+the Puribai and Becharbai 
+Trust, 
+VishandasFatehchandBrothers 
+and one huge donation (for 
+that time) of Rs.150,000 from 
+Mr.NadirshawEduljiDinshaw, 
+the new college buildings and 
+laboratories were constructed 
+on separate land. The new 
+college was originally the 
+Prince of Wales Engineering 
+College but later renamed in 
+memory 
+of 
+NadirshawEduljiDinshaw. The 
+NED College was provisionally 
+granted affiliation on 23-05-
+1923 by the University of 
+Bombay for the first and 
+second year courses in Civil 
+Engineering and 78 students 
+were provisionally admitted 
+into first year classes in 1922. 
+Permanent affiliation followed 
+in February 1927. 
+ 
+The first-full time Principal of 
+NED Engineering College was 
+Mr. GN Gokhale who joined on 
+1st July 1923. Prior to this, Rai 
+Sahib Bhupatrai had acted as 
+Honorary Principal. The first 
+professor (and Vice Principal) 
+was Mr. SB Jannarkar who, 
+along with Mr.Gokhale, did all 
+the spadework in organizing 
+and equipping the various 
+departments and ordering the 
+equipment for the Power 
+House, 
+Boiler 
+Room, 
+Hydraulics Laboratory, Engine 
+Room and Machine Shops. 
+ 
+The original NED Engineering 
+College was housed in four 
+blocks of buildings and two 
+sheds. The main block was 
+named 
+as 
+Seth 
+FatehchandDewandasKhilnani 
+Hall. The block housing the 
+Power 
+House, 
+Electrical 
+andHydraulics 
+Laboratories, 
+and Workshops was named 
+after BaiPuribai and Bacharbai. 
+Further additions were made 
+to this 
+block to provide 
+accommodation 
+for 
+the 
+Machine Shop on the ground 
+floor 
+and 
+a 
+(Mechanical) 
+Drawing Hall on the first floor. 
+The fourth block, completed in 
+1945,contained a Classroom 
+and Clerk’s Office on the 
+ground floor and another 
+(Civil) Drawing Hall on the first 
+floor. 
+ 
+Two sheds were also built, one 
+to house the Carpentry and 
+Smithy Shops, and the other, 
+alongside 
+the 
+Electrical 
+Laboratory and Engine Room, 
+to train technicians. The total 
+cost of the buildings was just 
+over Rs. 265,000 and the cost 
+of 
+equipment 
+(including 
+machinery, 
+electrical 
+instruments; models, steam, 
+gas and oil engines; surveying 
+and 
+levelling 
+instruments), 
+books and furniture was just 
+under Rs. 400,000.  
+ 
+The college remained affiliated 
+to the University of Bombay 
+from its inception in 1922 to 
+1947, after which it was taken 
+over by the Government of 
+Sindh; 
+renamed 
+as 
+NED 
+Government 
+Engineering 
+College and affiliated to the 
+University of Sindh. After 
+establishment 
+of 
+the 
+University of Karachi in 1951, 
+the affiliation of the College 
+was 
+transferred 
+to 
+this 
+University. 
+In 
+1964 
+a 
+comprehensive 
+plan 
+was 
+prepared to shift the college 
+from 
+its 
+location 
+in 
+the 
+congested 
+downtown 
+area 
+(where no expansion was 
+possible) 
+to 
+a 
+new 
+site 
+adjoining the University of 
+Karachi. 
+The 
+project 
+was
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+2 
+General Information 
+ 
+carried 
+out 
+with 
+the 
+assistance of the World Bank 
+which 
+provided 
+Rs.118 
+millions in two phases and the 
+College was shifted to its new 
+40 hectare Main Campus in 
+1975. 
+ 
+ 
+ 
+ 
+ 
+ 
+On the 1st of March, 1977 the 
+NED Government Engineering 
+College 
+became the NED 
+University of Engineering and 
+Technology. 
+From 
+an 
+enrolment of 50 students in 
+1923, the student population, 
+at both undergraduate and 
+graduate levels, has now gone 
+up to nearly 8458. The faculty 
+of Bio-MedicalEngineering is 
+located at NED LEJ Campus for 
+which the land and building - 
+estimated 
+value 
+Rs. 
+350 
+million - was donated by 
+(Late) LatifEbrahim Jamal, a 
+well-known philanthropist. 
+The first Vice Chancellor of 
+the University was Mr. A. M. 
+Akhoond who was succeeded 
+in sequential order by Prof. 
+Dr. A. T. Khan, Prof. Dr.Jameel 
+Ahmed Khan, Prof. Dr. M. 
+MunirHasan, Prof. Dr. A. Q. 
+Qazi and Engr. AbulKalam. 
+Prof. Dr. M. AfzalHaque, is the 
+present 
+Vice 
+Chancellor.
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+General Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+4 
+  Department of Civil Engineering 
+ 
+2. DEPARTMENT OF CIVIL ENGINEERING 
+The Department of Civil Engineering 
+has been offering a broad based four-year 
+programme 
+leading 
+to 
+Bachelor 
+of 
+Engineering (Civil Engineering) over the past 
+several decades. In 2012, the Department 
+started offering four-year programme leading 
+to Bachelor of Engineering (Construction 
+Engineering) to be the first of its kind 
+programme in Pakistan. The graduates from 
+this department have not only earned 
+distinctions in the practical field but many of 
+them also have distinguished themselves as 
+known researchers and scholars throughout 
+the globe. Many of the final year projects 
+have been of high academic and research 
+value, and quite a few research papers have 
+been published through these undergraduate 
+research projects. 
+With respect to the postgraduate 
+programme and related research activities, 
+the 
+department 
+holds 
+the 
+following 
+distinctions: 
+ 
+1. 
+The 
+Department 
+became 
+the 
+firstdepartment of the University to 
+offer a programme leading to the 
+Master 
+of 
+Engineeringin 
+Civil 
+Engineering from the session 1979-80. 
+2. 
+The Departmentbecame the initiator 
+to start theMaster of Engineering 
+Programme for the first time in 
+Transportation 
+Engineering 
+inPakistan. 
+3. 
+The 
+Department 
+pioneered 
+the 
+Master of Engineering Management 
+Programme 
+in 
+Construction 
+Management in Pakistan in 2005. 
+4. 
+The Department became the initiator 
+to start the Master of Engineering 
+Management Programme in Water 
+Resources Management in Pakistan in 
+2011. 
+ 
+ 
+ 
+2.1 RESEARCH FACILITIES 
+ 
+Laboratory Facilities 
+Apart from undergraduate laboratories 
+for Materials Testing, Structures and Soil 
+Mechanics, which house the basic testing 
+facilities, new postgraduate laboratories are in 
+the process of development. 
+Advanced 
+Structural 
+Engineering 
+testing 
+facility 
+already 
+exists 
+with 
+theDepartment, where research work and 
+proposal 
+leading 
+to 
+Ph.D. 
+could 
+well 
+beundertaken. The laboratories are equipped 
+with state-of-the-art Times Group 2000kN 
+Universal Testing Machine, Shimadzu 500 kN 
+Universal 
+Testing 
+Machine,Forney 
+Compression Testing Machine of 2000 kN 
+capacity, 
+Tinus 
+Olsen 
+UniversalTesting 
+Machine of 60,000 pounds, a Forney Pipe 
+Testing Machine of 300 kNcapacity, apart 
+from other equipment for testing and data 
+acquisition. The laboratoryequipment have 
+been over-hauled and calibrated. 
+New 
+advanced 
+Material 
+Testing 
+facilityhas recently been commissioned. It is 
+equipped 
+with 
+state-of-the-artequipment, 
+reaction floor and reaction wall, which will be 
+used fortesting of structures, subjected to 
+vertical and lateral loads. The laboratory has the 
+facility totest pre-stressed girders up to 110 ft. 
+long. 
+Equipment 
+includes 
+a 
+Portal 
+Framedesigned to work with the 5000 kN 
+Pseudo 
+Dynamic 
+Test 
+System. 
+This 
+systemconsists of 2 large structural H beams to 
+provide the vertical support and is mountableto 
+reaction floor. Complete system includes 5000 
+kN actuator, Hydraulic PowerSupply, Hydraulic 
+Service Manifold, Digitally supervised analogue 
+servo controls,Pseudo dynamic application 
+software, and a 300 channel data acquisition 
+system.Other 
+equipment include 
+Dynamic 
+Hydraulic 
+Linear 
+Actuator 
+55 
+kip 
+(250 
+kN),Dynamic Hydraulic Linear Actuator 110 kip 
+(500 kN), Structural Test HydraulicActuator 
+220/335 kip (1000/1500kN), Hydraulic Linear 
+Actuator 450/600 kip (2000kN/2670 kN), 300 
+Channel Data Acquisition System, LVDTs, Load
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+5 
+  Department of Civil Engineering 
+ 
+Cells. The facility is now shared and being 
+administered 
+by 
+the 
+Department 
+of 
+Earthquake Engineering. 
+The 
+postgraduate 
+Geo-technical 
+laboratory has acquired a Seismograph 
+alongwith the already 
+existing facilities 
+comprising of Triaxial Testing Machine and 
+Plate Loading Test equipment. The laboratory 
+has been extensively utilised for postgraduate 
+research leading to Ph.D. 
+Fluid 
+Mechanics 
+and 
+Hydraulic 
+Laboratory features 12.5m long open channel 
+to test various hydraulic structures. Newly 
+procured hydraulic bench allows testing of 
+pumps and pelt on turbine at variable flows 
+and configurations. Pipe network and pipe 
+friction laboratory apparatus provide an 
+opportunity to test various pipe materials and 
+configuration of pipes in water supply 
+network. Rainfall Simulator provides an 
+opportunity to study the surface water 
+rainfall-runoff relationships. 
+Irrigation 
+and 
+Water 
+Resources 
+Engineering Laboratory has been established 
+recently. Time Domain Reflectometry for 
+irrigation 
+scheduling, 
+Channel 
+loop 
+for 
+sediment transport, Acoustic Velocity meter 
+for 
+on 
+spot 
+flow 
+measurement 
+in 
+stream,automatic water level recorder, GPS 
+and 
+computerised 
+laboratory 
+with 
+GIS 
+capabilities 
+provide 
+opportunities 
+for 
+conducting 
+postgraduate 
+studies 
+and 
+research. 
+Laboratory 
+facilities 
+of 
+other 
+departments may also be utilised for research 
+purposes as well as other departments are 
+also 
+being 
+benefited 
+by 
+the 
+facilities 
+mentioned. 
+The 
+Department 
+has 
+recently 
+launched a Water Modelling Centre, which 
+can serve researchers, students, and the 
+society in terms of providing capability for 
+managing water related issues, enhance 
+water 
+and 
+environmental 
+conditions 
+throughout the country, perform flood and 
+watershed 
+management 
+practices, 
+and 
+develop 
+models 
+for 
+the 
+upcoming 
+environmental challenges. 
+ 
+Computing Facilities 
+The Department of Civil Engineering 
+has special computing facilities housed in 
+Postgraduate Computational Centre. The 
+Centre contains modern computing facilities, 
+scanners, plotter, and laser printing facilities. 
+The Centre also contains a state-of-the-art 
+Structural Engineering Software Library, which 
+comprises of packages for analysis and design 
+of RC structures including CSI software and 
+TNO Diana. The CSI Package with network 
+license consists of SAP 2000, ETABS, SAFE and 
+CSI Section Builder. 
+The 
+Department 
+has 
+its 
+main 
+computer centre which runs under a System 
+Manager 
+and 
+is 
+equipped 
+with 
+70 
+workstations along with scanning and printing 
+facilities. It has a large number of licensed 
+software related to Civil Engineering and its 
+various 
+specializations. 
+Additionally, 
+the 
+Department has a postgraduate computer 
+centre, 
+which 
+is 
+equipped 
+with 
+15 
+workstations along with scanning and printing 
+facilities. It has a hardware and software 
+support 
+conducive 
+to 
+undertaking 
+postgraduate 
+research 
+activities 
+in 
+the 
+Department. 
+ 
+Other Support 
+Department 
+of 
+Civil 
+Engineering 
+subscribes to a number of international 
+research journals to support the academics 
+and research at the postgraduate level. 
+Department of Civil Engineering has 
+also the honour of being the country’s 
+Information 
+Node 
+on 
+FERROCEMENT. 
+Ferrocement 
+International 
+Network 
+(FINPAKISTAN) 
+was 
+established 
+in 
+the 
+Department through International funding 
+in1990, and since then has been serving as 
+National 
+Node 
+for 
+disbursing 
+research 
+material, disseminating related knowledge 
+and imparting know-how in ferrocement.
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+6 
+  Department of Civil Engineering 
+ 
+TheNational 
+node 
+working 
+under 
+INTERNATIONAL NODE at IFIC-AIT-BANGKOK, 
+has access related to the research endeavours 
+in 
+Ferrocement, 
+and 
+has 
+links 
+with 
+researchers, and resource persons in this 
+field. 
+The Department of Civil Engineering 
+established 
+Cowasjee 
+Earthquake 
+Study 
+Centre (CESNED) in year 2001 after the 
+devastating Bhuj earthquake. The objectives 
+of this endeavour include housing national 
+and global data pertaining to earthquakes and 
+act as a centre for disseminating accumulated 
+knowledge, as well to respond to emergency 
+needs and be able to provide guiding 
+principles for pre and post-earthquake 
+mitigation. Recently, CESNED has been 
+strengthened with the installation of a 3m 
+×3m Shore Western Seismic Table and Syscom 
+Strong Motion Recorder. Earthquake shaking 
+tables are used extensively in seismic 
+research, as they provide the means to excite 
+structures in such a way that they are 
+subjected to conditions representative of true 
+earthquake ground motions. The shake table 
+system has been used to simulate earthquake 
+loading on masonry structures. A scaled 
+model of a typical block masonry house was 
+recently 
+tested 
+to 
+assess 
+the 
+seismic 
+behaviour of block masonry construction. The 
+activities of CESNED are now administered by 
+the Department of Earthquake Engineering. 
+NED-CEST 
+(NED-Centre 
+for 
+Engineering Software and training) is also 
+instrumental in the Department and works in 
+collaboration with ACEMOS, AIT, Bangkok. 
+ 
+2.2 ACADEMIC AND INDUSTRIAL RESEARCH 
+ENDEAVORS AND LINKAGES 
+ 
+The Department has shown significant 
+progress 
+in 
+the 
+area 
+of 
+earthquake 
+engineering over the last several years. It is 
+part of several projects related to capacity 
+building funded by UNDP and UNESCO on 
+topics related to earthquake engineering, 
+seismology and impact of tsunamis. These 
+endeavors have led to the establishment of 
+the Department of Earthquake Engineering. 
+The 
+Department 
+has 
+also 
+endeavoured 
+in 
+the 
+improvement 
+of 
+construction project management framework 
+in the local construction industry. One of the 
+key endeavours undertaken in this regard was 
+a Pak-US collaborative USAID funded project 
+between 2006-2010. As a key outcome of this 
+endeavour, strong academic and research 
+linkages 
+have 
+developed 
+with 
+Florida 
+International University, USA, East Carolina 
+University, USA, and Auburn University, USA. 
+A summary of recent academic 
+research endeavours by the Department is 
+provided below: 
+ 
+Name of Project 
+Funding 
+Agency 
+Development of a Strategic 
+Model for Improvement of 
+Construction 
+Project 
+Management 
+education, 
+research 
+and 
+practice 
+in 
+Pakistan. 
+USAID-HEC 
+Building Capacity in Pakistan 
+to 
+Seismically 
+Retrofit 
+Essential Structures 
+USAID-HEC 
+Development of Diagnostic 
+Tool for Assessing Seismic 
+Vulnerability of Buildings 
+NEDUET 
+Quantification 
+of 
+flow 
+resistance for unlined canals in 
+alluvial soils 
+NEDUET 
+EMME - Earthquake Model of 
+the 
+Middle 
+East 
+Region: 
+Hazard, 
+Risk 
+Assessment, 
+Economics & Mitigation 
+Japan 
+Tobacco 
+International 
+Pakistan Tectonics and the 
+2004 Kashmir Earthquake 
+National 
+Science 
+Foundation 
+Fibre 
+Reinforced 
+Polymers 
+(FRP) for Civil Infrastructure in 
+Pakistan 
+HEC 
+ 
+Culminating 
+out 
+of 
+the 
+above 
+collaborative 
+research 
+endeavours, 
+the
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+7 
+  Department of Civil Engineering 
+ 
+Department 
+has 
+been 
+instrumental 
+in 
+organizing 
+the 
+following 
+series 
+of 
+international peer-reviewed conferences in 
+joint partnership with universities from USA. 
+i. 
+Series of International Conferences on 
+Construction in the 21st  Century 
+(CITC) 
+ii. 
+Series of International Conferences on 
+Construction in Developing Countries 
+(ICCIDC) 
+A summary of recent local industry 
+funded 
+research 
+endeavours 
+by 
+the 
+Department is provided below: 
+ 
+Name of Project 
+Funding 
+Agency 
+Use of Extreme bars (Grade 
+75) in Structural Members 
+Amreli Steels 
+Mechanical Properties of 
+Polypropylene 
+fibre 
+reinforced 
+concrete 
+(PPFRC) 
+and 
+structural 
+Applications  
+Matrixx 
+Company 
+Study 
+of 
+properties 
+of 
+locally available cements 
+Lucky Cement 
+Subsurface drainage system 
+design 
+FFC, 
+MirpurMathelo
+ 
+A list of recent research endeavours 
+undertaken by postgraduate students is  
+provided below: 
+ 
+i. 
+Development of a Groundwater 
+Simulation Model for Malir River 
+Basin, Karachi for Sustainable Peri 
+- Urban Water Management 
+ii. 
+Pavement 
+Performance 
+Prediction 
+Modelling 
+using 
+Material Characterization 
+iii. 
+Macroscopic 
+dynamic 
+traffic 
+network 
+models 
+and 
+their 
+validation  
+iv. 
+Calibration 
+of 
+Car-following 
+models for different traffic stream 
+scenarios of Karachi city 
+v. 
+Development of Fragility Curves 
+for Lifelines 
+vi. 
+Condition 
+assessment 
+and 
+strengthening of old distressed RC 
+Residential Buildings 
+vii. 
+Constitutive 
+modelling 
+of 
+concrete subjected to multiaxial 
+state of stress using damage 
+mechanics 
+viii. 
+Seismic Vulnerability Assessment 
+of Existing Building in Pakistan 
+ix. 
+Shear 
+Strength 
+of 
+One-way 
+reinforced 
+concrete 
+flexural 
+members by strut-and-Tie model 
+x. 
+Seismic Vulnerability Assessment 
+of RC Structures using Nonlinear 
+Dynamic Analysis 
+xi. 
+Evaluation of Contribution of 
+Concrete Block Infill Panels on 
+Nonlinear Response of RC Frames 
+xii. 
+Nonlinear Modelling of stone 
+masonry construction 
+xiii. 
+Hazard Assessment of Northern 
+Region Around Karachi using GPS 
+techniques 
+xiv. 
+Development Soil Amplification 
+Contour Maps for Karachi 
+xv. 
+Inventory 
+Development 
+for 
+Building Data in Pakistan 
+xvi. 
+Tsunami  Inundation Modelling 
+for Karachi 
+xvii. 
+Computational modelling of RC 
+Beams 
+Strengthened 
+in 
+predominant Shear and Flexure 
+Loading regions using CFRP 
+xviii. 
+Finite 
+Element 
+based 
+Elastic 
+Plastic 
+Damage 
+model 
+for 
+Reinforced Concrete 
+xix. 
+Achieving Energy Smart Buildings 
+through 
+Building 
+Information 
+Modelling 
+xx. 
+Development 
+of 
+an 
+Artificial 
+Intelligence 
+based 
+tool 
+for 
+Predicting the cost performance 
+of   Construction projects 
+xxi. 
+Building Information Modelling- A 
+cost effective Zero Defects and 
+Zero 
+Accident 
+Solution 
+for
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+ 
+Architecture, 
+Engineering 
+& 
+Construction Industry of Pakistan 
+xxii. 
+A 
+Skill-Based 
+Strategic 
+Management Model for Pakistani 
+Construction Industry 
+A few of the postgraduate research 
+endeavours have won competitive scholarship 
+from a number of industrial and academic 
+support sources such as: Tameel Group, 
+Construction 
+Materials 
+Research 
+Group 
+(CMRG), 
+Razaque 
+Steels, 
+NED 
+Alumni 
+Association of South California, Rafeeqi 
+Research 
+Endowment 
+in 
+Earthquake 
+Engineering, etc. 
+The above research efforts have 
+culminated in publication of a number of 
+impact 
+factor 
+research 
+papers 
+and 
+publications 
+in 
+international 
+refereed 
+conference proceedings. For the last three 
+years (2010-2012), the numbers are 25 and 
+106 for journal and conference papers 
+respectively.  
+Moreover, as a result of these 
+successful 
+research 
+endeavours, 
+the 
+Department has formed a number of linkages 
+with other universities around the world, 
+specifically with the following universities: 
+ 
+i. 
+University of Loughborough, UK 
+ii. 
+Florida International University, USA,  
+iii. 
+East Carolina University, USA  
+iv. 
+Auburn University, USA  
+v. 
+Geo-Hazard International, USA 
+vi. 
+University of California, Berkley, USA 
+vii. 
+Stanford University, USA 
+viii. 
+Middle East Technical University, 
+Turkey 
+ix. 
+ACECOMS , Asian Institute of 
+Technology, Thailand 
+x. 
+University of Montana, USA 
+xi. 
+University of Colorado, USA 
+xii. 
+University of Minho,  Portugal 
+xiii. 
+University of Washington, Seattle, USA 
+xiv. 
+EU-NICE (Eurasian University Network 
+for International Cooperation in 
+Earthquakes) 
+a. Sapienza University of Rome, ITALY  
+b. University of Chieti-Pescara, ITALY 
+c. University of Basilicata, ITALY 
+d. University of Patras, GREECE 
+e. University of Aveiro, PORTUGAL 
+f. NSET National Society for 
+Earthquake Technology, NEPAL 
+g. Tribhuvan University, NEPAL 
+h. University of Dhaka, BANGLADESH 
+i. 
+Prince of Songkla University 
+THAILAND 
+j. 
+Chongqing University, CHINA 
+k. Nangarhar University, 
+AFGHANISTAN 
+ 
+Key national collaborations resulting 
+from these successful research endeavours 
+include: 
+i. 
+National 
+Disaster 
+management 
+Authority, Pakistan 
+ii. 
+SUPARCO 
+iii. 
+University of Peshawar, Pakistan 
+iv. 
+University of Baluchistan, Pakistan 
+v. 
+Amreli Steel 
+vi. 
+MATRIXX Company 
+vii. 
+Lucky Cement  
+viii. 
+Frontier Works Organization (FWO) 
+ix. 
+Izhar Construction 
+x. 
+Karachi Water and Sewerage Board 
+xi. 
+WWF - Pakistan 
+ 
+2.3 FACULTY MEMBERS
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+9 
+  Department of Civil Engineering 
+ 
+ 
+Chairman 
+ 
+Prof.Dr. Asad-ur-Rehman Khan  
+ 
+99261261-8 
+Ext. 2205 
+Co-Chairman 
+Prof. Rizwan Ul Haque  Farooqui 
+ 
+ 
+99261261-8 
+Ext. 2273 
+ 
+Professors 
+1. Prof. Sarosh Hashmat Lodi 
+ 
+ 
+B.E. (Civil) NED; 
+M.S. USA; 
+Ph.D. Herriot-Watt University, UK 
+ 
+2. Prof.Dr.Asad-ur-Rehman Khan  
+ 
+B.E. (Civil) NED; 
+M.S. (Civil) KFUPM, Saudi Arabia; 
+Ph.D. KFUPM, Saudi Arabia 
+ 
+ 
+3. Prof.Dr. Muhammad Shafqat Ejaz 
+ 
+B.E. (Civil) NED; 
+M.S. (Civil) NED; 
+Ph.D. Utah State University, UK 
+ 
+4. Prof.Dr. Syed Imran Ahmed 
+ 
+ 
+B.E. (Agri. Engg.) SAU, Pakistan; 
+ 
+M.S. (Bio resource Engg.)  Oregon State 
+University, USA; 
+M.S. (Bio systems Engg.) IOWA State 
+University, USA; 
+Ph.D. (Bio systems Engg.) IOWA State 
+University, USA 
+ 
+5. Prof. Rizwan Ul Haque Farooqui  
+ 
+B.E. (Civil) NED; 
+M.S. (Civil) National University of Singapore, 
+Singapore; 
+Ph.D. (Civil) Florida International University, 
+USA 
+ 
+6. Prof.Dr. Abdul Jabbar Sangi 
+ 
+ 
+B.E. (Civil) NED; 
+M.Engg. (Civil) NED; 
+Ph. D.  Herriot-Watt University, UK 
+ 
+7. Prof. Dr. Amanullah Marri 
+ 
+ 
+B.E. (Civil) QUEST; 
+M.E. (Civil) Asian Institute of Technology, 
+Thailand; 
+Ph.D. University of Nottingham, UK 
+Associate Professors 
+1. Dr.Raza Ali Khan  
+ 
+ 
+ 
+D.P.A. (Public Administration); 
+ 
+ 
+ 
+ 
+ 
+ 
+M.A. (I.R.) University of Karachi; 
+M.A. (Economics) University of Karachi; 
+M.S.(Economics) SZABIST, Karachi 
+ 
+ 
+2. Mr. Aftab Ahmad Farooqi 
+ 
+ 
+B.E. (Civil) NED; 
+M.Engg. (Civil) NED
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+  Department of Civil Engineering 
+ 
+3. Dr. Haider Hasan 
+B.Sc. (Math. & Computing) Kingston 
+University; M.Sc. (Environmental & 
+Industrial Modeling) University of Bristol, UK 
+Ph.D. (Civil) University of Nottingham, UK 
+ 
+4. Dr. Huma Khalid  
+ 
+ 
+ 
+B.E. (Civil) NED; 
+M.Sc. (Computer Science) NED; 
+Ph.D.ImperialCollege of Sc., Tech. & 
+Medicine University, UK 
+ 
+5. Dr. Arjumend Masood 
+ 
+ 
+ 
+B.E. (Civil) NED;  
+M.Engg. (Env. Engg.) NED; 
+M.Engg. (Civil) NED 
+Ph.D. NED 
+ 
+ 
+2.4 RESEARCH AREAS 
+The current research interests of the 
+Department are as follows: 
+ 
+Structural Engineering 
+ 
+ 
+Re-strengthening and repair techniques 
+ 
+Constitutive modelling of reinforced 
+concrete and ferrocement 
+ 
+Tensile and compressive membrane 
+action 
+ 
+Behaviour of reinforced concrete in 
+mixed moment field 
+ 
+Post cracking tensile strength 
+ 
+Bond in reinforced concrete 
+ 
+Structural behaviour of cold formed steel 
+sections 
+ 
+Models for shear and flexural strength of 
+Ferrocement 
+ 
+Ferro-cement application and its use 
+ 
+Infilled masonry panels subjected to 
+lateral loads 
+ 
+Non engineered construction in the 
+rural areas 
+ 
+Ductility of reinforcing bars produced 
+in Pakistan 
+ 
+Structural use of recycled concrete 
+aggregates 
+ 
+Finite element analysis of reinforced 
+concrete structures 
+ 
+Impact loads on reinforced concrete 
+structures 
+ 
+Fire resistance of concrete structures 
+ 
+Fibre 
+reinforced 
+polymers 
+in 
+Construction 
+ 
+Behaviour and assessment of masonry 
+structures 
+ 
+Materials Engineering 
+ 
+ 
+Design, development, production and 
+assessment 
+of 
+materials 
+in 
+thetransportation industry 
+ 
+Design, development, production and 
+assessment 
+of 
+materials 
+in 
+theconstruction industry 
+ 
+Durability of bituminous materials 
+under tropical conditions 
+ 
+Evaluation of engineering properties 
+of 
+mineral 
+compounds, 
+superplasticisers,binders, 
+polymeric 
+compounds and stabilising agents 
+ 
+Determination of rheological properties 
+of cement pastes and bitumen 
+ 
+Mechanical 
+properties 
+of 
+recycle 
+concrete aggregates 
+ 
+Cement replacement materials
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+  Department of Civil Engineering 
+ 
+ 
+Properties of locally manufactured 
+reinforcing bars 
+ 
+High strength and high performance 
+concrete 
+ 
+Geo-technical Engineering 
+ 
+ 
+Numerical / Constitutive modelling of 
+soils 
+ 
+Evaluation of static and dynamic 
+parameters of different soil strata 
+ 
+Evaluation 
+of 
+sub 
+soil 
+geological 
+conditions 
+ 
+Indigenous methodologies for ground 
+improvement techniques 
+ 
+Development 
+of 
+indigenous 
+methodologies and equipment to carry 
+out experiments in the field and 
+laboratories 
+ 
+Static and dynamic stiffness of pile 
+foundation 
+ 
+Transportation Engineering 
+ 
+ 
+Pavement 
+distress 
+evaluation 
+and 
+material characterisation 
+ 
+Redesign and signal optimisation of 
+roundabouts 
+ 
+Capacity improvements of major urban 
+and rural routes 
+ 
+Road 
+condition 
+monitoring 
+and 
+development of remedial strategies 
+ 
+Road design techniques in arid and 
+coastal areas 
+ 
+Geometric and structural design of 
+flyovers in Karachi using software 
+packages 
+ 
+Stability 
+analysis 
+of 
+highway 
+embankments 
+under 
+waterlogged 
+conditions 
+ 
+Use of expert systems in geometric 
+design of highways 
+ 
+Analysis and design of urban road 
+drainage systems 
+ 
+Mechanistic and finite element analysis 
+of major national highways in Pakistan 
+ 
+Pavement condition monitoring and 
+evaluation of roads and airport airside 
+ 
+Non-linear behaviour of pavements 
+under heavy axle loads 
+ 
+Development 
+of 
+travel 
+demand 
+forecasting models for urban areas 
+ 
+Economic appraisal of highway projects 
+using HDM and RTIM models 
+ 
+Application of Geographic Information 
+System (GIS) for facility management 
+ 
+Construction Management 
+ 
+ 
+ 
+ 
+Building Information Modelling 
+ 
+Artificial Intelligence 
+ 
+Sustainability, Green and Energy Smart 
+Construction 
+ 
+Information 
+and 
+Communication 
+Technology 
+ 
+Risk Management and Insurance 
+ 
+Safety Management and Zero Accident 
+Strategies 
+ 
+Quality Assurance and Total Quality 
+Management 
+ 
+Productivity Improvement  
+ 
+Financial Management, Accounting and 
+Economics 
+ 
+Project Planning and Scheduling 
+ 
+Resource Optimization
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+  Department of Civil Engineering 
+ 
+ 
+Project Controls 
+ 
+Assets Management/ Facilities 
+Management 
+ 
+Procurement, 
+Bidding 
+Strategies, 
+Claims, Legal Environment  
+ 
+Preconstruction 
+(such 
+as 
+Value 
+Engineering, Constructability Analysis) 
+ 
+Entrepreneurial Drive and Skills in 
+Construction Industry 
+ 
+Business 
+Strategies, 
+Strategic 
+Management, 
+Marketing 
+and 
+Management of Construction Business 
+ 
+Construction Industry Business and 
+Regulatory Environment 
+Coastal and Harbour Engineering 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Morphology of Coastal Processes (waves, 
+currents, tides, dredging, etc.) 
+ 
+Port Planning Method and Models 
+ 
+Development of Containerisation 
+ 
+Computer Application in Port 
+Containerisation 
+ 
+Environmental Impact of Port 
+development 
+ 
+Port Economics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Water Resources Engineering and 
+Management 
+ 
+Sectoral Water Allocation, Releases and 
+Performance 
+ 
+Water Balances, Recharge/Discharge 
+Areas Delineation 
+ 
+Drainage
+ 
+Water Supply: Domestic, Industrial, 
+Agriculture, etc. 
+ 
+Tertiary Level Irrigation System in 
+IndusBasin 
+ 
+Conservation of Water, Watercourse 
+Lining 
+ 
+Modelling 
+ 
+Water Accounting and Irrigation 
+Scheduling, Application Efficiency 
+ 
+Monitoring and Evaluation 
+ 
+Barrage and Canal System 
+ 
+Groundwater System
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+3 DEPARTMENT OF ENVIRONMENTAL 
+ENGINEERING 
+ 
+INTRODUCTION 
+The 
+Department 
+of 
+Environmental 
+Engineering has been effectively contributing 
+in 
+academics, 
+research, 
+training, 
+and 
+community based activities since its inception 
+as the Institute of Environmental Engineering 
+and Research twenty seven years ago. The 
+Department 
+administers 
+postgraduate 
+programme leading to the degrees of Masters 
+of Engineering (Environmental) and Master of 
+Engineering 
+Management 
+(MEM) 
+in 
+Environmental Management. The programme 
+is conducted both in morning and evening 
+times. The degree programme is structured so 
+as to deepen and broaden the student’s 
+knowledge in the field of Environmental 
+Engineering. 
+The 
+department 
+of 
+Environmental Engineering has the honour to 
+start the master programme for the first time 
+in Environmental Engineering in Pakistan and 
+also has the honour to be one of the first 
+departments of NED University to successfully 
+offer Masters of Engineering programme in 
+the morning. The current student strength in 
+the various postgraduate programmes offered 
+by the department is 101. 
+ 
+The current fields of research encompass 
+low-cost water and wastewater treatment, 
+bio energy production from sustainable 
+anaerobic digestion, satellite remote sensing 
+applications for environmental management 
+and bio diesel. Independent research projects 
+in the fields described above are being carried 
+out under supervision of foreign qualified 
+faculty members. Moreover, the department 
+is also working on industry based problems 
+and is in the process of establishing research 
+collaborations with world class International 
+Universities. 
+ 
+3.1 RESEARCH FACILITIES 
+The 
+department 
+of 
+Environmental 
+Engineering has laboratories equipped to 
+conduct research work. Facilities available for 
+research include the Water quality laboratory, 
+and Biodiesel Laboratory. 
+ 
+Water quality laboratory is equipped with 
+equipment 
+for 
+quantifying 
+selected 
+environmental contaminants in water. The 
+laboratory is configured for: 
+ 
+ 
+organic and inorganic chemical analysis  
+ 
+microbial analysis  
+The laboratory offers facilities for analysis 
+of heavy metals by Atomic Absorption 
+Spectrometer and Gas Chromatograph for 
+analysis of trace organic contaminants. 
+Microbial facilities are available and the 
+laboratory 
+is 
+equipped 
+with 
+autoclave, 
+microscopes, shakers and incubators. 
+The Biodiesel laboratory is equipped with 
+instruments including Cloud, Pour and Cold 
+Filter Plugging Point (CFPP) Analyzer for ultra-
+low temperature cold behavior testing, 
+Thermal analysis system (TGA/DSC) for 
+investigating thermal properties, Viscometer 
+for viscosity measurement and Portable 
+Density meter.  
+A summary of recent research projects by 
+the Department is provided below: 
+ 
+ 
+Department of  
+Environmental Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+Name of Project 
+Funding Agency 
+Application of Solar 
+Disinfection for 
+Treatment of 
+Contaminated Water 
+NEDUET 
+Renewable Energy 
+Production Using 
+Sustainable Anaerobic 
+Digestion Process 
+NEDUET 
+Baseline Study for Solid 
+Waste Management - 
+Karachi 
+International 
+Union for 
+Conservation of 
+Nature (IUCN) 
+Renewable Energy 
+Production Using 
+Sustainable Anaerobic 
+Digestion Process 
+NEDUET 
+ 
+ 
+ 
+ 
+3.2 
+RESEARCH AREAS 
+Satellite Remote Sensing ApplicationsMonitor 
+urban land cover changes; urbanisation trends 
+in major cities; Deforestation monitoring and 
+hazards assessment. 
+ 
+Wastewater Treatment 
+Natural treatment systems, analysis of 
+wastewater treatment reactors and biological 
+wastewater treatment processes 
+ 
+ 
+3.3 FACULTY MEMBERS 
+The department has two HEC approved supervisors, one faculty member has expertise in the 
+field of wastewater treatment while the other in field of satellite remote sensing applications for 
+environmental management. 
+1. Prof. Dr. Asif Ahmed Shaikh 
+B.E. (Civil), M. Engg. (Civil), 
+Ph.D. (Engineering Systems Science).  
+ 
+2. Dr. Atif Mustafa 
+B.E. (Civil), M. Engg. (Environmental), 
+Ph. D. (Civil & Environmental Engineering) 
+Department of  
+Environmental Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+15 
+4 DEPARTMENT OF EARTHQUAKE  
+ENGINEERING  
+ 
+INTRODUCTION 
+Pakistan 
+has 
+always 
+been 
+an 
+earthquake prone country owing to its 
+tectonic settings. Every time an earthquake 
+struck this region lack of disaster mitigation 
+capacity in Pakistan was revealed. The 
+Department of Civil Engineering realized the 
+importance of building capacity in earthquake 
+disaster mitigation in the Country and 
+established 
+Cowasjee 
+Earthquake 
+Study 
+Center (CESNED) on 28th April 2001. The 
+experience gained through the activities of 
+CESNED and the expertise developed in 
+earthquake engineering in the last one 
+decade provided a strong basis for the 
+establishment of Department of Earthquake 
+Engineering. The need of this Department was 
+also strengthened in the post 2005 Kashmir 
+earthquake scenario. The underlying purpose 
+of the Department of Earthquake Engineering 
+is to develop highly skilled professionals and 
+researchers who are trained in various 
+aspects of earthquake mitigation so that they 
+are able to serve the society through better 
+planning and preparation.  
+ 
+The Department benefits immensely 
+from the earlier activities in the area of 
+earthquake engineering through CESNED and 
+plans to strengthen these further by creating 
+strong linkages with industry and other similar 
+organizations. The Department plans to offer 
+courses, designed to suit the needs of 
+professional 
+engineers 
+working 
+in 
+the 
+construction industry as well as to strengthen 
+already existing research activities in the area 
+of earthquake engineering 
+and related 
+disciplines. 
+ 
+ 
+Earthquake 
+Engineering 
+is 
+a 
+specialized field of knowledge that deals with 
+the understanding and implementation of 
+ideas related to generation and propagation of 
+earthquakes 
+through 
+various 
+geological 
+features and behaviour of structures subjected 
+to seismic loading. This course comprises of 
+the study of elastic and inelastic response of 
+structures 
+subjected 
+to 
+ground 
+motion 
+excitation. Seismic design of new structures 
+and assessment of existing infrastructural 
+facility are also dealt with in SEE. 
+ 
+4.1 RESEARCH FACILITIES 
+Experimental Testing 
+The Department owns two most modern 
+laboratories in the Country. These include 
+Shake Table Laboratory (STL) and Advanced 
+Material Testing Laboratory (AMTL).These 
+provide state-of-the-art facilities for testing 
+structures using dynamic and pseudo-dynamic 
+loading regime. In addition, the Department 
+shares testing facilities in Material Testing 
+Laboratory 
+and 
+Concrete 
+Laboratory 
+administered by the Department of Civil 
+Engineering. 
+ 
+View of testing of a building on shake table 
+Numerical Testing 
+ 
+The Department of Earthquake Engineering 
+shares the computing facilities housed in 
+Postgraduate Computational Centre with the 
+Department of Civil Engineering. The centre is 
+equipped with all the facilities necessary for 
+any modern computational centre. The centre 
+also contains a state-of-the-art Structural 
+Engineering 
+Software 
+Library 
+including 
+analysis and design of RC Structures using CSI 
+Package and TNO Diana. The CSI Package with 
+network license consists of SAP 2000, ETABS, 
+SAFE and CSI Section Builder. 
+ 
+4.2 EXPERTISE AVAILABLE 
+ 
+Structural Earthquake Engineering 
+ 
+Structural Fire Engineering  
+ 
+Engineering Seismology 
+ 
+Disaster Management 
+ 
+Material Behaviour and 
+Characterization  
+ 
+ 
+ 
+ 
+Department of  
+Earthquake Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+4.3 RESEARCH AREAS 
+ 
+Behaviour of FRP and steel 
+reinforced concrete structures 
+ 
+Fire 
+resistance 
+of 
+concrete 
+structures  
+ 
+Recycling of concrete  
+ 
+Retrofitting 
+of 
+reinforced 
+concrete and masonry structures 
+ 
+Repairs 
+of 
+steel 
+and 
+RCC 
+Structures using fibre reinforced 
+polymer’s (FRPs) 
+ 
+Fatigue and impact loading on 
+structure 
+ 
+Experimental 
+and 
+numerical 
+testing of concrete and steel 
+structures 
+ 
+Performance based seismic design 
+and assessment of structures 
+ 
+Seismic hazard assessment 
+ 
+Nonlinear dynamic response of 
+multi-storey framed structures  
+ 
+Contribution of higher modes on 
+drift and strength demands 
+ 
+Influence of masonry infill panels 
+on dynamic response of frames 
+ 
+Seismic performance of non-
+engineered buildings 
+ 
+Assessment and evaluation of 
+structures including bridges 
+ 
+4.4 FACULTY MEMBERS 
+Chairman 
+TelephoneOffice 
+ 
+Prof. Dr. Muhammad Masood Rafi 
+ 
+99261261-8 
+Ext.2605 
+Professors 
+1. Prof. Dr. Muhammad Masood Rafi 
+ 
+B.E.(Civil)NEDUniversity; 
+M.Sc.(Civil)NEDUniversity; 
+Ph.D.(UniversityofUlster,UK) 
+ 
+2. Prof. Dr. Rashid Ahmed Khan 
+ 
+ 
+B.E.(Civil)NEDUniversity; 
+M.Sc.(Civil)NEDUniversity; 
+Ph.D.(Herriot-Watt University UK.) 
+AssociateProfessors 
+Dr. Mukesh Kumar 
+ 
+ 
+ 
+B.E.(Civil)NEDUniversity; 
+M.E.(Civil)NEDUniversity.  
+M.E.(EarthquakeEngg.)Italy 
+Ph.D.(Imperial College of London, UK.) 
+ 
+ 
+ 
+Department of  
+Earthquake Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+17 
+5 DEPARTMENT OF ARCHITECTURE 
+AND PLANNING 
+ 
+INTRODUCTION 
+ 
+The NED University has remained the 
+foremost institution in professional education 
+in engineering and related disciplines. In its 
+working, the University had developed a 
+regulatory, 
+academic 
+and 
+administrative 
+framework for architecture and planning 
+education which today provides a useful 
+framework for appropriate education in these 
+disciplines. The working strength of architects 
+is much less than what is practically needed. 
+Given the vast professional sphere in which 
+the architects operate, the numerical strength 
+is simply minimal. A technically sound and 
+socially responsive breed of architects and 
+planners need to be produced to fill this 
+widening gap. Architecture and Planning 
+Department at NED University has been 
+attempting to these and several other related 
+challenges in the professional domain. 
+ 
+ 
+The creation of a Department of 
+Architecture and Planning has been a part and 
+parcel of NED’s Master Plan. The present 
+resources, facilities, spaces and technological 
+backup are ample and adequate to support 
+this purpose. Besides, the presence of various 
+disciplines at the University act as a 
+supportive 
+factor 
+for 
+the 
+Architecture 
+Department. Ever since its creation in 2000, 
+the Department has undertaken numerous 
+research and outreach activities. The Journal 
+of Research in Architecture and Planning, 
+launched in 2001, has now been regularly 
+published on bi-annual basis. The department 
+was a collaborative partner with four 
+international universities from Europe and 
+South Asia in the European Commission 
+funded Asia Link and Asia-Urbs Programmes 
+between 2004-2007. This linkage produced 
+several research outputs in the field of urban 
+design. Besides, the Department is the 
+Secretariat 
+of 
+International 
+Council 
+of 
+Monuments and Sites (ICOMOS) and local 
+office of UNESCO University and Heritage 
+Linkage. The Department collaborated with 
+the United Nations Centre for Human 
+Settlements (UN-HABITAT) for preparation of 
+City profiles and plans of Larkana, Kech-
+Turbat, Sialkot, Gilgit, Mingora, Mansehra, 
+LandiKotal and Muzzaffarabad (in Azad 
+Jammu and Kashmir) in 2011-12. The 
+department collaborated with International 
+Institute of Environment and Development 
+(IIED) to undertake Karachi Land Study which 
+will be published soon in a monograph form. 
+ 
+The Department has been conducting a 
+Master of Urban and Regional Planning 
+Programme since 2002. This programme was 
+launched with the active assistance from 
+University of Western Sydney, Australia. A 
+significant need was also found for the 
+initiation 
+of 
+Master 
+of 
+Architecture 
+Programme due to diversifying job market, 
+enhanced demand of specialized capacity in 
+the domains of theoretical and application 
+spheres and development of teaching faculty 
+in architectural theory and design pedagogy. 
+It is also worthwhile to note that no 
+postgraduate programme in architecture 
+exists in the entire province of Sindh despite 
+the fact that six architectural institutions are 
+currently functioning. Master of Architecture 
+Programme, initiated in 2009, is therefore 
+aimed to serve the need of the country. With 
+this backdrop, the department is prepared to 
+supervise 
+doctoral 
+candidates 
+as 
+per 
+University policy. 
+ 
+5.1 RESEARCH FACILITIES 
+The 
+Architecture 
+and 
+Planning 
+Department is located at NED City Campus on 
+Maulana Din Muhammad Wafai Road. It 
+possesses adequately equipped computer 
+labs with up-to-date hardware and relevant 
+software’s. The Department also possesses an 
+archive which houses the most recent 
+literature, reading material and audio-visual 
+aids related to architecture and urban and 
+Department of  
+Architecture & Planning
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+regional planning studies. A reference library 
+is also available for the access of post 
+graduate students to fulfil the need of text 
+books, reference books, periodicals and 
+journals. Due to links and networking of the 
+department, the post graduate students can 
+also obtain useful information material from 
+private institutions such as the Urban 
+Resource Centre.  
+ 
+5.2 RESEARCH AREAS 
+The following are the proposed areas of 
+research  
+ 
+Architectural Theory 
+ 
+Applied Architectural Studies 
+ 
+Historic Preservation, Restoration 
+and Conservation 
+ 
+Urban Design 
+ 
+Urban and Regional Planning 
+5.3 FACULTY MEMBERS 
+At present, the following faculty members 
+are available to supervise doctoral research: 
+ 
+1. Prof. Dr. Noman Ahmed 
+B.Arch. (NED; M.C.P. (METU-Ankara); 
+Certificate in Regional Development 
+Planning (UNCRD, Nagoya); 
+Certificate in Urban Development 
+Studies (Harvard, USA); 
+PhD (Loughborough, UK) 
+AIAP, MPCATP 
+ 
+2. Prof. Dr. AnilaNaeem 
+B. Arch. (NED); M.S. in Historic 
+Preservation (METU-Ankara); 
+Certificate in Stone Conservation 
+(ICCROM, Venice) 
+PhD (Oxford Brookes, UK) 
+AIAP, MPCATP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of  
+Architecture & Planning
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+6. Department of Urban and 
+Infrastructure Engineering 
+INTRODUCTION: 
+ 
+A fundamental need for civilization in 
+the 21st Century is the development of urban 
+habitats that are both environmentally 
+sustainable and functionally dependable for 
+people and society. To meet these challenges 
+Urban 
+& 
+Infrastructure 
+Engineering 
+Department has been recently introduced in 
+NED University of Engineering and Technology 
+in 2008. The department aims to provide 
+students background of planning, design and 
+management of the urban community. Its 
+objective is to deliver capacity building and 
+value addition to the youths of the society in 
+the form of Urban &n infrastructure Engineer. 
+This objective is well served with state-of-the-
+art teaching facilities and dedicated faculty 
+members. 
+The 
+department 
+also 
+keeps 
+coordination 
+with 
+other 
+local 
+and 
+international stake holders such as; CDGK, 
+Jinnah Post Graduate Medical Centre and 
+University of Mississipi (USA) for research 
+based sharing of knowledge and served 
+oriented activities. In December 2012, the 
+department has signed MOU with Transport 
+Research Institute University of Hasselt, 
+Belgium (IMOB) that includes collaborative 
+research in the field of traffic congestion, 
+faculty and student exchange (using virtual 
+environment teaching), value addition short 
+courses, joint PhD Programmes, as well as the 
+reduction of the annual tuition fee from 
+6000Euros to 600 Euros (equivalent to 
+European nationals) for students of NED for 
+their master’s study in IMOB. 
+ 
+ 
+The 
+department 
+of 
+Urban 
+and 
+Infrastructure Engineering has now taken 
+another initiative by introducing a post 
+graduate degree programme (MEM) in 
+Transportation Infrastructure Management. 
+The major idea behind this programme is to 
+link the concept of management with the 
+deriving 
+engineering 
+fields 
+to 
+produce 
+professional that are better capable of 
+managing the engineering projects than the 
+conventional 
+business 
+managers. 
+Transportation Infrastructure management is 
+an 
+attempt 
+to 
+strengthen 
+the 
+programmewithanother 
+much 
+needed 
+derivative. Considering the wild scope of the 
+field this Master’s program is focused towards 
+the management of transportation systems 
+and their sustainable operation. 
+6.1 
+RESEARCH FACILITIES  
+ 
+The Department contains following research 
+facilities in different areas of urban and 
+infrastructure engineering 
+1) Transportation 
+Engineering 
+Laboratory; that provides facilities for 
+testing various properties of highway 
+materials according to ASTM and 
+British standards. Testing equipment 
+available in laboratory contains Wheel 
+Tracking 
+Machine 
+for 
+Rutting 
+measurement, 
+Marshall 
+test 
+equipment, LA Abrasion machine, 
+Ductility 
+testing 
+facility, 
+Specific 
+Gravity 
+testing 
+equipment 
+and 
+Bituminous material consistency test 
+apparatus etc. 
+ 
+ 
+ 
+Department of  
+Urban & Infrastructure
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+ 
+ 
+2) GIS Laboratory; that contains state of 
+the 
+art 
+Geographic 
+Information 
+System software packages (ArcGIS®), 
+Remote 
+sensing 
+software 
+(Geo 
+Media®) along with some other utility 
+packages to facilitate research on 
+spatial aspects of urban engineering 
+problems. 
+ 
+3) Traffic Engineering Cell; that contains 
+facilities in the form of instrumented 
+vehicle (equipped with real time 
+recording of traffic through mounted 
+CCTV cameras, GPS based real time 
+vehicle tracking system), Laser speed 
+Gun, 
+State 
+of 
+the 
+art 
+traffic 
+microsimulation 
+package 
+(S-
+Paramics®), 
+macroscopic 
+travel 
+demand 
+forecasting 
+package 
+(EMME®), Traffic video processing 
+software for heterogeneous traffic 
+(TRAZER®) 
+and 
+other 
+statistical 
+software such as SPSS®. 
+ 
+ 
+ 
+4) State of the art computer Laboratory 
+which 
+equipped 
+with 
+licensed 
+softwares 
+required 
+for 
+general 
+engineering purposes such as MS 
+Office, 
+Primavera, 
+MATLAB, 
+AUTOCAD, Civil 3D etc.  
+ 
+ 
+ 
+ 
+ 
+Department of  
+Urban & Infrastructure
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+21 
+Research in Traffic Engineering Transport Planning 
+ 
+S. 
+No.
+Project Title 
+Funding Agency 
+1 
+Development of an ITS –based Traffic Management Model for 
+Metropolitan Area of Pakistan with Karachi as a Pilot Study 
+HEC & USAID 
+2 
+Incorporation of Traffic Heterogeneity in Capacity Analysis of 
+Multi-Lane Urban Arterials of Karachi through Development of 
+a Simulation Model 
+NED UET 
+3 
+Road Safety Research 
+WHO / Indus Motors 
+4 
+Toyota- Research on Traffic Congestion 
+Indus Motors 
+5 
+Calibration of Car Following Models For different Traffic 
+Scenarios of Karachi 
+ 
+6 
+Empirical Validation of Macroscopic Dynamic Network Loading 
+Models 
+ 
+ 
+Research in Building and Pavement Materials 
+ 
+S. 
+No.
+Project Title 
+Funding 
+Agency 
+1 
+Evaluate the rutting potential of asphalt concrete by adding 
+polymer fiber 
+  
+FWO 
+2 
+Finite Element Analysis of Tractor Trolley Tyres on 
+Bituminous-bound Macadam Roads of Pakistan 
+Masters 
+Research 
+3 
+Flexural and Shear Behaviour of polypropylene  reinforced 
+lightweight aggregate concrete and the effect of 
+polypropylene fibre 
+Masters 
+Research 
+ 
+ 
+ 
+ 
+Department of  
+Urban & Infrastructure
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+22 
+Projects Completed: 
+ 
+The department is active in various research 
+dimensions encompassing almost all major 
+fields of Urban Engineering. This is evident 
+from various national and international 
+funded research projects carried out in the 
+department, few examples are: Intelligent 
+Transportation system based model for 
+Karachi, Heterogeneity of Transport modes  
+ 
+ 
+and their incorporation in capacity analysis, 
+Quantification of economic cost of traffic 
+congestion, rutting behaviour of alternative 
+pavement materials, Aggregate information 
+system and road accidents data collection and 
+performance monitoring. In addition to this, 
+the department has active collaboration with 
+other institutes of the world such as Hasselt 
+University, Belgium, and involved in increasing 
+expertise through joint research projects.
+Research Projects (in Pipeline) 
+ 
+S. 
+No.
+Project Title 
+Funding 
+Agency 
+1 
+Establishing Trips rate and Parking Ratios for Selected Area of Karachi 
+PSF 
+2 
+Investigation of the Rutting and Fatigue Performance of Asphalt Concrete 
+Reinforced with Geotextile Materials 
+HEC 
+3 
+Development of Highway Pavement Maintenance Management System for 
+Pakistan-with Karachi as a Case study 
+HEC & USAID
+4 
+Rutting and Fatigue Evaluation of Asphalt Concrete Incorporated with Recycled 
+Aggregates 
+PSF 
+5 
+The applications of polypropylene-fiber in the construction of sustainable 
+highway infrastructures in Pakistan (USAID) 
+HEC & USAID
+ 
+6.2 
+RESEARCHAREAS 
+The department has set high standards for 
+research and offer PhD research projects in 
+prominent and demanding research areas. 
+The following are some proposed areas of 
+research in accordance with the expertise 
+available. 
+1) Rutting and fatigue behavior of 
+modified asphalt concrete 
+2) Pavement maintenance management 
+system for highways and airports 
+3) Design of highway pavements on 
+areas prone to soil liquefaction 
+4) Dynamic traffic flow and assignment 
+models 
+5) Adaptation 
+of 
+capacity 
+analysis 
+procedure for heterogeneous traffic 
+conditions 
+6) Modeling road accidents to ascertain 
+effects of contribution of various 
+factors 
+7) Risk assessment practices influences 
+on construction productivity 
+8) Construction productivity advances 
+and opportunities for improvement 
+9) Activity-based travel demand model 
+for cities of developing countries 
+10) Advance 
+methods 
+for 
+collecting 
+Traffic data and online calibration of 
+traffic models 
+11) Analysis of Parking problems and 
+finding compatible solutions 
+12) Demand Management strategies for 
+solving 
+transport 
+problems 
+in 
+developing countries 
+13) BRT and LRT Systems? Are they 
+effective in cities of Developing 
+countries 
+14) Qing-Qi – An alternative low cost 
+mass transit solution 
+Department of  
+Urban & Infrastructure
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+23 
+6.3 
+FACULTY MEMBERS: 
+Professors 
+1. Prof. Dr. Adnan Qadir  
+ 
+ 
+ 
+B.E (Civil) NED University 
+M.Engg. (Civil) NED University; 
+Ph.D. (Transportation) Middle East 
+Technical University Ankara, Turkey. 
+ 
+2. Prof. Dr. Mir Shabbar Ali  
+ 
+ 
+ 
+B.E (Civil) 
+M.S (University of Oklahoma, USA) 
+Ph.D. in Transportation; 
+University of Birmingham, UK 
+ 
+3. Prof. Dr. Muhammad Raza Mehdi  
+ 
+ 
+B.E (Civil); M.Sc. (Transportation); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ph.D. (Environmental Science) 
+ 
+Assistant Professor 
+ 
+  Dr. Sana Muqeem 
+ 
+ 
+ 
+ 
+B.E (Urban) NED University; 
+M.Engg. (Civil) NED University 
+Ph.D. (Construction Management) 
+Univeristy Technology Petronas, Malaysia 
+ 
+ 
+Department of  
+Urban & Infrastructure
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+7. DEPARTMENT OF MECHANICAL 
+ENGINEERING 
+INTRODUCTION 
+Mechanical Engineering Department, 
+which was founded in 1937 at the former NED 
+Government Engineering College, is now 
+located at Main Campus with its laboratories 
+equipped with state-of-the-art equipment. 
+The Department takes pride in producing 
+engineers that have served not only the 
+regional and global organizations, but the 
+nation and mankind at large. At present, the 
+Department offers Bachelors, Masters and 
+PhD degrees.   
+ 
+The undergraduate programme is 
+based on four years instructional education 
+leading to the degree of Bachelor of 
+Engineering. The Department has been 
+offering Master of Engineering since 1999. 
+Three areas of specializations are being 
+offered, which are: i) Design ii) Energy 
+Systems iii) Mechatronics. The programme 
+comprises of five semesters which enables 
+practicing engineers working in various 
+industries to update and improve their 
+knowledge. The programme is running quite 
+satisfactorily and the number of applicants is 
+progressively increasing each year. 
+ 
+Ph.D. Degree programme is being 
+offered for almost ten years. Details of 
+laboratory facilities, PhD projects and other 
+post graduate level projects are given below. 
+The Department has various Research Groups 
+in different areas including Energy and Mass 
+Transfer, Design & Manufacturing and HVAC 
+(Heating, Ventilation & Air Conditioning). 
+ 
+7.1 RESEARCH FACILITIES 
+ 
+Laboratory Facilities 
+ 
+Renewable energy is today’s world’s 
+need. Keeping up with the development in 
+this field, Solar Energy Lab at Mechanical 
+Engineering Department features complete 
+testing facility for both the solar photovoltaic 
+(PV) systems and thermal systems including 
+flat-plate collectors, heat pipes and different 
+types of concentrators.  
+The lab is equipped with weather 
+station 
+capable 
+of 
+monitoring 
+various 
+parameters including wind velocity and 
+direction, 
+temperature, 
+humidity, 
+solar 
+radiations, and pyranometers along with 
+shadow band and tilt adjustment assemblies. 
+ Different types of PV panels, heat pipes and 
+parabolic concentrators with tracking systems 
+are also available. Thermoelectric generator 
+(TEG) modules have been integrated with 
+solar thermal system which is one of the most 
+recent research areas nowadays. TRNSYS, 
+Matlab, RETScreen and PVWattssoftware can 
+be used for modeling and analysis of solar 
+systems. One of the achievements in solar 
+energy research is the development of a 
+useful 
+tool 
+‘oTilt’, 
+available 
+on 
+www.oTilt.com, which is an online application 
+for estimating optimum tilt angles and energy 
+collection on tilted surfaces. This application 
+has recently been listed in renowned online 
+directories including US Department of Energy 
+(US DOE) and Open Energy Information 
+(OpenEI) portal. 
+Department of  
+Mechanical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+Wind turbine design, fabrication & 
+testing facilities are also available. This facility 
+is equipped with wind resource assessment by 
+capturing, monitoring and analysing available 
+wind data. Weather station along with data 
+logger is available for this purpose. The data is 
+further processed on various latest software 
+such as Wind Farmer. Designing of wind 
+turbine blades is also carried out. For this 
+purpose different algorithms have been 
+developed based on various blade design 
+models. The facility of testing the fabricated 
+wind turbine within the closed and controlled 
+environment has also been developed. Field 
+testing and monitoring is then performed 
+after installation of wind turbine.  
+Acoustics and Vibration Laboratory is 
+fortified 
+with 
+state-of-the-art 
+acoustics, 
+vibration diagnostics, monitoring and analysis 
+equipment.The laboratory has two plane Hard 
+Bearing Dynamic Balancing Machine for 
+rotors. This machine has its utilization in 
+industrial projects as well as in post graduate 
+research. Rotors, weighing from 20 kg to 3200 
+kg, can be mounted at approximately 5000 
+rpm and are balanced either by mass addition 
+or mass removal. Extraction of modal 
+parameters by utilizing the Vibration Exciter 
+System (Shaker machine) is also available. It is 
+equipped 
+with 
+Synthesizer 
+Function 
+Generator 
+with 
+complete 
+random 
+and 
+periodic function generator. Response is 
+captured through magnetic accelerometers/ 
+strain gauges which can further processed to 
+obtain Frequency Response Functions (FRFs) 
+in FFT analyzer. This equipment can also be 
+utilized for prediction of low frequency eigen 
+modes. 
+The 
+facility 
+to 
+extract 
+modal 
+parameters through local excitations is also 
+available by employing Impact Hammer 
+facility. An Operating Deflection Shape (ODS) 
+can be plotted on software after the FFT of 
+acquired data. Both Rigid and Flexible modes 
+can 
+be 
+identified 
+through 
+this 
+technique.Compliance, 
+Mobility, 
+Dynamic 
+Stiffness, Impedance and Dynamic Mass of 
+elastic bodies can be predicted through it. 
+Acoustics of any room, office, job floor and 
+workshops etc. can be predicted, quantified, 
+monitored and corrective measures can be 
+made to acceptable dB levels by utilizing 
+Sound Level meters. This equipment is given 
+with data logger on which data can be stored 
+and processed to make sound spectrum 
+according to ISO 9001 standards. It can also 
+be used to generate white noise spectrum. 
+Precision Vibration level meter can be utilized 
+to predict and monitor vibration levels in g 
+readings of any machine, generator and 
+rotary parts. It has built in data logger for 
+storage and post processing of data. 
+ 
+Pressure drop and correlation of friction 
+factors can be 
+investigated 
+using 
+Fluid 
+Friction Pipes 
+Test Bench in 
+Fluid 
+Mechanics Lab. 
+Characteristic 
+curves 
+for 
+various 
+types 
+of pumps such 
+as centrifugal, 
+reciprocating 
+and gear can 
+be analysed against various parameters 
+including RPM, torque and efficiency using 
+Multi Pump Testing Rig. Hydrostatic Pressure 
+Test Bench can be used to determine 
+differential pressure measurements of several 
+fluids. 
+ 
+Department of  
+Mechanical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+ 
+Steam Generation & Steam Turbines 
+Laboratory has a fully functional electric boiler 
+capable of producing steam at 10 bars and 54 
+kg/h (F&A 100 degree celsius). This steam can 
+be utilized in any experimental rig designed to 
+operate using steam. The boiler is shell-type 
+with two electric resistances requiring 36 kW 
+during operation. A water treatment bench is 
+used for feedwater treatment for boiler but it 
+can also be used as a stand-alone setup for 
+related experiments. 
+ 
+Heat Transfer laboratory is equipped 
+with Linear and Radial Heat Conductors 
+(Armfield) which are used to apply Fourier 
+Rate equation to steady-state  conduction in 
+plane wall (Cartesian) and radial directions. 
+Measurement of heat flow and temperature 
+gradient allows the thermal conductivity of 
+the material to be calculated. Combined 
+Convection and Radiation equipment is used 
+for the analysis of combined effects at varying 
+surface temperatures and air velocities past 
+the surface. Measurement of the surface 
+temperature of uniformly heated cylinder and 
+the electrical power supplied to it allows the 
+combined effects of radiation and convection 
+to be compared with theoretical values. The 
+dominance of convection at lower surface 
+temperatures and the dominance of radiation 
+at higher surface temperatures can be 
+investigated. 
+Extended 
+Surface 
+Heat 
+Exchanger, a long horizontal rod, which is 
+heated at one end, provides an extended 
+surface for heat transfer measurements. 
+Thermocouples at regular intervals along the 
+rod allow the surface temperature profile to 
+be measured. The measurements obtained 
+can be compared with a theoretical analysis of 
+thermal conduction along the bar combined 
+with heat loss to the surroundings. Transient 
+heat transfer analysis can be performed using 
+Unsteady State Heat Transfer equipment. 
+ 
+ 
+OsmonicsSepa CF Membrane Cell is 
+available in Desalination laboratory that is 
+used in membrane development and small 
+scale production. In addition, a multistage 
+centrifugal reverse osmosis plant with 38 
+stages and 3 gpm capacity is also available.  
+ 
+ 
+The Solid Mechanics/Material Testing 
+Laboratory is comprised of two 60,000 lbs. 
+Universal Testing Machines (Tinius Olsen), 
+two hardness-testing machines and a 5000 kg 
+spring testing machine (Torsee).  
+ 
+ 
+A locally fabricated downdraft gasifier 
+is also available to carry out investigations 
+using different fuels including coal, wood and 
+bagasse.  
+ 
+Computing Facilities 
+ 
+The department features extensive 
+computational resources available for a wide 
+range of applications, from data analysis to 
+numerical modeling, stress analysis, fluid 
+dynamics, modeling of components, design of 
+experiments and simulation software. 
+ 
+The department has 50 workstations 
+in its main lab; it has a large number of 
+licensed software including ANSYS, Pro-E,
+Department of  
+Mechanical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+27 
+Gambit, Wind Farmer, Maple, ADINA, Matlab, 
+CFX, Stat Ease and Minitab. 
+ 
+Moreover, 
+there 
+is 
+a 
+separate 
+Computational Thermo-Fluid facility. This lab 
+was developed by Mechanical Engineering 
+Department and is now routinely used in 
+engineering design process. It contains 
+software related 
+to 
+Computational 
+Fluid 
+Dynamics such as ANSYS Fluent, CFX, ICEM 
+CFD and Tecplot. Laboratory contains a 
+dedicated computing cluster comprising of 17 
+servers of HP Pro Liant clusters. The cluster 
+contains 
+32 
+AMD 
+quad-core 
+Opetron 
+processors with 8GB RAM on each.  On head 
+node AMD 24 core processor with 32 GB is 
+installed. 
+ 
+Other supports 
+ 
+Department 
+of 
+Mechanical 
+Engineering has also access to various 
+international research journals from Engr. 
+Abdul 
+Kalam 
+Library 
+to 
+support 
+their 
+postgraduate students. 
+ 
+We 
+also 
+have 
+support 
+from 
+international societies including American 
+Society of Heating, Refrigeration and Air-
+Conditioning 
+Engineers 
+(ASHRAE) 
+and 
+American Society of Mechanical Engineers 
+(ASME). 
+ 
+ASHRAE Student Chapter at NED 
+has grown to be the largest in Pakistan. This is 
+the 
+premier 
+international 
+society 
+for 
+professionals working in the fields of heating, 
+ventilation and air conditioning (HVAC). The 
+society has over 54,000 members worldwide 
+and its codes and standards are followed 
+across the globe. 
+ 
+NED ASME chapter has always 
+represented the global face of mechanical 
+engineering community, work to groom the 
+engineers of future and have a positive impact 
+on their educational culture. 
+ 
+Research 
+group 
+NEED 
+(Network 
+of 
+Excellence in Energy Development Group) 
+assists in managing the country's energy crisis 
+by promoting interdisciplinary research and 
+development. 
+7.2 ACADEMIC & INDUSTRIAL RESEARCH 
+PROJECTS AND LINKAGES 
+The department has shown significant 
+progress in the areas of conventional and 
+renewable forms of energy and thermo-fluid 
+dynamics. Following is a list of related 
+postgraduate projects: 
+ 
+Simulation of Turbulent Axisymmetric 
+Impinging Jets using RANS Method 
+ 
+Stress Analysis of Small Scale Coal Gasifier 
+based on Thermal Loading 
+ 
+Analysis of a Sun Tracker using Linear 
+Actuator to Maximize Heat Collection 
+ 
+Development of Tilt and Orientation 
+Factor Contours Compensated for Site 
+Specific Requirements  
+ 
+Studying the Effects of Urinary Tract 
+Obstruction Using Computational Fluid 
+Dynamics  
+ 
+Investigating the Effect of Wind Loading 
+on Wind Turbine Blade Performance 
+ 
+Technical & Economical Feasibility of Solar 
+Parabolic Troughs for Industrial Heating 
+Also listed below are completed and 
+on-going 
+indigenous 
+PhD 
+Projects 
+in 
+Mechanical Engineering Department: 
+ 
+S.No 
+Title 
+1 
+Experimental 
+investigation 
+and 
+mathematical modeling of a low energy 
+consuming hybrid desiccant cooling system 
+for hot and humid areas of Pakistan 
+2 
+Pressure and Concentration Gradients in 
+Membrane Feed Channels: Numerical and 
+Experimental Investigations 
+3 
+Modeling and Optimisation of Solar energy 
+Based Thermoelectric Power Generation 
+System 
+Department of  
+Mechanical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+28 
+The department is always keen to 
+provide 
+services 
+to 
+industry 
+in 
+the 
+improvement of their projects. It creates 
+strong academic & research linkages between 
+the industry and university. 
+ 
+A summary of recent local industrial 
+projects is given below: 
+ 
+ 
+Dynamic balancing of 1000kg rotor 
+for Cresent Steel 
+ 
+Impeller balancing for KESC Bin 
+Qasim Plant. 
+ 
+Rotating mass balancing of turbine 
+impeller for Punjab Engg. Works 
+ 
+Vibration response of Fan Pulleys 
+for KANUPP. 
+ 
+Estimation of vibration levels of 
+induced draft fan blowers for SKF  
+ 
+Precision 
+measures 
+and 
+test 
+systems of turbo super charger for 
+Pakistan railways 
+ 
+Dynamic response of entrance 
+cone of impeller for KESC. 
+ 
+Modal analysis of fuel tank for 
+master motors 
+ 
+Estimation of modal parameters of 
+car chassis for masters motors. 
+ 
+Development of a mathematical 
+correlation between fatigue crack 
+life   of materials operating at their 
+resonance 
+frequency 
+in 
+collaboration with Pakistan Naval 
+Engineering College (PNEC NUST) 
+ 
+Volume flow rates of household 
+gas pressure for Sui Southern Gas 
+Company 
+ 
+Research linkages with following 
+international 
+universities 
+have 
+been 
+established: 
+ 
+ 
+Edinburgh Napier University, UK 
+ 
+University of Abertay Dundee, UK 
+ 
+Sultan 
+Qaboos 
+University, 
+Sultanate of Oman 
+ 
+University of Malaysia, Malaysia 
+ 
+University of Waikato, Hamilton, 
+New Zealand 
+ 
+Auckland University of Technology, 
+New Zealand 
+ 
+Cranfield 
+University, 
+Bedford, 
+United Kingdom 
+ 
+Concordia University, Canada 
+ 
+University of Stuttgart, Stuttgart, 
+Germany 
+ 
+7.3 RESEARCH AREAS 
+ 
+Current research interests of the 
+faculty are as follows: 
+ 
+ 
+Renewable 
+and 
+Conventional 
+Energy Systems 
+ 
+Solar Industrial Process Heating  
+ 
+Hybrid (Photovoltaic and wind 
+turbine powered) water pumping 
+and desalination system 
+ 
+Biomass based electrical power 
+system 
+ 
+Low/Zero Energy Buildings  
+ 
+Modeling of Energy Systems 
+ 
+Computational and Experimental 
+Fluid Mechanics 
+ 
+Direct 
+and 
+Large 
+Eddy 
+CFD 
+Simulations 
+ 
+Hydraulic Turbines 
+ 
+Advanced Heat Transfer  
+ 
+Membrane Desalination 
+ 
+Control Systems; Mechatronics  
+ 
+Coal Liquefaction 
+ 
+Filtration, blending, enrichment, 
+storage 
+and 
+applications 
+of 
+synthetic gas 
+ 
+Solid and Liquid Desiccant Cooling 
+Systems 
+ 
+Reliability Studies; Life Assessment 
+ 
+Statistical Techniques, Design of 
+Experiments, Six Sigma 
+ 
+Finite Element Analysis 
+ 
+Characterization and Mechanical 
+Testing of Materials 
+ 
+ 
+Department of  
+Mechanical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+29 
+7.4 FACULTY MEMBERS 
+ 
+Chairperson 
+Telephone   
+ 
+ 
+Prof. Dr. Mubashir Ali Siddiqui  
+99261261-8 
+ 
+ 
+ 
+ 
+Ext. 2206 
+ 
+Professors 
+ 
+1. Prof. Dr. Anjum Khalid 
+B.E (Mech); M.Sc (UK); Ph.D (NED) 
+ 
+2.  Prof. Dr. –Ing. Naseem Uddin (On leave) 
+B.E (Mech); M.Engg (Mech); Ph.D (Germany) 
+ 
+3.  Prof. Dr. Nasiruddin Shaikh 
+B.E (Mech); M.Engg (Mech); Ph.D  (Canada) 
+ 
+4.  Prof. Dr. Mubashir Ali Siddiqui 
+B.E (Mech); M.S (USA); Ph.D (USA) 
+ 
+5.  Prof. Dr. Ahmad Hussain 
+B.E (Mech); M.Sc (Nuclear Power PIEAS, Islamabad); 
+ 
+ 
+Ph.D (Malaysia) 
+ 
+Associate Professors 
+ 
+  
+Dr. Muhammad Shakaib 
+B.E (Mech); M.Sc.(Mech); Ph.D (NED) 
+ 
+Assistant Professors 
+ 
+1.  Dr. Maaz Akhtar 
+B.E (Mech); M.Engg (Mech); Ph.D. (Oman) 
+ 
+2. Dr. Rashid Khan 
+B.E. (Mech); M.Sc. (Germany); Ph.D (Oman) 
+ 
+3.  Dr. Murtaza Mehdi 
+B.E (Mech); M.Engg (Mech); Ph.D (Korea) 
+ 
+4.  Dr. Mahrukh  
+B.E (Mech); M.Engg (Mech); Ph.D (UK) 
+ 
+ 
+ 
+ 
+ 
+ 
+) 
+ 
+ 
+Department of  
+Mechanical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+8. DEPARTMENT OF INDUTRIAL AND 
+MANUFACTURING ENGINEERING 
+Industrial and Manufacturing Engineering 
+education has become pivotal in establishing 
+a competitive posture across the entire 
+spectrum of Metal working and Manufactured 
+parts' industry in Pakistan. Both the reality 
+and perception of domestic production points 
+to the need for a stronger, more productive 
+manufacturing 
+industry 
+in 
+this 
+country 
+producing high quality products at low cost. In 
+view of the fast changing technology and 
+scenario the University started this separate 
+Department. Industrial and Manufacturing 
+Engineering spans a broad spectrum of 
+engineering topics such as; 
+i. 
+Computer Aided Design (CAD), 
+ii. 
+Computer Aided Manufacturing (CAM), 
+iii. 
+Computer Integrated Manufacturing 
+(CIM), 
+iv. 
+Flexible Manufacturing System (FMS), 
+v. 
+Robotics 
+&Automation; 
+Product 
+Design, 
+vi. 
+Tools and Machines, 
+vii. 
+Manufacturing Processes, 
+viii. 
+Additive Manufacturing,  
+ix. 
+Quality Engineering, 
+x. 
+Operations Management, 
+xi. 
+Maintenance Management,  
+xii. 
+Supply Chain Management (SCM), 
+xiii. 
+Modeling 
+and 
+Simulation 
+of 
+Manufacturing & Production, 
+xiv. 
+Operations and Economics Analysis. 
+This Department was initially started 
+under the auspices of Mechanical Engineering 
+Department in October 1999 and started as a 
+separate Department in October 2000 with 
+the name of Industrial & Manufacturing 
+Engineering Department. The Department is 
+offering Master of Engineering (by course 
+work & by Research) with the Specialisations 
+in Manufacturing Engineering and Engineering 
+Management. The Engineering Management 
+program 
+further 
+offers 
+choices 
+of 
+Specialisation in Industrial Management and 
+Quality Management. The Department of 
+Industrial &Manufacturing Engineering has 
+highly qualified and experienced faculty 
+members. 
+8.1 RESEARCH  FACILITIES  
+Research laboratories are equipped 
+with sophisticated equipment and state of the 
+art software’s. Flexible Manufacturing Cell is 
+in process and soon be available at the 
+Department. Industrial Automation related 
+equipmentincluding PLC's are available at the 
+Department.  
+ 
+Hardware Facilities 
+Following are the facilities available in 
+the laboratories; 
+ 
+CNC Machines: 
+– 
+Deckle Maho 50T (multi-axis CNC milling 
+machine) 
+– 
+TRAIC PC (3 axis CNC milling machine) 
+– 
+Novaturn (2 axis CNC Lathe machine) 
+– 
+CNC Wire Electric Discharge Machine 
+(multi-axis -axis) 
+– 
+CNC Electric Discharge Machine (Z-axis) 
+Department of  
+Industrial & Manufacturing
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+ 
+Reverse Engineering 
+– 
+STRATASYS Fused Deposition Modeling 
+Machine  
+– 
+FARO ARM Portable CMM  
+– 
+LASER SCANNER for scanning 3D parts 
+ 
+Automation & Controls: 
+– 
+Programmable Logic Controllers,  
+– 
+Robotic arms,  
+– 
+Various types of transducers and sensors. 
+ 
+Automatic Injection Molding Machine 
+ 
+Conventional Metrology instruments:  
+– Surface plates,  
+– Gauge blocks,  
+– 
+Profile projector,  
+– 
+Contourimatic profiling Machine  
+ 
+Software Facilities 
+The department has the following software 
+available in the computation laboratories; 
+ 
+CAD/CAM/CAE software including Pro 
+Engineer, Unigraphics,CATIA and ANSYS. 
+Along 
+with 
+that 
+Software 
+for 
+Statistics/Decision 
+Making/SimulationincludingMinitab,Matla
+b& 
+Simulink, 
+Witness 
+12,Microsoft 
+Project,POM for Windows,RCM ++, and 
+Microsoft Visual Studio are also available.. 
+ 
+ 
+ 
+ 
+8.2 RESEARCH AREAS 
+The current research interests of the 
+Department are as follows: 
+ 
+Composite Material 
+ 
+Metal Machining & Forming Processes 
+– High Speed Machining Process 
+– Modeling of Metal Cutting & Forming 
+Processes 
+– Non Traditional Machining Processes 
+– Application of Finite Element Modeling and 
+Analysis in the manufacturing operations. 
+ 
+ 
+Operations Management 
+– 
+Project Life-Cycles;  
+– 
+Project Risk Management;  
+– 
+Earned Value Analysis and Improvements;  
+– 
+Monte Carlo Simulations in Industrial 
+Engineering; 
+– 
+Project Evaluation & Feasibility Analysis;  
+– 
+Project Planning;  
+– 
+Global and Shared Projects;  
+– 
+Project Management Best Practices 
+versus domestic applications 
+– 
+Flow Shop Scheduling;  
+– 
+Line Balancing;  
+– 
+Job Shop Scheduling;  
+– 
+Inventory Management;  
+– 
+Forecasting;  
+– 
+Supply Chain Management;  
+– 
+Supply Chain Performance Evaluation;  
+– 
+Developing& managing supply chains in 
+developing markets;  
+– 
+ERP best practices versus domestic 
+requirements and cultural perspectives;  
+– 
+Business Process Re-engineering;  
+– 
+Business Process Simulation;  
+– 
+Supplier evaluation frameworks;  
+– 
+Work Study & Measurement;  
+– 
+Technology & Innovation Management;  
+– 
+New Product Development 
+Department of  
+Industrial & Manufacturing
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+– 
+Cost of Quality (CoQ);  
+– 
+Total Quality Management (TQM);  
+– 
+Six Sigma in developing countries;  
+– 
+Six Sigma in service sectors especially 
+Academia;  
+– 
+Design of Experiment (DOE);  
+– 
+ISO and service quality especially 
+Academia;  
+– 
+Quality Control Tools and improvements;  
+– 
+Measurement System Analysis (MSA) and 
+improvements 
+ 
+Computer Aided Design & Manufacturing 
+(CAD/CAM) 
+– 
+High precision NURBS tool path 
+generation for three and five-axis CNC 
+machining. 
+– 
+Global gouging detection and its 
+elimination in multi-axis CNC machining. 
+– 
+Generation of planar and space offset 
+curves with global error control 
+– 
+Computer aided process planning 
+– 
+Design and kinematics modeling of multi-
+axis CNC machines. 
+– 
+Design and analysis of metal cutting tools. 
+– 
+Accurate surface modeling of hypoid and 
+spiral bevel gears. 
+– 
+Cutting force analysis of different metal 
+cutting processes. 
+– 
+Optimization of machining parameters 
+during the metal cutting processes. 
+– 
+Optimization of cutting tool geometry. 
+– 
+Optimization of tool design and process 
+parameter of composite machining. 
+– Optimization of work piece setup 
+parameters for the multi-axis CNC milling. 
+ 
+Additive Manufacturing 
+– Innovative additive manufacturing (3D 
+printing) processes 
+– Novel materials for processing on additive 
+manufacturing equipment 
+ 
+Maintenance Management 
+– 
+Total Productive Maintenance; 
+Productivity/process improvement via 
+lean and allied methodologies 
+– 
+Implementation/benchmarking of 
+Maintenance Management techniques 
+– 
+Development of Computerized 
+Maintenance Management Systems 
+ 
+Supply Chain Management 
+– 
+New Product Development Integration 
+with Supply Chain 
+– 
+Integrated Extended Enterprise at all the 
+levels. 
+– 
+Decision Making Points Analysis in 
+Enterprise 
+– 
+Supply Chain Business Process Simulation 
+– 
+Strategic Management in Supply Chain 
+– 
+Bullwhip Effect Analysis in Distribution 
+Network 
+– 
+Performance Measurement in Supply 
+Chain. 
+– 
+Feasibility Analysis in Supplier Selection 
+Process. 
+– 
+Market Development or Penetration in 
+Supply Chain. 
+Department of  
+Industrial & Manufacturing
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+33 
+8.3 FACULTY MEMBERS 
+ 
+Chairperson 
+ 
+ 
+Prof. Dr. Syed Amir Iqbal 
+ 
+ 
+Professors 
+ 
+1.  
+Prof. Dr. Muhammad Tufail 
+B.E. (Mech) NED;  
+ 
+ 
+M.Sc. (Manufacturing System) Nottingham University, UK; 
+ 
+ 
+Ph.D. Nottingham University, UK; C.Eng; FIMechE, Mem ASME 
+ 
+2 
+Prof. Dr. Syed Amir Iqbal 
+B.E. (Mech); M.E.(Mech.) with  
+ 
+ 
+Mfg. Engg. Specialisation; Ph.D. (UK)  
+ 
+Associate Professors 
+ 
+ 
+1. 
+Dr. Maqsood Ahmed Khan 
+B.E. (Mech); M.E. (Mech) with 
+ 
+ 
+Mfg. Engg. Specialisation; Ph.D. (Canada) 
+ 
+2. 
+Dr. Muhammad Fahad 
+B.E., (Ind. & Mfg.); M.Sc. with Mfg. Mgt. 
+ 
+ 
+Specialisation (U.K); Ph.D. (UK)     
+ 
+Assistant Professors 
+ 
+1. 
+Dr. Muhammad Wasif 
+B.E. (Mech); M.E. (Mfg.); 
+ 
+ 
+Ph.D. (Canada) 
+ 
+2. 
+Dr. Syed Mehmood Hasan 
+B.E., (Ind. & Mfg.); M.S. with Engg. Mgt.  
+ 
+ 
+Specialization (U.K); Ph.D. (UK) 
+ 
+3. 
+Mr. Asim Zaheer  
+B.E., (Mech); M.Sc. with Engg. Mgt. Specialisation (USA); 
+ 
+ 
+Ph.D. (UK) 
+ 
+4. 
+Dr. Aqeel Ahmed  
+B.E. (Mech); M. E. (Mfg.); Ph.D. (Canada)   
+ 
+5. 
+Dr.  Anis Fatima 
+B.E. (Ind. & Mfg.); M. E. (Mfg.); Ph.D. (UK) 
+ 
+6. 
+Dr.  Sheheryar Mohsin Qureshi 
+B.E. (Ind. & Mfg.); M. E. (QM.); 
+ 
+ 
+Ph. D (Korea). 
+ 
+ 
+ 
+ 
+Department of  
+Industrial & Manufacturing
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+9 DEPARTMENT OF TEXTILE 
+ENGINEERING 
+ 
+INTRODUCTION 
+Textile 
+Engineering 
+Department 
+was 
+established in 1996 with the aim to provide 
+quality education in the field of Textile 
+Engineering. The first Batch of Textile 
+Engineers passed out in 2001. We are 
+providing quality education to our students. 
+Our graduates are serving the Textile Industry 
+of Pakistan in different capacities for the last 
+12 years. 
+ 
+Our undergraduate program is very well 
+established. Textile Engineering Department 
+has started the Postgraduate program i.e. M. 
+Engg in Textiles 2005 and we have also started 
+our MEM in Textile Management in 2010. 
+These programs are also running successfully. 
+The principal objective of these programs is to 
+equip the students with the latest knowledge 
+in the area of Textile Engineering. By the 
+knowledge obtained during their studies the 
+students should be able to manage the textile 
+industry and also should be able to 
+understand and solve the problems of textile 
+industry in which they are employed. 
+ 
+The Department actively collaborates 
+with the local textile industry to solve their 
+problems by conducting different projects at 
+students and faculty member level. We intend 
+to start our Ph.D. program as per the policy of 
+the university. 
+ 
+Ph.D. program of our department is 
+aimed at outstanding young textile engineers 
+who want to continue their career in 
+academia and textile industry. In the modern 
+era in order to export the goods and meet the 
+compliance criteria of well-known buyers, the 
+industry is facing an uphill task of establishing 
+R & D culture. 
+ 
+Our Ph.D. program would enable the 
+students to gain high quality doctoral 
+qualification and also they will develop an 
+understanding of technology driven business 
+they would be able to innovate and respond 
+to the challenges faced during product and 
+process development.  
+During this program, students will 
+gain experience by working closely with 
+collaborating industrial R & D teams. During 
+the degree the students will be placed in an 
+industry to conduct the research for a 
+significant time period.  
+ 
+9.1 LABORATORY FACILITIES 
+We have fully equipped lab facilities for 
+manufacturing yarn and fabrics. We have also 
+got facilities for wet processing of fabrics. The 
+textile machinery present in our labs are as 
+follows: 
+Department of  
+Textile Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+i. 
+Machines for yarn manufacturing 
+from Carding to Cone Winding 
+ii. 
+Machines 
+for 
+fabric 
+manufacturing 
+which 
+includes 
+Hand loom Rapier loom Air jet 
+loom and Projectile loom  
+iii. 
+Machines for the fabric dyeing 
+such as winch and jigger  
+iv. 
+Lab scale facilities for continuous 
+dyeing and printing 
+v. 
+Fibre yarn and fabric testing 
+equipment  
+ The textile machinery present in the 
+department could be used for manufacturing 
+different types of fabrics and yarns. Most of 
+these machines are of industrial scale so they 
+can be easily used for conducting research 
+work. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.2 RESEARCH AREAS 
+Looking at the expertise of our faculty 
+members and the facilities available in the 
+department, we can cover the following 
+research areas: 
+ 
+i. 
+Yarn manufacturing 
+ii. 
+Fabric manufacturing 
+iii. 
+Dyeing and finishing of fabrics 
+iv. 
+Textile coloration 
+v. 
+Textile composites 
+vi. 
+Textile printing 
+9.3 FACULTY MEMBERS 
+Professor 
+Prof. Dr. Khalid Pasha 
+ 
+ 
+ 
+B.Sc (Hons)  
+ 
+ 
+ 
+ 
+ 
+ 
+M. Sc. (Chemistry) 
+Ph.D. (Textile, UMIST, UK) 
+ 
+Associate Professors 
+ 
+1. Dr. Sheraz Hussain Siddique 
+B.E (Textile Engg);    
+ 
+ 
+M.Sc. (Textile & Clothing, Germany); 
+ 
+ 
+Ph.D. (Textile) University of Manchester UK 
+ 
+2. Dr. Salma Farooq 
+B.Sc. (Textile Engg); M.Engg. (Textile); 
+ 
+ 
+Ph.D. (Textile, Heriot Watt University, UK) 
+ 
+3. Dr. Bilal Zahid  
+B.E. (Textile Engg); M.Engg. (Textile); 
+ 
+ 
+MBA (Textile Management) 
+ 
+ 
+Ph.D. (Textile, University of Manchester, UK) 
+ 
+4. Dr. Fareha Asim 
+B.E (Textile Engg); M. Engg. (Textile); 
+ 
+ 
+Ph.D. (Textile, NED University) 
+ 
+Department of  
+Textile Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+Assistant Professors 
+ 
+2. Dr. Deedar Hussain 
+B.Sc. (Textile Engg); M.Engg. (Textile) 
+ 
+ 
+Ph.D. (Supply Chain Management,  
+ 
+ 
+University of Minho, Portugal) 
+ 
+3. Dr. Saira Faisal   
+B.E (Textile Engg); M.Engg. (Textile) 
+ 
+ 
+Ph.D. (Textile, University of Leeds, UK) 
+ 
+4. Dr. Shenela Naqvi   
+B.E (Textile Engg); M.Engg. (Textile) 
+ 
+ 
+Ph.D. (Textile, University of Manchester, UK) 
+ 
+5. Dr. Muhammad Dawood Husain 
+B.E. (Textile Engg); M.Sc. (Textile & Clothing Germany); 
+ 
+ 
+Ph.D. (Textile, University of Manchester, UK) 
+ 
+8. Dr. Ali Hasan Mahmood 
+B.E (Textile Engg); M.Engg. (Textile); 
+ 
+ 
+Ph.D. (Textile, University of Manchester, UK) 
+ 
+9. Dr. Muhammad Ali  
+B.E. (Textile Engg); M. Engg. (Textile) 
+ 
+ 
+Ph.D. (Textile, University of Leeds, UK) 
+ 
+10. Dr. M. Owais Raza Siddiqui 
+B.E. (Textile Engg); M. Engg. (Textile) 
+ 
+ 
+Ph.D. (Textile, Heriot Watt University, UK) 
+ 
+11. Dr. Quratulain Mohtashim  
+B.E. (Textile Engg); M. Engg. (Textile) 
+ 
+ 
+Ph.D. (Textile, The University  of Manchester, UK) 
+ 
+ 
+ 
+ 
+Department of  
+Textile Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+10 
+ DEPARTMENT OF ELECTRICAL 
+ENGINEERING 
+ 
+INTRODUCTION 
+The 
+Department 
+of 
+Electrical 
+Engineering is rich-both in its history. The 
+undergraduate 
+program 
+in 
+Electrical 
+Engineering traces back many decades and its 
+alumni have been active in social and 
+professional activities around the world. The 
+Department of Electrical Engineering has 
+contributed in the development of three 
+other 
+engineering 
+disciplines 
+at 
+NED 
+University namely, Computer and Information 
+Systems, Electronic and Telecommunications 
+Engineering. 
+ 
+The Department also holds a strong 
+post-graduate 
+setup. 
+A 
+M.Sc. 
+Degree 
+Programme in Electrical Engineering has been 
+offered by this Department since 1984. The 
+program has seen several modifications and is 
+currently offered as a semester based 
+M.Engg. 
+Degree 
+Programme 
+in 
+two 
+specializations: Electrical Power Systems and 
+Energy Management.  
+ 
+The Department of Electrical Engineering 
+also holds the honour to supervise and award 
+the first PhD at NED University. It encourages 
+research right from the undergraduate Final 
+Year projects, which support Masters level 
+Dissertations and Independent Study Projects, 
+ultimately contributing towards PhD projects. 
+Currently, senior faculty is involved in 
+supervising both PhD and Master level 
+projects in cutting edge areas of Electrical 
+Engineering.  
+ 
+10.1 
+RESEARCH FACILITIES 
+ 
+Laboratory Facilities 
+The 
+Department 
+of 
+Electrical 
+Engineering has nice blend of field experience 
+and higher education in diverse fields of 
+Electrical Engineering specializations. The 
+laboratories at Department of Electrical 
+Engineering are equipped with latest technical 
+simulation software and instrumentation 
+equipment to facilitate research in Power 
+Systems Wide Area Monitoring and Control, 
+Protection, Stability, Transients Analysis, State 
+Estimation, Smart  Grid Technologies, Phasor 
+Measurement 
+Technologies, 
+Joint 
+Time 
+Frequency Analysis, Language and Speech 
+Signal Processing, Information Visualization, 
+Current-mode 
+circuits 
+and 
+filters. 
+The 
+Department also offers dedicated research 
+area with excellent facilities for researchers. 
+ 
+Excellent facilities to perform specific 
+research in areas of Signal Processing, Power 
+Systems and Controls are available 
+ 
+Department of  
+Electrical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+Computing and Allied Facilities 
+The Department has two Computer 
+labs,capable 
+of 
+performing 
+high 
+end 
+simulations. Latest technical software is 
+installed including MATLAB, PSSE and ETAP. 
+The computers are networked with internet 
+access. 
+ 
+A list of recent PhD and Master 
+Projects successfully undertaken is: 
+ 
+i. 
+Power 
+System 
+Protection 
+Co-
+ordination 
+Prevalent 
+and 
+Recommended in Karachi 
+ii. 
+Developing 
+Unit 
+Commitment 
+Algorithm Considering National Power 
+Constraints 
+iii. 
+Modeling Pakistan's Power Sector 
+Policies by Demand and Supply 
+Forecasting 
+iv. 
+The Study of Proper Placement 
+Selection and Sizing of Roof Top Wind 
+Turbines 
+for 
+Local 
+Household 
+Electricity Generation 
+v. 
+Optimum Placement of Power Factor 
+Improvement Devices to Improve 
+Voltage 
+Stability 
+Synchrophasor 
+Technology 
+vi. 
+Statistical Analysis of Synchrophasor 
+Data 
+vii. 
+Preprocessing Algorithms for Arabic 
+Speech Recognition 
+viii. 
+Improved 
+Design 
+of 
+Phasor 
+Measurement 
+Unit 
+as 
+per 
+IEEE 
+C37.118.1 Standard using Simulink 
+ix. 
+Analysis of Switching Transients in 
+Integrated Power System 
+x. 
+Synchronization of Power System 
+Data with GIS Maps 
+xi. 
+Line to Ground Fault Study of KESC 
+EHT Transmission Network 
+xii. 
+Development of Audio Content based 
+Search Techniques 
+10.2 
+ACADEMIC 
+AND 
+INDUSTRIAL 
+LINKAGES 
+Research 
+flourishes 
+through 
+collaboration, linkages and outreach. The 
+Department 
+of 
+Electrical 
+Engineering 
+recognizes the importance of creating and 
+sustaining strong relationships with others. 
+While academic linkages enhance creation of 
+knowledge, 
+industrial 
+relations 
+boost 
+application. Both are important for keeping 
+research socially relevant. 
+ 
+The 
+Department 
+has 
+developed 
+contacts 
+with 
+several 
+international 
+universities, 
+including 
+Michigan 
+Tech 
+University, USA, Brunel University, UK, GIST, 
+Korea, 
+Universiti 
+Malaya, 
+UniversitiSains 
+Malaysia, King Fahad University of Petroleum 
+and Minerals, Saudi Arabia, KTH Royal 
+Institute of Technology, Sweden. 
+ 
+The Department also engages actively 
+with 
+industries 
+to 
+contribute 
+towards 
+addressing problems indigenously. Projects 
+have been undertaken with leading industries 
+such as Siemens, PIA, Pakistan Steel Mills, 
+KANUPP, Areva, and Asia Petroleum.  
+ 
+Department of  
+Electrical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+Several initiatives taken 
+by the 
+Department with KESC have resulted in 
+signing of a formal MOU of Strategic 
+Collaboration between NED University and 
+KESC. Additionally, the two institutes are now 
+actively 
+engaged 
+in 
+area 
+of 
+Energy 
+Management which has resulted in a project 
+proposal to transform NED University into 
+first Green Campus of Pakistan.  
+ 
+10.3 
+THEMATIC RESEARCH 
+ 
+The Department is currently encouraging 
+research proposals under following research 
+themes: 
+ 
+Wide Area Monitoring and Control: Wide 
+area monitoring and control is now possible 
+using PMUs (Phasor Measurement Units), 
+which are also available in advance meters 
+and relays. Phasor measurements can be used 
+for monitoring of whole (wide) of the 
+network. This is an emerging field of research 
+in Power Systems. 
+ 
+Advanced Power System Protection: Reliable 
+Phasor measurements are now available in 
+real time from main points of the grid, which 
+are then utilized to address advanced power 
+system protection strategies.  
+ 
+Power System Stability: Voltage and Angle 
+Stability are important aspects of Power 
+System to have equilibrium between the load 
+and 
+generation, 
+it 
+has 
+become 
+more 
+important to study in context of the rapidly 
+changing power grid nowadays. 
+ 
+Power System Transients Analysis: Several 
+Power Systems myths and mysteries are 
+addressed by performing transient analysis on 
+Power System Models. 
+ 
+Power System State Estimation: Availability 
+of real time power systems data has opened a 
+new field of research for more accurate and 
+instantaneous Power System estimation, 
+which will be beneficial to improve power 
+system stability and blackout avoidance. 
+ 
+Black out avoidance Strategies: Wide Area 
+Monitoring and Control techniques using 
+Phasor measurements have provided an 
+opportunity to develop new strategies to 
+avoid blackouts. 
+ 
+Smart Grid Technologies: Different Smart 
+Grid Technologies are being rapidly developed 
+around world. There is a great research 
+opportunity 
+to 
+not 
+only 
+develop 
+the 
+technologies and applications as well. 
+ 
+Phasor Measurement Technologies: This 
+technology is in rapid development phase to 
+be as accurate as possible because this is the 
+basic 
+building 
+block 
+of 
+SychroPhasor 
+Technology.  
+ 
+Joint Time Frequency Analysis: The study is to 
+develop and apply tools which can present 
+signals in a domain where instantaneous time 
+and frequency information is jointly available. 
+The applications vary widely: such as power 
+systems, communication systems, biomedical 
+imaging, image processing. 
+ 
+Language and Speech Signal Processing: One 
+of the initial aims of Artificial Intelligence is to 
+enable 
+computers 
+to 
+produce 
+and 
+comprehend human languages - spoken as 
+well as written - in order to communicate with 
+Department of  
+Electrical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+us; in the way we do to each other. This is an 
+interdisciplinary area and is widely known as 
+computational linguistics. The area requires 
+expertise in Physics, Signal processing, Pattern 
+recognition, Communication and Information 
+theory, linguistics, physiology and computer 
+science. 
+Information Visualization: This field deals 
+with large amount of data represented in such 
+a fashion which supports decision making. 
+This is again an interdisciplinary area of Data 
+Acquisition, Computer Science and Data 
+Mining. 
+ 
+Current 
+mode 
+circuits 
+and 
+Filters:Current/Voltage mode integrable filter 
+circuits with convenient tunability of the filter 
+parameters 
+having 
+low 
+sensitivity 
+and 
+reduced number of component counts, and 
+extended frequency range will be developed 
+and investigated using special ICs, such as 
+OTS, OAs, NICs, CCC-I & II, etc. Also, 
+component matching technique may be 
+utilized 
+to 
+reduce 
+component 
+counts. 
+Moreover, Active only current mode filter 
+circuits 
+may 
+also 
+be 
+developed 
+and 
+investigated in the PhD Projects. 
+ 
+10.4 
+FACULTY MEMBERS  
+ 
+Professors: 
+ 
+ 
+Prof.Dr.Saad Ahmed Qazi 
+B.E.(Elect.);  
+ 
+ 
+M.Sc. (Lancaster, U.K.);  
+ 
+ 
+Ph.D (Brunel, UK),  
+ 
+Associate Professor: 
+ 
+ 
+Dr. Muhammad Ali Memon 
+B.E.(Electrical);  
+ 
+ 
+M.Engg.(TC) NEDUET; MBA (MIS);  
+ 
+ 
+ 
+ 
+ 
+Ph.D (USA) 
+Assistant Professors: 
+ 
+1. Dr. Abdul Ghani Abro 
+B.E.(Electrical);  
+ 
+ 
+M.Engg.(EE) NEDUET,  Ph.D. Malaysia) 
+ 
+2- Dr. Riazuddin 
+B.E. (Electrical);  M.Engg. (EE), NED  
+ 
+ 
+Ph.D. (South Korea) 
+ 
+3- Dr. Muhammad Mohsin Aman 
+B.E. (Electrical);  M.Engg. (EE), NED University;  
+ 
+ 
+Ph.D (Malaysia) 
+ 
+ 
+ 
+Department of  
+Electrical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+11. DEPARTMENT OF COMPUTER AND 
+INFORMATION SYSTEMS 
+ENGINEERING 
+Computer 
+engineering 
+is 
+an 
+integration of various fields of Computer 
+Science and Electrical Engineering required 
+for developing computer software 
+and 
+hardware. The programme of Computer 
+Systems Engineering started at NED University 
+in 1984 to address these needs. As the 
+discipline got advanced, later on, a separate 
+department was established in 1997 named 
+as Department of Computer and Information 
+Systems Engineering. The Department has 
+both 
+Undergraduate 
+and 
+Postgraduate 
+programmes. At undergraduate level the 
+Department has been offering four-year 
+Bachelor of Engineering (Computer and 
+Information 
+Systems 
+Engineering) 
+programme. Students are taught Software 
+design, 
+Hardware 
+Software 
+integration, 
+Computer Networking, Embedded system 
+design, Robotics, VLSI chip design, Database 
+management and many other interdisciplinary 
+courses. The good reputation of the university 
+and the department has always attracted 
+many prospective employers, both foreign 
+and local. 
+ 
+At 
+post 
+graduate 
+level, 
+the 
+department offers Master of Engineering 
+(Computer Systems) and PhD (Computer 
+Engineering) programmes. At Master’s level 
+there are two areas of specialization offered 
+by 
+the 
+department 
+namely; 
+Computer 
+Architecture & Systems Design and Computer 
+Networks & Performance Evaluation.  
+ 
+The department has four full time 
+PhD faculty members and currently five more 
+are at different stages of their PhD research, 
+mostly abroad. Since its inception the 
+department has produced two PhD graduates 
+and one PhD scholar is in her final stages of 
+completion. 
+ 
+ 
+ 
+ 
+10.5
+RESEARCH FACILITIES
+Laboratories  
+Computer Networks Laboratory 
+Computer Networks Laboratory is 
+equipped with latest routers and network 
+simulation software. Laboratory sessions of 
+courses related to Computer Communication 
+Networks, Internet 
+Computing, 
+and 
+DigitalCommunication Systems are conducted 
+here.  
+ 
+Artificial Intelligence and Robotics 
+Laboratory 
+Artificial Intelligence & Robotics lab 
+fulfills the needs of the department by 
+supporting the laboratory sessions related to 
+the courses of artificial intelligence and 
+robotics. The lab is equipped with latest Intel 
+i7 machines and a variety of Robotic arms and 
+Boe-bot Robots. The Robotic equipment is 
+utilized by undergraduate and post graduate 
+students for their research and development 
+projects.  
+ 
+Department of  
+Computer & Information System
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+Parallel Processing Laboratory 
+ 
+Thislaboratoryfulfills 
+high 
+performance computational needs of the 
+department. At present Parallel Processing lab 
+has latest servers, which act as ORACLE and 
+OPNET servers. The lab also has a four-node 
+(PIV) Beowulf cluster, connected via 100Mbbs 
+Star topology which is used for high end 
+computing. It is Linux based and uses "MPICH" 
+as cluster management software. Moreover, 
+the user and resource administration is being 
+done 
+using 
+"OpenPBS". 
+"NAS 
+Parallel 
+Benchmark" is also installed on this cluster.  
+ 
+Microprocessor Laboratories I and II 
+ 
+To support a wide variety of student 
+laboratory sessions and research projects 
+related 
+to 
+microprocessor 
+design 
+and 
+implementation, there are two dedicated 
+laboratories in the Department.  
+ 
+Logic Design and Switching Theory 
+Laboratory 
+ 
+This 
+laboratory 
+supports 
+the 
+undergraduate and post graduate research 
+and development projects related to digital 
+hardware design and implementation. It is 
+equipped with all the necessary trainer 
+boards, off-the-shelf hardware components, 
+circuit fabrication kits etc. that can be utilized 
+by the students. 
+Research Laboratory 
+ 
+CIS Department has a Research 
+Laboratory that can accommodate 6 to 8 
+research scholars. This laboratory can support 
+necessary 
+computing 
+and 
+network 
+requirements of the research scholars round 
+the clock. This research lab is equipped with a 
+latest state-of-the-art 48 nodes cluster facility 
+with Linux as core operating system. 
+ 
+Facilities to support research at post 
+graduate level  
+ 
+ 
+The Research Laboratory has the basic 
+infrastructure to support post graduate 
+level 
+research 
+projects. 
+Necessary 
+computing and network support is already 
+present. 
+ 
+Parallel Processing Laboratory in the 
+department is also equipped with a 
+smaller cluster system utilizing MPICH 
+protocol and Linux operating system. 
+ 
+The department also has the facilities to 
+support 
+high 
+performance 
+GPGPU 
+computing. The department is in the 
+process of implementing its own GPGPU 
+cluster. 
+ 
+The 
+department 
+has 
+digital 
+signal 
+processing equipment comprising DSP 
+processer and FPGA based electronic 
+development kits. The department also 
+has the necessary software to support 
+these hardware. 
+Department of  
+Computer & Information System
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+10.6 
+POST GRADUATE RESEARCH 
+Research has always been an area of 
+paramount importance to CIS. The University 
+also encourages research by faculty members 
+& provides incentives for research output in 
+the form of publications. The department is 
+actively involved in research at postgraduate 
+level in conventional and emerging areas of 
+Computer Engineering.  
+ 
+10.7 
+RESEARCH AREAS 
+The Department currently offers PhD 
+positions in following research areas: 
+ 
+ComputerArchitecture 
+ 
+Distributed Systems and 
+Computer Networks 
+ 
+High Performance Computing  
+ 
+Multicore Processing  
+ 
+VLSI Design and Testing 
+ 
+IC Design 
+ 
+Mixed Signal Circuits 
+ 
+Digital Signal Processing Systems 
+ 
+Reliable System Design 
+ 
+Intelligent Embedded Systems
+11.4 
+FACULTY MEMBERS 
+ 
+Associate Professors 
+ 
+1- Dr.-Ing. Shehzad Hasan 
+B.E. (Computer Systems); 
+ 
+ 
+M.Engg. (Computer Systems); PhD (Germany) 
+ 
+2- Dr. Muhammad Ali Ismail 
+B.E. (Computer & Info. Systems); 
+ 
+ 
+M.Engg. (Computer Systems); 
+ 
+ 
+PhD (NED); Post Doctorate (Romania) 
+ 
+3- Dr. Muhammad Khurram 
+B.E. (Computer Systems); 
+ 
+ 
+M.Engg. (Computer Systems); PhD (New Zealand) 
+ 
+Assistant Professors 
+ 
+4- Dr. Syed Abbas Ali 
+B.E. (Computer Systems); 
+ 
+ 
+M.Engg. (Electrical); PhD (NED) 
+ 
+5- Dr. Saneeha Ahmed 
+B.E. (Computer& Info. Systems); 
+ 
+ 
+M.Engg. (Computer Systems); PhD. (Canada)  
+ 
+6- Dr. Muhammad Asad Arfeen 
+B.E. (Computer & Info. Systems); 
+ 
+ 
+M.Engg. (Computer Systems); PhD (New Zealand) 
+ 
+ 
+ 
+ 
+Department of  
+Computer & Information System
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+11 DEPARTMENT OF ELECTRONIC 
+ENGINEERING 
+The 
+Department 
+of 
+Electronic 
+Engineering administers Electronic as well as 
+Telecommunication Engineering Programme 
+at NED University. The Department of 
+Electronic Engineering has several researchers 
+having 
+PhD 
+from 
+world 
+renowned 
+Universities. 
+The 
+Department 
+possesses 
+research 
+expertise 
+in 
+Nanotechnology, 
+Embedded Systems, Electromagnetics, Micro 
+Electro 
+Mechanical 
+Systems, 
+Wireless 
+Systems, Antenna Design, Wireless Local 
+Positioning System, Robotics, Metamaterials, 
+Information 
+Systems, 
+Radio 
+Frequency 
+Devices, Power Electronics, and Industrial 
+Automation & Control. 
+ 
+The 
+Department 
+of 
+Electronic 
+Engineering, established in 1999, currently 
+offers Bachelor of Engineering degree in 
+Electronic 
+and 
+Telecommunication 
+Engineering, Master of Engineering Degree in 
+three specializations namely Micro-system 
+Design, 
+Industrial 
+Electronics, 
+and 
+Telecommunication Engineering.  
+ 
+11.1 
+RESEARCH FACILITIES  
+The 
+Electronic 
+Engineering 
+Department possesses research facilities to 
+conduct the PhD research such as course 
+work, simulations and collaborative research. 
+The department possesses the 
+faculty, 
+buildings and equipment to initiate and 
+complete the research projects. There are 
+various laboratories to support PhD research.  
+The department is well equipped with 
+necessary tools and equipment to undertake 
+cutting-edge research in allied areas. The 
+Department has active collaborations with 
+research groups in USA, Sweden, Netherlands, 
+Turkey, and Malaysia.  
+ 
+Research Groups 
+The 
+Department 
+of 
+Electronic 
+Engineering is actively involved in the 
+research activities related to Electronic and 
+Telecommunication engineering. Our faculty 
+and scholars published various research 
+articles in world-class, high impact factor 
+journals such as IEEE transactions, IET 
+journals, Physical Review B, Journal of Applied 
+Physics, Applied Physics Letters, Bio Sensors 
+and Bio electronics, sensors and Actuators B, 
+Progress in Electromagnetic Research B, 
+Sensors Journal, Journal of Optical Society of 
+America 
+B, etc. Department’s research 
+activities 
+have 
+been 
+recognized 
+by 
+international bodies and leading journals such 
+as, Nature Photonics, Optics and Photonics 
+News, Sensors Journal, and Micro Nano Letter 
+(IET journal). Three articles have won best 
+paper awards by respective publishers in 
+2013. 
+Department of  
+Electronic Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+Various research groups working in 
+the department are: 
+ 
+Nano-technology group 
+ 
+Wireless systems group 
+ 
+Antenna design group 
+ 
+Robotics group 
+ 
+RF devices group 
+Research Projects 
+Some of the research projects are: 
+ 
+Flexible and adaptive wide 
+band power amplifiers for 
+transmitters 
+ 
+Novel technique for 
+performance improvement of 
+cognitive radio 
+ 
+Flexible low noise amplifier 
+for software defined radio 
+ 
+Design & development of a 
+slotlinemicrostrip based stack 
+patch antenna with probe fed 
+feeding mechanism. 
+ 
+Analysis of u-shaped 
+microstrip patch antenna 8x1 
+array after introduction of 
+CSRRs, fractal structure and 
+stacking, - independently and 
+cumulatively.  
+ 
+Wide bandgap semiconductor 
+based electronic and photonic 
+devices 
+ 
+Electrical characterization of 
+semiconductor devices 
+ 
+Design of high efficiency class-
+E power amplifier using 
+cadence 
+ 
+Investigation of interface 
+scenario between 
+geostationary satellites using 
+ITU database 
+ 
+Performance analysis of 
+nonlinear pre-coding in multi-
+user MIMO system. 
+ 
+Activity recognition in kitchen 
+using image processing. 
+ 
+Implementation of contour 
+let transform for image 
+processing. 
+ 
+Resource allocation for MIMO 
+cognitive radio systems using 
+game theory. 
+ 
+Power optimization in 
+cognitive radio networks: a 
+game theoretical approach. 
+ 
+Secure network management 
+of a wireless sensor network 
+using customized SNMPv2c. 
+ 
+Designing of high efficiency 
+class e amplifier in CMOS 
+technology using cadence. 
+ 
+Designing and study of micro 
+scaled (CMOS devices) 
+ 
+General bi-quadratic active RC 
+filter circuit using negative 
+impedance convertor 
+ 
+Non-linear controller design 
+for electrical power system of 
+power plant. 
+ 
+Model optimization and 
+adaptive PID control synthesis 
+of electrical power system for 
+a power plant. 
+ 
+Department of  
+Electronic Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+Laboratory Facilities 
+The Department possesses various 
+laboratories 
+related 
+to 
+electronic 
+and 
+telecommunication 
+engineering 
+well-
+equipped with state-of-the-art equipment to 
+facilities research activities in the department. 
+For instance, The Device Characterization (DC) 
+lab is a multi-purpose laboratory for on-wafer 
+semiconductor device characterization and 
+integrated circuit testing. The laboratory is 
+equipped with advanced equipment for 
+characterizing 
+electronic 
+devices, 
+power 
+devices, 
+and 
+integrated 
+circuits. 
+Radio 
+Frequency (RF) lab is equipped with advanced 
+equipment for measurement of RF and 
+Microwave circuits. PCB lab has necessary 
+facilities to fabricate industrial-grade PCBs 
+and 
+provided 
+necessary 
+testing. 
+The 
+department also possesses programmable 
+logic controllers, VLSI testing facility, and 
+necessary equipment for power electronics.  
+ 
+Telecommunication 
+laboratories 
+possesses personal handheld system/wireless 
+local loop (PHS/WLL) that can serve as test-
+bed 
+for 
+researchers. 
+Other 
+telecommunication 
+laboratories 
+possess 
+necessary support for wireless channel 
+sounding, 
+antenna 
+testing 
+and 
+characterization, signal processing tools, etc. 
+The equipment include, but not limited to 
+vector network analyser, noise source, vector 
+signal generator, vector signal analyser, RF 
+probe head, signal generators, spectrum 
+analyser etc. 
+Computing Facilities  
+Three 
+air-conditioned 
+computer 
+laboratories are available with computers 
+running licensed operating systems plus other 
+licensed software packages. High performance 
+cluster computers are also available for 
+research purposes. There is access to email, 
+internet, intranet and others online sources of 
+information and services. Access to the internet 
+is provided via a high speed connection through 
+fiber-optic network. Printing and scanning 
+facilities are also available for the facilitation of 
+scholars.  
+ 
+Research Linkages 
+Various linkages to support research 
+activities in the department include:  
+ 
+Linkoping’s University(LiU), Sweden 
+ 
+University of Sains (USM), Malaysia 
+ 
+Middle East Technical 
+University(METU),Turkey  
+ 
+NXP Semiconductors/ Delft University of 
+Technology, Netherlands 
+ 
+King Abdul Aziz University of Science and 
+Technology, Saudi Arabia 
+ 
+Research Interests 
+The Department intends to pursue research in 
+following areas: 
+ 
+Solid state devices system 
+ 
+VLSI design and fabrication, test and 
+reliability 
+ 
+Micro fabrication 
+ 
+Nano-technology 
+ 
+Nano-materials and Nano-devices 
+ 
+Micro-electro-mechanical system 
+ 
+Optoelectronics integrated circuits 
+ 
+Laser and optical fiber 
+ 
+Instrumentation and calibration 
+ 
+Mechatronics 
+ 
+Power electronics, industrial electronics 
+ 
+Embedded system design 
+ 
+Digital and analog signal processing 
+ 
+Fuzzy logic and intelligent control systems 
+ 
+Radio frequency integrated circuits 
+ 
+Electromagnetic Metamaterials 
+ 
+Wireless communications 
+ 
+Wireless local positioning system 
+ 
+Cognitive radios 
+ 
+Antenna design 
+ 
+Antenna arrays 
+ 
+Green communications 
+ 
+Optical devices and networks 
+ 
+Communication networks 
+ 
+Microwave systems 
+ 
+Robotics 
+Department of  
+Electronic Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+47 
+11.2 
+FACULTY MEMBERS 
+Chairperson  
+ 
+ 
+ 
+ 
+ 
+Telephone Office 
+ 
+Prof. Syed Muhammad Usman Ali Shah  
+99261261-68 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ext.2270 
+ 
+Co-Chairman (Electronic) 
+ 
+ 
+ 
+ 
+ 
+Dr. Ghous Bakhsh Narejo 
+ 
+ 
+99261261-68 
+ 
+ 
+ 
+ 
+ 
+ 
+Ext.2215 
+Co-Chairman (Telecommunications) 
+ 
+ 
+ 
+Dr. Muhammad Imran Aslam 
+ 
+ 
+99261261-68 
+ 
+ 
+ 
+ 
+ 
+ 
+Ext.2671 
+Professor 
+ 
+1- 
+Prof. Dr. Syed Muhammad Usman Ali Shah  
+B.E. (Electronic) NED; M.Sc. (Electrical) NED 
+ 
+ 
+Ph.D.(Electronic Engg.) Linkoping University, Sweden 
+ 
+2- 
+Prof. Dr. Attaullah Khawaja (On leave) 
+B.E (Electrical Engg.); M.Engg (Electrical Engg.) 
+ 
+ 
+Ph.D (Communication  & Information Systems) 
+ 
+Associate Professors 
+ 
+1- 
+Dr. Ghous Bakhsh Narejo 
+B.E. (Electronic); M.Engg. (Electronic); NED 
+ 
+ 
+Ph.D. (Electrical Engineering) Michigan Tech.,  
+ 
+ 
+Michigan, USA 
+ 
+2- 
+Dr. Irfan Ahmed 
+B.E. (Electrical); M.Engg. (Electrical); NED 
+ 
+ 
+Ph.D. (Electrical Engineering) Michigan Tech.,  
+ 
+ 
+Michigan, USA 
+ 
+3- 
+Dr. Muhammad Imran Aslam 
+B.E. (Electrical); M.Engg. (Electrical); NED 
+ 
+ 
+ 
+Ph.D. (Electrical Engineering) Michigan Tech.,  
+ 
+ 
+Michigan, USA 
+ 
+4- 
+Dr. Adeel Razi (On leave) 
+B.E. (Electrical) NED 
+ 
+ 
+MSc. (Comm. Engg.); RWTH Aachen, Germany 
+ 
+ 
+Ph.D. (Electrical Engineering); UNSW, Australia 
+ 
+Assistant Professors 
+ 
+1- 
+Dr. Sadia Muniza Faraz 
+B.E. (Electrical); M.Engg. (Electronic); NED 
+ 
+ 
+Ph.D. (Semiconductor Devices); NED 
+ 
+2- 
+Dr. Syed Riaz un Nabi Jafri(On Leave) 
+B.E. (Electronic); M.Engg. (Industrial Electronic)  
+ 
+ 
+Ph.D. (Robotics); Italy 
+ 
+3- 
+Dr. Hashim Raza Khan  
+B.E. (Electrical); M.Sc. (Communications Engg.);  
+ 
+ 
+Germany; Ph.D. (Electronics); NED 
+ 
+ 
+ 
+Department of  
+Electronic Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+48 
+13. DEPARTMENT OF MATERIALS 
+ENGINEERING 
+ 
+INTRODUCTION: 
+ 
+The evolution and development of materials 
+had led to the development of human cultures 
+and industries. Every product is an aggregate of 
+materials made in various types. Materials 
+Engineering is an interdisciplinary field that 
+addresses the structure, processing, and 
+property 
+relationships 
+in 
+materials 
+for 
+engineering applications. Basic principles of 
+chemistry and physics are applied to provide an 
+understanding of the structure of materials and 
+the manner in which the structure governs the 
+properties. Engineering processing methods are 
+then applied to yield the necessary properties, 
+which then can be integrated with, and 
+designed to accommodate the needs of modern 
+technology. 
+ 
+In particular, as an academic field with great 
+industrial fundamentality and importance, it has 
+a large ripple effect on all industries as well as a 
+very broad and intensive scope of study.  
+ 
+The Department of Materials Engineering offers 
+both practical and theoretical curricula on 
+metals and alloys, ceramics, semiconductors, 
+polymers, glasses, composites, biomaterials, 
+and recently developed nano-materials. 
+ 
+The Department is headed by Professor Dr. 
+Ashraf Ali (having Thirty Two (32) years of 
+Research Experience) and supported by well 
+experienced faculty members. Teaching staff is 
+also supported with a skilful technical staff for 
+laboratory 
+handling 
+and 
+rapidly 
+growing 
+technical facilities. For enhancing practical 
+knowledge 
+of 
+students 
+a 
+number 
+of 
+experienced visiting faculty members have also 
+been employed from renowned organizations 
+related to Materials Engineering. 
+ 
+The Department of Materials Engineering too, 
+has modern teaching facilities and state of the 
+art laboratories having equipment related to 
+every 
+field 
+of 
+materials 
+engineering 
+to 
+complement its extensive in-class teaching, 
+such as, but not limited to Processing and 
+Characterisation of Materials and its synthesis etc. 
+ 
+The Department of Materials Engineering was 
+established in 2006 at NED University, and is 
+offering programmes for the award of Bachelor, 
+Master and Doctor of Philosophy (Ph.D.) 
+degrees in the field of Materials Engineering. 
+The 
+Ph.D. 
+in 
+Department 
+of 
+Materials 
+Engineering 
+is 
+a 
+cutting-edge 
+program, 
+employing state-of-the-art analytical materials 
+instrumentation not found anywhere else in the 
+city. This program promotes the synergistic 
+interaction of industrially focused research 
+efforts of faculty, students, and commercial 
+partners leading to economic and engineering 
+development of the region. The Ph. D. program 
+is specifically targeted at producing graduates 
+who can find employment as an industrial 
+research scientist or engineer. 
+ 
+13.1 
+RESEARCH FACILITIES: 
+ 
+The Department has established state-of-the-
+art 
+laboratory 
+facilities 
+containing 
+both 
+conventional 
+and 
+sophisticated 
+advanced 
+equipment. Students utilise these equipment 
+for the examination, characterisation and 
+evaluation of properties of both conventional 
+and advanced engineering materials. 
+ 
+The department has following fully functional 
+state of the art laboratories for Ph. D research: 
+(i) Metallography 
+LaboratoryOptical 
+Microscopy 
+Laboratory 
+with 
+the 
+facilities of magnification range from 1x 
+to 24000x  
+(ii) Scanning 
+Electron 
+Microscopy 
+Laboratory (SEM with EDX) SEM with 
+150,000x magnification is available in 
+this laboratory. 
+(iii) X-Ray Diffraction (XRD) Laboratory: 
+XRD with  -  geometry complete with 
+computerised 
+phase 
+analysis 
+and 
+crystallography software. 
+Department of  
+Materials Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+49 
+(iv) Mechanical Testing Laboratory: This 
+laboratory is equipped with Universal 
+Tensile Test Machine, 300kN and 50kN 
+which can also be used for in-situ 
+measurement of mechanical properties 
+with heating upto 800 oC. Along with 
+that Charpy impact Tester, 150, 250 and 
+500 J and hardness testing facilities 
+includingBrinell, 
+Rockwell, 
+Vickers, 
+Knoop, Shore, Portable, Micro hardness 
+Tester>are 
+also 
+available 
+in 
+this 
+laboratory. 
+(v) Heat Treatment Laboratory: Facilities 
+likeBox 
+and 
+Tube 
+TypeAir 
+Muffle/Atmosphere Furnaces, Air and 
+Vacuum Ovens, High Temperature 
+Sintering Furnace, Induction Hardening 
+covering temperature range from 30 to 
+1600 oC are available in this laboratory. 
+(vi)  Corrosion Laboratory:  This laboratory 
+is 
+equipped 
+with 
+ComputerisedPotentiostate, Corrosion 
+Cells and Cathodic Protection.  
+ 
+In 
+addition 
+to 
+above 
+laboratories, 
+the 
+Department also has facilities for research on 
+thermal 
+analysis 
+of 
+materials, 
+magnetic 
+materials, phase transformations in materials, 
+composites materials, surface Engineering of 
+materials, Coating Characterisation, NDT of 
+Materials, Nanomaterials and Biomaterials. 
+ 
+13.2 
+RESEARCH AREAS: 
+Nanomaterials, 
+Microstructural 
+Characterisation, 
+Functional 
+Materials, 
+Microstructure and Property Relationships in 
+Materials, 
+Biomaterials, 
+Interfaces 
+in 
+Materials.Computational 
+Modelling 
+of 
+Materials.Corrosion.Electronic, 
+Optical 
+and 
+Magnetic 
+Materials.MaterialsPerformance.Materials 
+Processing 
+and 
+Manufacturing.Mechanical 
+Properties and Responses to Deformation. 
+Department of  
+Materials Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+50 
+ 
+13.3 
+FACULTY MEMBERS: 
+ 
+Acting Chairperson 
+ 
+ 
+Prof. Dr. Syed Amir Iqbal 
+ 
+Professor  
+ 
+ 
+Prof. Dr. Syed Amir Iqbal 
+Ph.D.(Mechanical Engineering) School of MACE,  
+ 
+ 
+The University of Manchester United Kingdom 
+ 
+ 
+M.E.(Mechanical Engineering) NEDUET 
+ 
+ 
+B.E.(Mechanical Engineering) NEDUET 
+ 
+Associate Professor  
+ 
+1. Dr. Syed Humail-ul-Islam 
+Post Doc (In Progress) 
+ 
+ 
+PhD (Powder Metallurgy, University of Science  
+ 
+ 
+and Technology, Beijing, China), 
+ 
+ 
+M. Engg. (Manufacturing Engg.) NED UET,  
+ 
+ 
+B.E. (Mechanical Engg.) NED UET,  
+ 
+ 
+Specialization: Powder Metallurgy 
+ 
+2. Dr. Umair Alam 
+Post Doc (In progress) 
+ 
+ 
+Ph.D. (Heat Treatment, Materials), Germany,  
+ 
+ 
+MSc (QSE), Germany, BE (Textile Engg), NED UET,  
+ 
+ 
+Specialization: Materials Heat Transfer 
+ 
+Assistant Professor (Materials Engineering) 
+ 
+1. Dr. Muhammad. Sohail 
+Ph.D. (Laser Welding Simulation), South Korea  
+ 
+ 
+M.Engg. (Materials Engg.), NEDUET 
+ 
+ 
+B. E. (Ind. & Mfg. Engg.) NEDUET; 
+ 
+2. Dr. Shahid Hussain 
+Ph.D. (Nano & Functional Materials.), South Korea  
+ 
+ 
+M.Engg. (Materials Engg.), NEDUET 
+ 
+ 
+B. E. (Met. & Mat. Engg.) MUET; 
+ 
+3. Dr. Fayaz Hussain 
+Ph.D. (Functional Cermaics), University of Sheffield, UK 
+ 
+ 
+M.Engg. (Materials Engg.), NEDUET 
+ 
+ 
+B. E. (Met. & Mat. Engg.) MUET; 
+ 
+4. Engr. Muhammad Sajid Ali Asghar 
+Ph. D. in progress, University of Sheffield ,UK 
+ 
+ 
+M.Engg. (Materials Engg.), NEDUET 
+ 
+ 
+B. E. (Met. & Mat. Engg.) MUET; 
+ 
+ 
+Following Faculty Members from Metallurgical Engineering Department will also be engaged in the 
+Masters Programme: 
+ 
+Assistant Professor (Metallurgical Engineering) 
+ 
+1.  Dr. Ali Dad Chandio 
+PhD, University of Manchester, United Kingdom 
+ 
+ 
+ME (Materials Engg.) NED UET,  
+ 
+ 
+BE,(Metallurgical and Materials Engg.) MUET,  
+ 
+ 
+Specialization: Ceramics Coatings/ Thermal Barrier Coatings 
+ 
+2.  Engr. Nafis Ul Haque 
+PhD In Progress (University of Leeds, UK) 
+ 
+ 
+ME (Materials Engg.), NED UET , 
+ 
+ 
+BE (Metallurgy and Materials Engg.) MUET,  
+ 
+ 
+Specialization: Materials Engineering. 
+Department of  
+Materials Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+51 
+ 
+3. Engr. Iftikhar Ahmed Channa 
+PhD in progress (Germany) 
+ 
+ 
+ME (Materials Engg.) NED UET, 
+ 
+ 
+BE (Metallurgy and Materials Engg.) MUET, 
+ 
+ 
+Specialization: Composite Materials.  
+ 
+ 
+Life Member Pakistan Vacuum Society 
+ 
+4. Engr. Aqeel Ahmed Shah 
+PhD in progress (Germany) 
+ 
+ 
+MS (Nanotechnology (Fine Chemical Engg.) South Korea, 
+ 
+ 
+BE (Metallurgy and Materials Engg.) MUET, 
+ 
+ 
+Specialization: Ms Nanotechnology. 
+ 
+5. Engr. Laraib Sarfraz 
+PhD in progress (Germany) 
+ 
+ 
+ME (Materials Engg.), NED UET , 
+ 
+ 
+BE (Metallurgy and Materials Engg.) MUET, 
+ 
+ 
+Specialization: Materials Engineering. 
+ 
+6. Engr. Muhammad Ali Siddiqui 
+ME (Materials Engg.) NED UET, 
+ 
+ 
+ BE (Metallurgical and Materials Engg.) MUET, 
+ 
+ 
+ Specialization: Materials Engineering. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of  
+Materials Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+52 
+14. DEPARTMENT OF BIO-MEDICAL 
+ENGINEERING 
+INTRODUCTION  
+Focusing on the challenges created by 
+the diversity and complexity of living systems 
+that require knowledgeable and innovative 
+people that keep the expertise of science, 
+medicine and mathematics to solve biological 
+and medical problems and to monitor, restore 
+and enhance normal body 
+functioning, 
+keeping the pace with world in innovative 
+technologies and research, NED UET has 
+started its five year Bio Medical Engineering 
+program, seven years back.To make the 
+students able to integrate biology and 
+medicine with engineering to solve problems 
+related 
+to 
+living 
+systems, 
+traditional 
+engineering 
+along 
+with 
+Biomechanics, 
+Biosensors, Bio-MEMS / Nanotechnology, 
+Bioinstrumentation, Medical Imaging and 
+Scanning, Biomedical Signal Processing and 
+Systems Analysis are included in biomedical 
+engineering curriculum.As the most emerging 
+field of Engineering, Bio medical Engineers are 
+supposed to be the highly paid engineers. 
+Aimed to achieve international competiveness 
+and 
+compatibility, 
+department 
+is 
+ISO 
+9001certified. 
+ 
+Established in 2006, The Department 
+of Bio-Medical Engineeringoffers five-year 
+bachelor degree programme leading to 
+Bachelor of Bio-Medical Engineering (Bio 
+stream and Medical Stream). Three batches 
+have been passed out so far and the 
+graduates are serving in well reputed 
+organizations, 
+both 
+in 
+Pakistan 
+and 
+abroad.Level of final year projects reflects 
+high academic and research involvement, and 
+appeared to be valuable to the concerned 
+fields particularly in hospitals. In 2011, the 
+department 
+also 
+started 
+its 
+Masters 
+programme and currently three batches are 
+pursuing their Masters Courses. 
+ 
+14.1 
+RESEARCH AREAS 
+Holding the well-equipped laboratory 
+facilities and qualified faculty members, 
+department is now offering PhD by research 
+in the following areas: 
+ 
+ 
+Biomechanics  
+ 
+Human Movements 
+ 
+Human Gait Analysis  
+ 
+Gait Changes in Diabetic Patients  
+ 
+Osteoarthritis and Gait  
+ 
+Orthopedic Surgeries and Postoperative 
+Gait Changes 
+ 
+Diabetes Foot Biomechanics 
+ 
+Orthopedic Biomechanics 
+ 
+Stroke Patients Management  
+ 
+Sports Medicine and Training 
+ 
+Prosthesis Designing  
+ 
+Tissue Engineering 
+ 
+Biotechnology 
+ 
+Neurosciences  
+ 
+Biochemistry / Molecular Biochemistry 
+ 
+Robotics 
+ 
+14.2 
+RESEARCH FACILITIES 
+Three key labs in the department are; 
+ 
+ 
+Movement Analysis/ Gait Analysis Lab 
+Firstof its kind laboratory in Pakistan, 
+the movement analysis/ Gait Lab is an state of 
+art laboratory equipped with highly advanced 
+and computerized eight motion cameras and 
+three force plates capable to capture the 
+three 
+dimensional 
+motion 
+of 
+the 
+subjects/patients. 
+ 
+The motion analysis laboratory can be 
+used asan institution for studying the various 
+aspects of human motions and for conducting 
+the researches related with motion. The 
+applications 
+of 
+three 
+dimensional 
+(3D) 
+analysis of human motion are very vast. 
+Analysis of gait of the patients with cerebral 
+palsy, diabetes, stroke, hip joint replacement 
+and knee joint replacement are few of the 
+examples where 3D motion analysis can be 
+used for assessments of the abnormalities in 
+the gait (walking) patterns of these patients. 
+The gait analysis is a well-recognized tool for 
+assessing the outcomes of many surgical 
+procedures and medical treatment. The 3D 
+Department of  
+Bio-Medical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+movement analysis can also be used in sport 
+medicine and sports training purposes. 
+ 
+ 
+Robotics Laboratory 
+Robotics lab is functional carrying 
+Robotic Manipulator and a Mobile Robot 
+Platform(PeopleBOT). 
+ 
+ 
+Tissue Engineering Laboratory 
+Lab 
+is 
+equipped 
+with 
+Advance 
+Automatic 
+Tissue 
+Processor, 
+Tissue 
+Embedding Station, Rotary Microtome and 
+Centrifuge Machine. 
+ 
+Computing Facility 
+ 
+Department housed two modern 
+computer labs with 35 working stations with 
+multimedia, scanning and printing facilities.  
+ 
+14.3 
+ACADEMIC AND INDUSTRIAL RESEARCH 
+ENDEAVORS AND COLLABORATIONS 
+Besides aMoUwith Dow University of 
+Health 
+Sciences, 
+department 
+has 
+collaboration with other reputed institutes as 
+well. Students are sent for summer internship 
+in third year and at extensive training 
+program in final semester at different places 
+and institutes including; 
+ 
+ 
+Sindh Institute of Urology and 
+Transplantation (SIUT) 
+ 
+KIRAN 
+ 
+Ziauddin Hospital (North 
+Nazimabad and Clifton) 
+ 
+Aga Khan University Hospital 
+ 
+The INDUS Hospital 
+ 
+Liaquat National Hospital 
+ 
+Analytical Measuring Systems Pvt. 
+Ltd. 
+ 
+National Center for Proteomics, 
+University of Karachi 
+ 
+Dr. A. Q. Khan Institute of 
+Biotechnology 
+& Genetic Engineering, University 
+of Karachi  
+ 
+The Kidney Centre  
+ 
+Dow Diagnostic and Research 
+Laboratory (OJHA Campus)  
+ 
+DarulSehat Hospital 
+ 
+Tabba Heart Institute 
+International 
+scholarships 
+are 
+also 
+availed by the students including Erasmus 
+Mandus Scholarship. 
+ 
+ 
+ 
+ 
+ 
+Department of  
+Bio-Medical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+54 
+14.4 
+FACULTY MEMBERS 
+Biomedical engineering department (LEJ campus) has the following qualified PhD faculty 
+with both the medical and engineering background: 
+ 
+Professors 
+ 
+1- Prof. Dr. Farzana Yasmin 
+Ph.D. (Biochemistry); UoK 
+ 
+ 
+Post-Doctorate; State University of New York, USA 
+ 
+2- Prof. Dr. Ali Raza Jafri  
+B.E. (Mechanical); NEDUET  
+ 
+ 
+M.Engg. (Mechanical); NEDUET 
+ 
+ 
+Ph.D. (Mechatronics); BIT, China 
+ 
+  
+Assistant Professors 
+ 
+1- Dr.  Abu Zeeshan Bari 
+B.E. (Mechanical); NEDUET 
+ 
+ 
+M.Engg. (Mechanical); NEDUET 
+ 
+ 
+Ph.D. (Rehabilitation); University of Salford 
+ 
+2- Dr. Syed M. Wasim Raza 
+M.B.B.S., PGDPA, MAS 
+ 
+ 
+Ph.D. (Biomechanics, Orthopedic & Motion  
+ 
+ 
+Analysis); University of Dundee 
+         
+3- Dr. Muhammad Abul Hasan 
+B.E. (Electronics); NEDUET 
+ 
+ 
+M.Engg. (Industrial Electronics); NEDUET 
+ 
+ 
+Ph.D. (EEG-Neurofeedback & Signal Processing);  
+ 
+ 
+University of Glasgow 
+ 
+4- Dr. Bilal Ahmed Usmani 
+M.Sc. Mathematics (Pure) 
+ 
+ 
+M.Phil. (Mathematics); UoK 
+ 
+ 
+Ph.D. (Mathematical Modeling and Simulation of  
+ 
+ 
+Biological Systems); University of Glasgow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Department of  
+Bio-Medical Engineering
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+55 
+15. 
+ DEPARTMENT OF COMPUTER 
+SCIENCE & INFORMATION 
+TECHNOLOGY 
+ 
+INTRODUCTION 
+The Department of Computer Science 
+& Information Technology (CSIT) has been 
+conducting a successful 4-year Bachelor of 
+Computer Science & Information Technology 
+(BCIT) 
+programme 
+producing 
+computing 
+professionals with the first batch graduating 
+in 2003. BCIT graduates are recognised, well 
+perceived and sought after by the Information 
+Technology 
+industry. 
+The 
+demand 
+for 
+Computer Science & IT graduates in the 
+growing IT industry continues to multiply, 
+providing 
+excellent 
+prospects 
+with 
+professionals with high quality skill sets. To 
+augment the academic level of professionals 
+and enhance the quality of their IT skills, the 
+Master of Computer Science & Information 
+Technology (MCIT) Post Graduate Programme 
+was initiated in 2003. The programme covers 
+most areas of Computer Science, OT, 
+Telecommunication 
+and 
+Management 
+accepted as state-of-the-art and are in 
+demand by computing professionals today, 
+and are helping in furthering their career 
+prospects. 
+ 
+To keep abreast of the fast paced 
+developments in the computing field, The 
+Department maintains a highly qualified 
+Faculty 
+conducting 
+research 
+in 
+broad 
+computing themes, and offers opportunities 
+for postgraduate research leading to a PhD in 
+Computer Science. The Faculty has research 
+expertise in major areas of Computer Science, 
+and invites interest from highly motivated and 
+well-qualified graduates to work towards a 
+doctorate. Though Computer Science and its 
+application across all the sciences is currently 
+revolutionising a wide range of human 
+activities, it itself is undergoing revolutionary 
+change. The Department positions itself to 
+anticipate and drive these developments in all 
+major areas including, Image Processing, 
+Computer 
+Vision, 
+Software 
+Engineering, 
+Machine Learning, Data Mining, Speech 
+Processing & Recognition and Network & 
+Information 
+Security. 
+Thus 
+far, 
+the 
+department has successfully produced three 
+PhDs, and presently some of its faculty 
+members are on study leave pursuing PhD, 
+both abroad as well as locally. This will further 
+strengthen 
+its 
+research 
+capacity. 
+The 
+department 
+endeavours 
+to 
+attain 
+high 
+standards of research, and is actively 
+contributing in national and international 
+journals and conferences. 
+ 
+15.1 
+RESEARCH FACILITIES 
+The Department provides computing 
+and Internet support for all academic and 
+research staff and students. The computer 
+labs are well equipped comprising 170 
+workstations of various contemporary models 
+and supporting equipment. Several important 
+software tools used in research relating to 
+speech processing, video processing and data 
+mining are available. The Department has 
+access to a large numbers of licensed 
+software from major software companies. The 
+department also facilitates Faculty and 
+research students to utilize library collection 
+which includes general circulation books, 
+reference books, encyclopaedias, handbooks, 
+periodicals, research journals, government 
+and 
+archive 
+documents, 
+microfilms, 
+microfiches, audio / video cassettes, CD-ROM 
+databases and software. Online Journals 
+including IEEE, ACM, Journal of Acoustic 
+Society of America, Elsevier Science Direct, 
+Springer Link can be accessed through digital 
+library facility. The library offers specialized 
+services in the Campus utilizing computerized 
+retrieval of bibliographic databases containing 
+references to thousands of articles, books, 
+proceedings, technical reports and statistics. 
+ 
+15.2 
+RESEARCH AREAS 
+The Department has research interest 
+in the following areas:  
+ 
+Computer Vision & Image Processing 
+Research in this area includes 
+modeling object behavior, human 
+Department of Computer  
+Science & Information Technology
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+facial and body action, facial synthesis 
+and super resolution, multi-modal 
+biometrics, 3D deformable shape, and 
+structure from motion. The work has 
+been widely applied to vehicle and 
+people 
+detection 
+and 
+tracking; 
+behavior 
+screening and anomaly 
+detection in public space CCTV. 
+ 
+ 
+Software Engineering  
+The 
+research 
+is 
+directed 
+towards techniques, methods and 
+processes for development of large 
+complex software intensive systems. 
+Current areas of research include 
+Requirements 
+Engineering, 
+Verification & Validation, Software 
+Process Quality, System Safety, and 
+Software Management. The research 
+results may be applied to a variety of 
+application areas ranging from small-
+embedded systems to large software 
+applications.  
+ 
+ 
+Machine Learning 
+Machine learning is the study 
+of adaptive computational systems 
+that improve their performance with 
+experience. Research in this area 
+focuses primarily on natural language 
+learning, statistical relational learning, 
+transfer learning, and active learning, 
+particularly with application in speech 
+and computer vision domains. 
+ 
+ 
+Data Mining 
+Data mining research focuses 
+on 
+the 
+development 
+of 
+new 
+algorithms, many of which are based 
+on optimization approaches, but also 
+on the development of new tools and 
+applications. The research includes 
+work on semi-structured data and 
+text, as well as stream data. Data 
+mining application in Education and 
+Health domain is under research. 
+ 
+ 
+Network & Information Security 
+Research in this area includes 
+computer security, cryptography and 
+network 
+security. 
+Some 
+of 
+the 
+keyresearch themes are Anonymity, 
+Authenticity, 
+Availability, 
+Digital 
+Rights 
+Management, 
+Identity 
+Management, 
+Information 
+Hiding, 
+Privacy, 
+Cryptanalysis, 
+Computer 
+Security: defenses against malware 
+Reliability, Human Aspects of Security, 
+Watermarking, Steganography and 
+Steganalysis. It also includes quantum 
+cryptography 
+(or 
+Quantum 
+Key 
+Distribution), which is a new trend in 
+information security.  
+ 
+ 
+ 
+Speech Processing & Recognition  
+Research in this area is being 
+conducted on developing methods for 
+robust speech recognition, speaker 
+verification and applications of speech 
+processing using machine learning 
+techniques. 
+ 
+ 
+Department of Computer  
+Science & Information Technology
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+57 
+15.3 
+FACULTY MEMBERS 
+Chairperson    
+ 
+ 
+Prof.  Dr. Najmi Ghani Haider 
+99261261-8 
+ 
+ 
+Ext. 2399 
+ 
+Co-Chairperson    
+ 
+ 
+ 
+ 
+Prof. Dr. Sohail Abdul Sattar 
+99261261-8 
+ 
+ 
+Ext. 2566 
+ 
+Professors 
+ 
+1.  Prof.  Dr.  Najmi Ghani Haider 
+B.Sc. (Hons) Electronic Engineering 
+ 
+ 
+(Hull, UK), Ph.D. (Brunel, UK) 
+ 
+2.  Prof. Dr. Sohail Abdul Sattar 
+B.E. (Mech. Engg., NED); 
+ 
+ 
+MCS  (Computer Science) KU; 
+ 
+ 
+M.Sc. (Computer Science) NED; 
+ 
+ 
+Ph.D. (Computer Science) NED 
+ 
+Associate Professors 
+ 
+1. Dr. Sh. M. Wahabuddin Usmani 
+B.E.  (Electronics, DCET); 
+ 
+ 
+M.Sc. (Computer Science) NED; 
+ 
+ 
+Ph.D. (Computer Science)   NED; 
+ 
+ 
+Diploma (Computer Science, SBTE)  
+ 
+2.  Dr. Najeed Ahmed Khan  
+M.Sc.  (Computer Science)   NED; 
+ 
+ 
+M.Sc.  (Maths) (Gold Medal); 
+ 
+ 
+Ph.D. (Computer Science) Leeds, UK 
+ 
+3. Dr. Muhammad Mubashir Khan  
+M.Sc. (Telecom), Univ. of Sindh; 
+ 
+ 
+MCIT (by Research) NED; 
+ 
+ 
+Ph.D. (Computer Science) Leeds, UK 
+ 
+Assistant Professors 
+ 
+1. Dr. Saman Hina 
+BS (Computer Science), SSUET;  
+ 
+ 
+MCIT (NED),  
+ 
+ 
+Ph.D. (Computer Science) Leeds, UK 
+ 
+2.   Dr. Shariq Mahmood Khan  
+BCIT (NED); MCIT (NED) 
+ 
+ 
+Ph.D (Computer Engg.) Brunel, UK 
+ 
+3.  Dr. Shehnila Zardari 
+B.E. (Software) MUET, Jamshoro; 
+ 
+ 
+M.E. (Comm. Sys. & Network), MUET, Jamshoro 
+ 
+ 
+Ph.D. (Software Engg.) Birmingham, UK 
+  
+4.  Dr. Raheela Asif 
+B.E. (CIS, NED); MCIT (NED);  
+ 
+ 
+Ph.D (Computer Science) NED 
+ 
+ 
+ 
+ 
+ 
+Department of Computer  
+Science & Information Technology
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+58 
+16. 
+ DEPARTMENT OF MATHEMATICS 
+ 
+Department of Mathematics was 
+established as an independent department in 
+2010 to cater to the requirements of 
+Mathematics 
+and 
+Statistics 
+in 
+all 
+the 
+disciplines. The aim of establishing an 
+independent department was to initiate its 
+own degree programs. This Department has 
+launched a Master’s degree program in 
+Applied Mathematics with the objective of 
+imparting 
+strong 
+theoretical 
+knowledge 
+reinforced with skills in utilizing software tools 
+for mathematical applications in different 
+professions. The focus of the said program is 
+related 
+to 
+the 
+particular 
+fields 
+like 
+Engineering, Computational and Financial 
+mathematics. This program commenced from 
+July 2011, and has now successfully running. 
+ 
+ 
+Master in Applied Mathematics is 
+beneficial to both engineering and science 
+graduates. This program is initiated to 
+encourage 
+multi-disciplinary research be 
+offering opportunities for higher studies to 
+fresh graduates as well as experienced 
+graduates employed in industry and other 
+professional sectors, and to provide a route 
+towards a Ph.D degree to those desiring to do 
+so.  
+ 
+16.1 
+RESEARCH FACILITIES 
+The Department has a well-equipped 
+computer facility along with related software 
+(like Matlab, Mathematica, SPSS, Minitab). 
+ 
+16.2 
+RESEARCH AREAS 
+ 
+ 
+Applied Mathematics 
+ 
+Computational Mathematics
+16.3 FACULTY MEMBERS 
+Chairman 
+ 
+ 
+Prof. Dr. Mirza Mahmood Baig 
+ 
+Professors 
+ 
+ 
+1. Dr. Mirza Mahmood Baig 
+M. Sc. (Maths) (KU); MS (Comp. Sc.) NEDUET 
+ 
+ 
+Ph. D (Comp. Sc.) NEDUET; Member KMA 
+ 
+Assistant Professors 
+ 
+1. Dr. Mushtaque Hussain 
+M. Sc. (Maths) (QAU, Islamabad) 
+ 
+ 
+PGD (Comp Sc.) (KU) 
+ 
+ 
+Ph.D. (Linkoping University, Sweden) 
+ 
+2. Dr. Muhammad Jamil 
+B. Sc. (Hons) (KU); M. Sc. (Maths) (KU);  
+ 
+ 
+M. Phil (KU) Ph.D. (Maths)(G.C. University, Lahore) 
+ 
+3. Dr. Fareed Ahmed 
+B. Sc. (Hons) (KU); M. Sc. (Maths) (KU) ;  
+ 
+ 
+MS (Comp Sc.) (NEDUET);  
+ 
+ 
+Ph.D. (Comp Sc.)(NEDUET) 
+ 
+4. Dr. Azam Khan 
+M. Sc. (Maths) (KU); 
+ 
+ 
+Ph.D. (Linkoping University, Sweden) 
+ 
+5. Dr. Kamran Zakaria 
+M. Sc. (IBM) (KU); (DAE CS); (DAE Java Programme) 
+ 
+ 
+Ph.D. (Maths) (FUUAST) 
+ 
+6. Dr. Fahim Raees 
+M. Sc. (Maths) (KU) 
+ 
+ 
+Ph. D. (Computational Fluid Dynamics)  
+ 
+ 
+(TU Delft, The Netherlands) 
+ 
+ 
+ 
+ 
+Department of  
+Mathematics
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+59 
+17. Miscellaneous Research Facilities 
+There are a few departments in the 
+University who offer excellent research 
+infrastructure and the highly qualified 
+research faculty, however, owning to the 
+conditions of quality assurance faculty 
+and research infrastructure of these 
+departments are shown below jointly. 
+17.1 
+Department of Petroleum Engineering 
+Dr. AbidMurtaza Khan 
+Professor and Chair 
+B.Sc. (Hons) (University of Baluchistan) 
+M.Sc. (University of Baluchistan) 
+Ph.D. (Geology), Seoul National 
+University South Korea 
+The Department has following Laboratories 
+fully equipped to conduct research at PhD 
+level. 
+i. Mud Engineering and Cementing  
+ii. PetroPhysics Laboratory 
+iii. PVT Laboratory 
+iv. Drilling Simulator Laboratory 
+v. Core Laboratory 
+vi. Computing Laboratory 
+17.2 Department of Automotive Engineering 
+1. Prof. Dr.-Ing. Syed 
+MushahidHussainHashmi 
+ 
+Professor/Chairman 
+B.E (Mechanical) 
+  
+  
+  
+M.Sc. (Mechanical, Energy Systems) 
+  
+  
+  
+Ph.D. (Mechanical) 
+2. Dr. Faraz Akbar 
+ 
+Associate Professor 
+B.E (Mechanical) 
+Ph.D., UK 
+3. Engr. Dr. Muhammad AamirQureshi 
+Assistant Professor 
+B.E (Electrical Engineering) 
+M.Engg. (Communications) 
+Ph.D. (Communication & Information 
+Systems) 
+ 
+The Department has following laboratories: 
+i. Combustion Emission Laboratory 
+ii. Body & Suspension Laboratory 
+iii. Automotive Electronics Laboratory 
+iv. Fuel Cell Laboratory 
+17.3 
+Department of Chemical Engineering 
+Prof. Dr.InayatullahMemon 
+B.E (Chemical) 
+PhD (Chemical), UK 
+The Department has following laboratories. 
+i. 
+Chemical Process Control Laboratory 
+ii. 
+Chemical Reaction Engineering Laboratory 
+iii. 
+Fluid Mechanics Laboratory 
+iv. 
+Heat Transfer Laboratory 
+v. 
+Mass Transfer Laboratory 
+vi. 
+Particulate Technology Laboratory 
+vii. 
+Separation Process Laboratory 
+It is also worth mentioning that some of the 
+very qualified personnel are part of the 
+University administration but they are also 
+available as PhD Supervisors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Miscellaneous Research  
+Facilities
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+60 
+18. 
+REGULATIONS FOR DOCTOR OF PHILOSOPHY DEGREE 
+1. TITLE AND NATURE OF DEGREE 
+These Regulations may be called the NED 
+University of Engineering &Technology, 
+Regulations 
+for 
+the 
+proposed 
+Postgraduate studies leading to the 
+Degree of Doctor of Philosophy. 
+2. COMMENCEMENT 
+These Regulations shall be applicable for 
+Doctor of Philosophy students admitted in 
+Spring 2014 session and onwards unless 
+otherwise specified.  
+3. CRITERIA AND PROCEDURE FOR 
+ADMISSION 
+3.1 Minimum requirement for admission 
+in the Programme shall be Master’s in 
+a relevant discipline or an equivalent 
+degree with a minimum CGPA of 3.0 
+(out of 4.0 in the Semester System) or 
+First 
+Division 
+(Annual 
+System), 
+recognised by the University, with at 
+most one second division in academic 
+career. 
+3.2 A subject test conducted by the 
+National Testing Service (NTS) or ETS, 
+USA or an equivalent test conducted 
+by 
+the 
+Department 
+offering 
+admissionin the area of specialization 
+chosen at the PhD level must be 
+cleared. In the case of GAT Subject 
+test, a minimum of 60% marks is 
+required to be eligible for admission 
+in PhD Programme. In the case of GRE 
+subject test, 60% Percentile Score is 
+required to be eligible for admission 
+in PhD Programme. In the case of 
+Departmental test, a minimum of 70% 
+score is required to be eligible for 
+admission in PhD Programme. 
+Note:  
+3.2.1. To be considered towards 
+eligibility of PhD admission, 
+an NTS or ETS subject test will 
+be considered valid for a 
+period of two years from the 
+date of the test. 
+3.2.2. 
+If the test is offered by the 
+Department offering admission 
+in the area of specialization 
+chosen at the PhD level, a 
+departmental 
+Postgraduate 
+Admission 
+Committee 
+will 
+conduct the Test at par with 
+GRE Subject Test. 
+ 
+ 
+Note: Only for students admitted in 
+between Spring 2014 session and 
+Spring 2015 session – both 
+inclusive, provisional admission 
+may be granted to an applicant 
+who has not cleared the NTS/ GRE 
+subject test in the area of 
+specialization chosen, who is 
+otherwise eligible for admission. 
+The test result, however, must be 
+submitted by the student to the 
+satisfaction 
+of 
+the 
+eligibility 
+requirements, prior to the end of 
+the second semester of his/ her 
+studies. 
+3.3 An application for admission to the 
+Programme shall be submitted to the 
+Chairperson 
+of 
+the 
+concerned 
+Department along with all required 
+documents, indicating the proposed 
+major subject area of research work. 
+3.4 At the time of application, the 
+candidate must provide evidence of 
+adequate 
+financial 
+support 
+to 
+undertake the complete PhD studies. 
+3.5 NOC from employer will be required 
+at 
+the 
+time 
+of 
+application; 
+if 
+applicable. 
+3.6 A 
+departmental 
+Postgraduate 
+Admission Committee constituted by 
+the concerned Dean, comprising of 
+the Chairperson and two senior 
+faculty members of the Department/ 
+Faculty, shall assess an applicant's 
+suitability on the basis of the Entrance 
+Test or NTS (GAT-Subject) or GRE 
+(Subject), academic and professional 
+qualifications, 
+professional 
+experience, reasons for desiring to 
+enrol in the Programme, referees’ 
+Doctor 
+of Philosophy Degree
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+61 
+Regulations for Doctor 
+of Philosophy Degree 
+opinions letter of recommendations, 
+and submit recommendations to the 
+concerned Dean to allow induction for 
+one year in PhD Programme through 
+concerned Chairperson.  
+ 
+3.7.1 The departmental Postgraduate 
+Admission 
+Committee, 
+with 
+the 
+consent 
+of 
+the 
+candidate 
+and 
+subsequent to the endorsement by 
+the concerned Chairperson, will also 
+recommend one supervisor for each 
+candidate. The supervisor must be an 
+HEC approved Ph.D Supervisor. In 
+cases where essential, a co-supervisor 
+shall be allowed. Both the supervisor 
+and co-supervisor shall possess a 
+Ph.D. degree and at least one of them 
+should be a faculty member of this 
+University. 
+Formal 
+supervisor 
+allocation should be made at the time 
+of admission of a Ph.D. student. 
+3.7.2 Each Ph.D. project would have a 
+Ph.D.ReviewCommittee 
+constituting 
+of all Deans and Secretary, ASRB. The 
+role of the Committee would be as 
+follows: 
+(i)   Evaluating the Progress Reports 
+and submitting its report to ASRB 
+in prescribed format. 
+(ii) Sorting issues with the students, 
+including 
+student 
+grievance 
+issues 
+if 
+any, 
+during 
+the    
+progress 
+of 
+his/ 
+her 
+Ph.D. 
+research. 
+4. GENERAL SCHEME OF STUDIES 
+4.1 (a) The scholar shall be required to 
+register and qualify in six courses of 
+PhD level – each equivalent to three 
+credit hours. These courses are to be 
+designed by the Supervisor or any 
+other 
+senior 
+faculty 
+member, 
+reviewed by BOS and approved by 
+ASRB. 
+ 
+(b) The scholar is required to 
+successfully pass these courses within 
+a twelve- month period. This period 
+can be extended by a further six 
+months with approval of concerned 
+Dean on the recommendations of 
+Supervisor and Chairperson. 
+ 
+(c) The following grades/ grade points 
+with the equivalent marks shall be 
+awarded to the students on the basis 
+of their performance in each course of 
+study. 
+ 
+Grade Grade 
+Point 
+Marks 
+Remarks 
+A 
+A – 
+B + 
+B 
+B – 
+C + 
+C 
+C – 
+D + 
+D 
+F 
+S 
+U 
+P 
+ 
+X 
+I 
+4.0 
+3.7 
+3.4 
+3.0 
+2.7 
+2.4 
+2.0 
+1.7 
+1.4 
+1.0 
+0.0 
+- 
+- 
+- 
+ 
+- 
+- 
+88 – 100 
+80 – 87 
+75 – 79 
+70 – 74 
+67 – 69 
+64 – 66 
+60 – 63 
+57 – 59 
+54 – 56 
+50 – 53 
+Below 50 
+- 
+- 
+50 – 100 
+ 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Fail 
+Satisfactory  
+Unsatisfactory  
+Pass in non-credit course
+ 
+Exempted 
+Incomplete 
+ 
+(d) Successful completion of six 
+courses would entail achieving a 
+minimum overall CGPA of 3.0 with all 
+six courses passing.  
+(e) Registration in a course for change 
+of grade/ improvement will be 
+subject 
+to 
+the 
+following 
+conditions: 
+i) Change of grade/ improvement 
+may be allowed once for each 
+course. 
+ii) Better grade(s), if any, will be 
+considered for determining 
+GPA/ CGPA. 
+4.2 Comprehensive Examination shall be 
+conducted by a committee after 
+successful completion of six courses, 
+consisting of Research Supervisor,
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+62 
+Regulations for Doctor 
+of Philosophy Degree 
+Chairperson and a senior faculty 
+member 
+of 
+the 
+concerned 
+department. This Committee shall be 
+approved by the concerned Dean. The 
+scholar must pass the Comprehensive 
+Examination in a maximum of two 
+attempts to grant him the status of 
+Ph.D. 
+Candidacy. 
+Passing 
+of 
+comprehensive examination would 
+entail obtaining a minimum of 50% 
+score in the exam. 
+4.3 Comprehensive Examination shall 
+comprise of written examination (and 
+oral if deemed significant by the 
+Committee), covering at least the 
+knowledge imparted in six courses 
+completed during induction period.  
+4.4 During the induction period the 
+scholar shall have to prepare a 
+research proposal, which the scholar 
+shall be required to present in a 
+Seminar 
+after 
+obtaining 
+Ph.D. 
+Candidacy. 
+If 
+the 
+Supervisor/ 
+Department deems that the proposal 
+needs further work, it may apprise the 
+scholar appropriately assigning him a 
+timeline for a proposal re-defense. 
+Re-defense would only be allowed 
+once. Successful completion of the 
+Research 
+Seminar 
+shall 
+be 
+communicated by the concerned 
+Chairperson to ASRB on prescribed 
+Performa. 
+4.5 After having successfully defended 
+research proposal, the proposal shall 
+be recommended by the Supervisor 
+for approval from ASRB through 
+concerned Board of Studies and Dean, 
+on the prescribed format approved by 
+ASRB. The concerned Board of Studies 
+may adopt its own procedure for 
+evaluating the technical and financial 
+merit of the proposal and will submit, 
+along 
+with 
+the 
+proposal, 
+its 
+recommendations 
+on 
+prescribed 
+format 
+duly 
+endorsed 
+by 
+the 
+Chairperson 
+and 
+the 
+Dean 
+for 
+consideration of ASRB. 
+4.6 The registration in Ph.D. research shall 
+only be confirmed by ASRB subject to 
+following conditions: 
+(a)  The 
+Scholar 
+has 
+successfully 
+completed six courses with 3.0 
+CGPA.  
+(b)  Has 
+qualified 
+Comprehensive 
+Examination. 
+(c)  Successfully presented Research 
+Proposal in a Seminar.  
+(d) Research 
+proposal 
+has 
+been 
+approved by ASRB. 
+4.7 Research performance will be based 
+on fulltime research conducted after 
+confirmation of registration in Ph.D. 
+research by ASRB.  
+4.8 The minimum period of full-time 
+research shall be two, and a maximum 
+of eight years shall be allowed for 
+completion of all requirements for the 
+Ph.D. degree. After a period of three 
+years from the date of admission in 
+Ph.D. programme, further extensions 
+in the period of research may be 
+granted by the concerned Dean on 
+recommendation of Supervisor and 
+concerned Chairperson, with Dean 
+reporting to ASRB in due time.  
+Note: For 
+students 
+admitted 
+in 
+between Spring 2014 session 
+and Spring 2016 session – 
+both inclusive, maximum of 
+seven years shall be allowed 
+for 
+completion 
+of 
+all 
+requirements for the Ph.D. 
+degree. 
+4.9 Each candidate shall get accepted at 
+least 
+one 
+paper, 
+containing 
+his 
+research work during Ph.D. carried 
+out at this University, in a journal as 
+prescribed by relevant University 
+regulations at the time of candidate’s 
+enrolment in Ph.D. degree, prior to 
+submission 
+of 
+his 
+thesis 
+for 
+examination to foreign reviewers. 
+ 
+5. RESEARCH ASSIGNMENT AND 
+SUPERVISION 
+5.1 The Supervisor shall be responsible 
+for initial definition and plan of the 
+research assigned to the scholar. 
+5.2 The 
+Supervisor 
+shall 
+also 
+be 
+responsible for guiding the candidate 
+in development of the research
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+63 
+Regulations for Doctor 
+of Philosophy Degree 
+proposal and for working on the 
+research plan. 
+5.3 The Supervisor shall suggest reading 
+material to enhance the scholar’s 
+understanding of subjects related to 
+the research topic.  
+5.4 The 
+Ph.D.ReviewCommittee 
+shall 
+regularly monitor onbiannualbasis for 
+externally 
+funded 
+Ph.D. 
+projects 
+andquarterly 
+basis 
+for University 
+funded 
+Ph.D. 
+projects 
+(fully 
+or 
+partially funded) the progress of the 
+candidate and then submit a report 
+to ASRB on prescribed format. The 
+Committee shall meet once every 
+quarter – prior to scheduled ASRB 
+meetings 
+– 
+for 
+providing 
+its 
+recommendations to ASRB on the 
+accumulated Progress Reports. 
+5.5 The research work shall be carried out 
+in the concerned Department or in 
+the 
+laboratory 
+of 
+some 
+other 
+Department(s) of the University. With 
+the approval of the concerned Dean 
+some part of such work may be 
+carried 
+out 
+in 
+some 
+other 
+organization or institution. 
+6. PROGRESS OF WORK 
+6.1 Each candidate shall be expected to 
+attend the University regularly and 
+submit to the supervisor Quarterly 
+(for projects partially or fully funded 
+by 
+University) 
+or 
+Biannual 
+(for 
+externally funded projects) Progress 
+Reports during the period of research. 
+This report shall be submitted to Ph.D. 
+review committee for evaluation and 
+subsequent 
+recommendations 
+to 
+ASRB. Any candidate failing to attend 
+the University regularly and/or not 
+showing sufficient progress may not 
+be allowed to continue enrolment in 
+the programme. 
+6.2 Any change in the subject, title and/ 
+or outline of the approved research 
+proposal shall require prior approval 
+of ASRB. Such change shall be 
+submitted to ASRB through the 
+concerned Board of Studies. 
+ 
+6.3 (a) A candidate, who is temporarily 
+unable 
+to 
+continue 
+research 
+because 
+of 
+unavoidable 
+circumstances, 
+should 
+file 
+an 
+application to the ASRB through 
+the 
+Supervisor 
+for 
+temporary 
+suspension from the programme. 
+Such leave of absence shall not 
+exceed twelve months. During this 
+period, the Ph.D. project shall be 
+suspended and no remuneration 
+shall be paid. 
+6.3 (b) On return after availing the leave, 
+Chairperson of the concerned 
+department on recommendation of 
+Supervisor may allow the student 
+to continue and inform ASRB. 
+6.4 Admission of any candidate enrolled 
+in the programme may be cancelled 
+under the following circumstances: 
+i. 
+If the candidate is not regular 
+in attending the University. 
+ii. 
+If the candidate is involved in 
+any serious disciplinary action.  
+iii. 
+If the candidate fails to qualify six 
+courses or pass comprehensive 
+examinationafter two attempts. 
+iv. 
+If 
+the 
+candidate 
+fails 
+to 
+successfully defend the research 
+proposal after two attempts.  
+v. 
+If 
+the 
+candidate 
+fails 
+to 
+demonstrate satisfactory progress. 
+ 
+7. SUBMISSION AND EVALUATION OF 
+THESIS 
+7.1 A candidate may be allowed by the 
+Vice Chancellor to submit the thesis 
+only after: 
+ 
+7.1.1  Fulfilling all requirements put 
+forward by the Postgraduate 
+Admission Committee at the 
+time of admission; 
+ 
+7.1.2 
+Successful registration in Ph.D. 
+research as per clause 4.6; 
+ 
+7.1.3 
+Pursuing full-time research 
+work for at least twenty-four 
+months at the University; 
+ 
+7.1.4  Publishing/ Getting accepted 
+one journal paper as per 
+clause 4.9.
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+64 
+Regulations for Doctor 
+of Philosophy Degree 
+ 
+7.1.5 
+Fulfilling all other regulatory 
+requirements prescribed by 
+the University. 
+7.2 Every candidate shall be required to 
+produce a declaration counter-signed 
+by the Supervisor and endorsed by 
+the 
+Chairperson 
+that 
+his 
+thesis 
+contains material contribution to 
+knowledge and affords evidence of 
+originality shown by the discovery of 
+new facts or of new interpretations 
+and that the thesis represents original 
+work done by the candidate himself. 
+7.3 The thesis shall be written in the 
+English language and shall be in the 
+form prescribed by the University. 
+7.4 No 
+thesis 
+shall 
+be 
+considered 
+satisfactory unless it shows evidence 
+of 
+original 
+inquiry, 
+capacity 
+for 
+development 
+or 
+application 
+of 
+scientific principles and methods, 
+acquaintance with work of others in 
+similar 
+fields 
+and 
+ability 
+in 
+presentation of ideas.  
+7.5 The concerned Board of Studies shall 
+evaluate the thesis and recommend it 
+for onward submission to two foreign 
+experts. The concerned Board of 
+Studies may devise its own procedure 
+for evaluating the thesis. 
+7.6The thesis shall be submitted to two 
+Ph.D. experts as referees. These 
+referees are to be approved by ASRB 
+on recommendation of the Board of 
+Studies concerned. The selection of 
+the foreign reviewers shall be as 
+follows: 
+7.6.1 A tenured, tenure-track or non-
+tenure-track faculty member with or 
+without dissertation status working in 
+a 
+recognized 
+university 
+or 
+a 
+recognized research organization may 
+be eligible provided that s(he) fulfils 
+the following minimum eligibility: 
+(a) S(He) 
+should 
+have 
+been 
+working for a minimum of last 
+5 years on a rank of Assistant 
+Professor or above in a 
+recognized 
+university 
+or 
+equivalent 
+position 
+in 
+a 
+recognized 
+research 
+organization/ 
+research 
+departments in organizations 
+in 
+a 
+technologically/ 
+academically 
+advanced 
+country as per HEC prescribed 
+list. 
+(b) S(He) should not have served 
+as 
+Supervisor/Co-Supervisor 
+of the Ph.D. candidate during 
+the candidate’s earlier higher 
+education studies. 
+(c) S(He) should not have been a 
+co-author of the candidate on 
+any publication.  
+(d) S(He) should have relevant 
+academic 
+expertise 
+as 
+demonstrated by at least two 
+of the following: 
+i. S(He) holds a doctoral 
+degree in the subject area 
+of Ph.D. project. 
+ii. S(He) has at least 10 
+research publications in 
+the subject area of Ph.D. 
+project in peer-reviewed 
+journals of international 
+repute indexed by ISI or 
+Scopus, in the last 5 years. 
+iii. S(He) 
+has 
+at 
+least 
+5 
+research publications in 
+the subject area of Ph.D. 
+project in peer-reviewed 
+journals of international 
+repute indexed by ISI or 
+Scopus, and at least 2 
+patents 
+approved 
+by 
+International 
+Patenting 
+Association/ Office from a 
+technologically/ 
+academically 
+advanced 
+country, both in the last 5 
+years. 
+iv. S(He) 
+has 
+at 
+least 
+5 
+research publications in 
+the subject area of Ph.D. 
+project in peer-reviewed 
+journals of international 
+repute indexed by ISI or 
+Scopus, and at least 1 peer-
+reviewed book authored/ 
+edited 
+that 
+has 
+been
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+65 
+Regulations for Doctor 
+of Philosophy Degree 
+published 
+by 
+an 
+international publisher of 
+repute 
+from 
+a 
+technologically/ 
+academically 
+advanced 
+country, both in the last 5 
+years. 
+v. S(He) has produced at least 
+2 Ph.Ds./ Post-Docs in the 
+subject 
+area 
+of 
+Ph.D. 
+project in the last 5 years, 
+in 
+a 
+technologically/ 
+academically 
+advanced 
+country. 
+vi. S(He) 
+has 
+served 
+on 
+doctoral committees of at 
+least 4 Ph.Ds./ Post-Docs in 
+the subject area of Ph.D. 
+project in the last 5 years, 
+in 
+technologically/ 
+academically 
+advanced 
+countries. 
+vii. S(He) has won at least 2 
+research grant awards as PI/ 
+Co-PI in the subject area of 
+Ph.D. project in the last five 
+years with funding amount 
+greater than US$100,000 (or 
+equivalent) for each, in 
+technologically/ academically 
+advanced countries.  
+7.6.2 
+All tenured or tenure-track 
+faculty 
+members 
+fulfilling 
+criteria mentioned in sub-clause 
+1 
+above 
+are 
+eligible 
+for 
+consideration of the Board 
+without any further evaluation. 
+7.6.3 
+All 
+non-tenure-track 
+faculty 
+members 
+with 
+dissertation 
+status (i.e. approved by their 
+universities to serve on doctoral 
+committees), fulfilling criteria 
+mentioned in sub-clause 7.6.1 
+above 
+are 
+eligible 
+for 
+consideration of the Board 
+without any further evaluation. 
+7.6.4 
+All 
+non-tenure-track 
+faculty 
+members without a dissertation 
+status in their universities may 
+be considered by the Board if 
+s(he) meets at least two of the 
+following 
+requirements 
+in 
+addition to those in sub-clause 
+7.6.1 above: 
+(a) S(He) 
+should 
+have 
+been 
+consistently 
+teaching 
+graduate 
+courses (5-level or above) for the 
+last 5 years (at least 3 courses per 
+academic year on average) in a 
+university 
+belonging 
+to 
+a 
+technologically/ 
+academically 
+advanced country. 
+(b) S(He) should have at least 10 
+research publications in the last 5 
+years. Research publications for 
+the purpose of eligibility may 
+include papers in peer-reviewed 
+journals of international repute, 
+which are indexed by ISI or Scopus; 
+peer-reviewed books authored/ 
+edited that have been published by 
+an 
+international 
+publisher 
+of 
+repute from a technologically/ 
+academically advanced country; 
+and 
+patents 
+approved 
+by 
+International 
+Patenting 
+Association/ 
+Office 
+from 
+a 
+technologically/ 
+academically 
+advanced country. 
+(c) S(He) should have produced at 
+least 2 Ph.Ds./ Post-Docs in the last 
+5 
+years 
+in 
+technologically/ 
+academically advanced country. 
+(d) S(He) should have served on 
+doctoral committees of at least 3 
+Ph.Ds./ Post-Docs in the last 5 
+years 
+in 
+technologically/ 
+academically advanced country, in 
+addition to his or her own Ph.D./ 
+Post-Doc students. 
+(e) S(He) should have won at least 2 
+research grant awards as PI/ Co-PI 
+in the last 10 years with funding 
+amount greater than US$100,000 
+(or equivalent) for each, in a 
+technologically/ 
+academically 
+advanced country. 
+(f) S(He) should have been actively 
+serving in international technical 
+committees, or editorial boards of 
+international journals of repute, or 
+task forces and think tanks related
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+66 
+Regulations for Doctor 
+of Philosophy DegreeRegulations for 
+to the area of expertise, or 
+committees 
+for 
+development/ 
+improvement 
+of 
+policy 
+and 
+legislation. 
+7.7 The 
+Plagiarism 
+Test 
+must 
+be 
+conducted on the thesis by the 
+Supervisor using Turnitin Software, or 
+any other software approved by the 
+University, before its submission to 
+the 
+two 
+foreign 
+experts. 
+The 
+candidate will be required to bring the 
+similarity in acceptable range as 
+prescribed below: 
+(i) 
+Overall acceptable range of 
+similarity index either from 
+candidate’s own previous work 
+or the work of some other 
+person(s) is less than 20%. 
+(ii) 
+Maximum acceptable range of 
+similarity 
+index 
+from 
+an 
+individual link is 5%. 
+(iii) 
+There must not be a similarity 
+more than 3% in the abstract 
+of the thesis. 
+(iv) 
+Verbatim copy of text would 
+be considered as plagiarism. 
+(v) 
+While 
+conducting 
+similarity 
+test, following settings, as 
+recommended by HEC, should 
+be followed: 
+• 
+Exclude 
+bibliographic 
+material = Yes;  
+• 
+Exclude small matches = 
+Yes;  
+• 
+Exclude 
+matches 
+by: 
+Word count = 5 words 
+• 
+All other settings left at 
+default 
+7.8 On the recommendation of the Board of 
+Studies concerned, the Advanced Studies 
+and Research Board shall propose a 
+panel of three examiners including the 
+Supervisor for evaluation of thesis and 
+examination. One examiner shall be 
+from outside the University.  
+7.9 A candidate shall submit an application 
+on prescribed form after fulfilling 
+conditions of Section 7.1 to the Vice 
+Chancellor for his examination and shall 
+submit three copies of the thesis for 
+evaluation. 
+7.10 An open defense of the thesis (an 
+announced public seminar followed 
+by 
+an 
+examination 
+by 
+the 
+designated 
+examiners) shall be 
+conducted after positive evaluation 
+from foreign experts.  
+7.11 Three examiners shall examine the 
+thesis. The report of the experts 
+shall also be made available to the 
+examiners. The candidate shall be 
+required to undergo a viva-voce 
+examination to be conducted jointly 
+by the examiners. The panel of 
+examiners shall submit a report to 
+the ASRB. No degree shall be 
+awarded 
+unless 
+all 
+the 
+three 
+examiners recommend the award of 
+degree.  
+7.12 The result of examination shall be 
+declared in the following manner: 
+(a) Requirement fulfilled without 
+any corrections 
+(b) Requirement 
+fulfilled 
+with 
+minor corrections  
+(c) Deferred 
+(d) Failure 
+7.12.1 In case of result as 7.12(b); one 
+of 
+the 
+members 
+of 
+the 
+Examiners' 
+Committee, 
+as 
+nominated by the Examiners' 
+Committee, shall certify that 
+the corrections are carried out 
+to his satisfaction. 
+7.12.2 In the case of a deferred result 
+the 
+Examiners' 
+Committee 
+shall indicate in what respect 
+the material of the thesis 
+should be modified and specify 
+period 
+for 
+re-submission. 
+Committee shall also decide 
+whether to hold subsequent 
+examination or not. 
+7.12.3 The 
+Examiners' 
+Committee 
+shall deposit the result of the 
+entire 
+examination 
+of 
+the 
+candidate immediately after 
+the oral examination and shall 
+submit 
+the 
+result 
+in 
+the 
+prescribed 
+form 
+to 
+the
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+67 
+Regulations for Doctor 
+of Philosophy Degree 
+Controller of Examinations. 
+7.13  If the thesis is not accepted for 
+Ph.D. degree but found to have 
+made some contribution sufficient 
+for award of Master’s Degree, the 
+University 
+may 
+on 
+the 
+recommendation 
+of 
+examiners, 
+confer Master’s Degree by Research 
+to the candidate, subject to re-
+submission after necessary changes 
+in the thesis format. 
+7.14  If the examiners find that the thesis 
+is wholly inadequate they may 
+recommend that it be rejected 
+without any further test. 
+8. AWARD OF DEGREE 
+If the candidate passes the examination, 
+his result may be declared with the 
+permission of the Syndicate and he may 
+be awarded the degree. 
+9. PUBLICATION OF THESIS 
+9.1 
+A 
+candidate, 
+having 
+qualified 
+himself for the degree of Doctor of 
+Philosophy, shall submit four hard 
+copies of the thesis and one soft 
+copy of the thesis on a CD/ DVD in a 
+prescribed 
+format 
+to 
+the 
+Chairperson 
+of 
+the 
+concerned 
+Department. 
+9.2 
+The Chairperson shall retain one 
+copy for the departmental Library 
+and shall forward three copies to 
+Controller 
+of 
+Examinations 
+for 
+necessary disposal as follows: 
+ 
+9.2.1 Two copies to be disposed to 
+University Library. 
+ 
+9.2.2 One hard copy and one soft 
+copy (on CD/ DVD) to be 
+disposed to the Registrar for 
+onward transmission to HEC 
+for record in Ph.D. Country 
+Directory and for attestation 
+of the Ph.D. degree by the 
+HEC in future. 
+9.3 
+The NED University of Engineering & 
+Technology 
+shall 
+have 
+the 
+intellectual rights of the outcome of 
+any research carried out within 
+University. 
+ 
+10. REMUNERATION OF EXAMINERS, FEES 
+AND OTHER CHARGES 
+10.1 Examiners 
+shall 
+be 
+paid 
+such 
+remuneration as may be prescribed 
+by the University from time to time. 
+10.2 The rate of fees and other charges 
+payable by the students shall be 
+such as may be prescribed by the 
+University from time to time, and 
+announced through the relevant 
+Prospectus/ University Notifications. 
+10.3 Subject 
+to 
+approval 
+by 
+the 
+competent 
+authority, 
+these 
+Regulations may be changed from 
+time to time. Changes shall be 
+announced 
+through 
+University 
+Notifications 
+and/or 
+relevant 
+Prospectus. 
+11. CONDUCT OF PH.D. PROGRAM 
+11.1 There should be at least 3 relevant 
+full time Ph.D. Faculty members in 
+the faculty to launch the Ph.D. 
+program.  
+11.2 The maximum number of Ph.D. 
+students under the supervision of a 
+full time faculty member is five 
+which may be increased to eight 
+under 
+special 
+circumstances 
+in 
+certain 
+teaching 
+departments 
+subject to prior approval of the Vice 
+Chancellor.
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+68 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+M.Phil/M.S/Equivalent GPA => 3.0 
+University Based Test 
+ETS GRE Subject Test (in 
+8 available subjects) 
+NTS GAT Subject Test
+Comprehensive Exam (Maximum Two attempts) 
+Minimum 18 Credit hours course work with CGPA=3.0
+ Success
+NO
+Dropout from PhD
+Yes
+PhD Candidacy 
+PhD Research Proposal 
+Minimum one paper accepted in University approved Journal 
+Dissertation Approved (By Ph.D. Advisory Committee)
+Dissertation Approved (By two foreign relevant subject experts) 
+Open Defense of Dissertation 
+Award of PhD Degree 
+Submission of Dissertation copies to University and HEC for PhD Country 
+Directory 
+Flow Chart for PhD Programme 
+Qualifying Score 
+NO
+
+NED University of Engineering & Technology 
+ 
+Prospectus for Ph.D. Programme 
+69 
+ 
+11. 
+UNIVERSITY FEES AND DEPOSIT 
+The following are the University fees: 
+1. Fee payable at the time of admission to 
+the Programme 
+(i) Application Processing Fee Rs.5,000 
+(ii) Admission/Re-admission Fee Rs.5,000 
+(iii) Enrolment fee, if applicable  Rs.3,000 
+(iv) Security Deposit  
+ 
+Rs. 5,000 
+(v) Documents Verification Fee Rs.2,000 
+2. Fee Payable in each semester  
+(i) Tuition Fee  
+ 
+Rs. 50,000 
+(ii) Library Fee  
+ 
+Rs.2,000 
+(iii) Internet Fee 
+ 
+Rs.1,000 
+(iv) Late Fee, if applicable 
+Rs.5,000

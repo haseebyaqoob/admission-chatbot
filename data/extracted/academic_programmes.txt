@@ -1,0 +1,377 @@
+NED UNIVERSITY - ACADEMIC PROGRAMMES
+=====================================
+
+Key:
+(+)  = Also offered on weekends (min. 3 semesters)
+(*)  = Also offered in morning session
+(**) = Weekend only (min. 3 semesters)
+(***) = In collaboration with Panjwani-Hisaar Water Institute (PHWI)
+
+
+1. CIVIL ENGINEERING
+--------------------
+
+Bachelor (4 Years):
+  - Civil Engineering
+  - Civil Engineering (Specialization in Construction)
+
+Master (2.5 Years M.Engg.):
+  - Structural Engineering (+)
+  - Geo-technical Engineering (*)
+  - Transportation Engineering (*)
+  - Coastal and Water Resources Engineering (***)
+  - Construction Engineering Law
+
+Master (2.5 Years MEM):
+  - Construction Management (+)
+
+PhD: Available in various research areas
+
+
+2. URBAN & INFRASTRUCTURE ENGINEERING
+-------------------------------------
+
+Bachelor (4 Years):
+  - Civil Engineering (Specialization in Urban)
+
+Master (2.5 Years MEM):
+  - Transportation Infrastructure Management (+)
+
+PhD: Available in various research areas
+
+
+3. PETROLEUM ENGINEERING
+------------------------
+
+Bachelor (4 Years):
+  - Petroleum Engineering
+
+Master (2.5 Years M.Engg.):
+  - Petroleum Engineering
+
+
+4. ARCHITECTURE & PLANNING
+--------------------------
+
+Bachelor (5 Years):
+  - Architecture
+
+Master (2.5 Years):
+  - Architecture
+  - Urban & Regional Planning
+
+Bachelor (4 Years):
+  - Development Studies
+
+PhD:
+  - Architecture
+  - Urban & Regional Planning
+
+
+5. ENVIRONMENTAL ENGINEERING
+----------------------------
+
+Master (2.5 Years M.Engg.):
+  - Environmental Engineering (+)
+
+Master (2.5 Years MEM):
+  - Environmental Management (+)
+
+PhD: Available in various research areas
+
+
+6. EARTHQUAKE ENGINEERING
+-------------------------
+
+Master (2.5 Years M.Engg.):
+  - Structural Earthquake Engineering (+)
+
+PhD: Available in various research areas
+
+
+7. MECHANICAL ENGINEERING
+-------------------------
+
+Bachelor (4 Years):
+  - Mechanical Engineering
+
+Master (2.5 Years M.Engg.):
+  - Design
+  - Energy Systems (+)
+  - Renewable Energy
+  - Mechatronics
+
+Master (2.5 Years MEM):
+  - Energy and Plant Management (+)
+
+PhD: Available in various research areas
+
+
+8. TEXTILE ENGINEERING
+----------------------
+
+Bachelor (4 Years):
+  - Textile Engineering (BE)
+  - Textile Sciences (BS)
+
+Master (2.5 Years M.Engg.):
+  - Textile Engineering (+)
+
+Master (2.5 Years MEM):
+  - Textile Management (+)
+
+Master (2.5 Years MS):
+  - Textile Management (+)
+
+PhD: Available in various research areas
+
+
+9. INDUSTRIAL & MANUFACTURING ENGINEERING
+-----------------------------------------
+
+Bachelor (4 Years):
+  - Industrial & Manufacturing Engineering
+
+Master (2.5 Years M.Engg.):
+  - Manufacturing Engineering
+
+Master (2.5 Years MEM):
+  - Industrial Management (+)
+  - Quality Management
+  - Supply Chain Management
+
+PhD: Available in various research areas
+
+
+10. AUTOMOTIVE & MARINE ENGINEERING
+-----------------------------------
+
+Bachelor (4 Years):
+  - Automotive Engineering
+
+Master (2.5 Years M.Engg.):
+  - Automotive Design
+  - Automotive Manufacturing
+
+
+11. ELECTRICAL ENGINEERING
+--------------------------
+
+Bachelor (4 Years):
+  - Electrical Engineering
+
+Master (2.5 Years M.Engg.):
+  - Control Systems
+  - Electrical Power Systems
+  - Smart Grid
+
+Master (2.5 Years MEM):
+  - Energy Management
+
+PhD: Available in various research areas
+
+
+12. COMPUTER & INFORMATION SYSTEMS ENGINEERING
+----------------------------------------------
+
+Bachelor (4 Years):
+  - Computer & Information Systems Engineering
+
+Master (2.5 Years M.Engg.):
+  - Computer Architecture & Systems Design
+  - Computer Network and System Security
+
+Master (2.5 Years MS):
+  - Data Engineering & Information Management
+  - Artificial Intelligence
+
+PhD: Available in various research areas
+
+
+13. ELECTRONIC ENGINEERING
+--------------------------
+
+Bachelor (4 Years):
+  - Electronic Engineering
+
+Master (2.5 Years M.Engg.):
+  - Integrated Circuit Design (+)
+  - Industrial Electronics
+
+PhD: Available in various research areas
+
+
+14. TELECOMMUNICATIONS ENGINEERING
+----------------------------------
+
+Bachelor (4 Years):
+  - Telecommunications Engineering
+
+Master (2.5 Years M.Engg.):
+  - Telecommunications Engineering
+      - RF Engineering
+      - Telecommunications Network
+
+Master (1.5 Years MS - Weekend):
+  - Telecommunications Systems
+
+PhD: Available in various research areas
+
+
+15. CHEMICAL ENGINEERING
+------------------------
+
+Bachelor (4 Years):
+  - Chemical Engineering
+
+Master (2.5 Years M.Engg.):
+  - Chemical Engineering
+
+Master (2.5 Years MEM):
+  - Chemical and Process Management (+)
+
+PhD: Available in various research areas
+
+
+16. MATERIALS ENGINEERING
+-------------------------
+
+Bachelor (4 Years):
+  - Materials Engineering
+
+Master (2.5 Years M.Engg.):
+  - Materials Engineering
+
+PhD: Available in various research areas
+
+
+17. METALLURGICAL ENGINEERING
+-----------------------------
+
+Bachelor (4 Years):
+  - Metallurgical Engineering
+
+Master (2.5 Years M.Engg.):
+  - Metallurgical Engineering
+
+
+18. POLYMER & PETROCHEMICAL ENGINEERING
+---------------------------------------
+
+Bachelor (4 Years):
+  - Polymer & Petrochemical Engineering
+
+Master (2.5 Years M.Engg.):
+  - Polymer Engineering
+
+PhD: Polymer Engineering
+
+
+19. BIOMEDICAL ENGINEERING
+--------------------------
+
+Bachelor (4 Years):
+  - Biomedical Engineering
+
+Master (2.5 Years M.Engg.):
+  - Biomedical Engineering (+)
+
+PhD: Available in various research areas
+
+
+20. FOOD ENGINEERING
+--------------------
+
+Bachelor (4 Years):
+  - Food Engineering
+
+
+21. COMPUTER SCIENCE & SOFTWARE ENGINEERING
+-------------------------------------------
+
+Bachelor (4 Years):
+  - Software Engineering
+  - Computer Science & Information Technology
+  - Artificial Intelligence
+  - Data Science
+  - Cyber Security
+  - Gaming and Animation
+
+Master (2.5 Years M.Engg.):
+  - Software Engineering
+
+Master (2.5 Years MS):
+  - Computer Science & Information Technology (+)
+  - Information Security (+)
+  - Data Science (+)
+  - Geospatial Data Science (+)
+
+PhD: Available in various research areas
+
+
+22. MATHEMATICS
+---------------
+
+Bachelor (4 Years BS):
+  - Computational Finance (BSCF)
+
+Master (2.5 Years MS):
+  - Applied Mathematics (+)
+
+PhD: Available in various research areas
+
+
+23. CHEMISTRY
+-------------
+
+Bachelor (4 Years BS):
+  - Industrial Chemistry (BSIC)
+
+Master (2.5 Years MS):
+  - Industrial Chemistry
+
+PhD: Available in various research areas
+
+
+24. PHYSICS
+-----------
+
+Bachelor (4 Years BS):
+  - Applied Physics (BSAP)
+
+Master (2.5 Years MS):
+  - Physics
+  - Optics
+  - Medical Physics
+
+PhD: Available in various research areas
+
+
+25. ENGLISH LINGUISTICS & ALLIED STUDIES
+----------------------------------------
+
+Bachelor (4 Years BS):
+  - English Linguistics (BSEG)
+
+Master (2 Years MS):
+  - Applied Linguistics
+
+PhD: Available in various research areas
+
+
+26. ECONOMICS AND MANAGEMENT SCIENCES
+-------------------------------------
+
+Bachelor (4 Years BS):
+  - Economics & Finance
+  - Management Sciences
+
+Master (2.5 Years MS):
+  - Economics & Finance (+)
+
+
+27. PANJWANI-HISAAR WATER INSTITUTE (PHWI)
+------------------------------------------
+
+  - Urban Water Management (***)
+  - Climate Change Management (***)
