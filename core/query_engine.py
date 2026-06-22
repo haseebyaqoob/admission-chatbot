@@ -51,6 +51,12 @@ class QueryEngine:
             df = df[df["degree_level"].astype(str).str.lower().str.contains(level.lower(), na=False)]
         return df
 
+    def list_all_programs(self) -> list[dict]:
+        """Return ALL programs as a list of dicts (for LIST mode)."""
+        if len(self.df) == 0:
+            return []
+        return self.df.to_dict(orient="records")
+
     def to_summary_string(self, row: pd.Series) -> str:
         """Format a program row as a readable string."""
         parts = []
