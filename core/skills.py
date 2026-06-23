@@ -7,6 +7,22 @@ Each skill defines:
 - How to format the answer (table vs bullets vs paragraph)
 - What to do with evidence
 - Specific formatting rules for that intent
+
+FIX (source attribution) — this version:
+The structured-data citation rule (point 7b in _base_rules) and
+skill_supervisor() have been updated to describe the NEW location of the
+source filename: it now lives in the `[ROW i | source: filename]` HEADER
+of each structured-data row (set by answer_generator.py's
+_format_csv_rows), not in a trailing "(cite this row as: ...)" line after
+the row's fields. The instruction wording is updated accordingly so the
+model is told to look in the right place.
+
+ADDITION — skill_scholarships():
+Scholarships moved from the unstructured RAG path to the structured path
+(see scholarship_builder.py and the scholarships tool in config.yaml).
+The skill enforces that the model lists only what's in the evidence rows
+and never invents eligibility criteria, award amounts, or deadlines that
+are absent from the source file.
 """
 
 from datetime import date
@@ -14,8 +30,8 @@ from datetime import date
 SKILL_NAMES = {
     "COUNT", "PROGRAMS", "ELIGIBILITY", "FEES", "DEADLINES",
     "DOCUMENTS", "FACILITIES", "HOSTEL", "SUPERVISOR",
-    "HISTORY", "CONTACT", "SHUTTLE", "GENERAL", "OFF_TOPIC",
-    "GREETING", "FAREWELL",
+    "HISTORY", "CONTACT", "SHUTTLE", "SCHOLARSHIPS", "GENERAL",
+    "OFF_TOPIC", "GREETING", "FAREWELL",
 }
 
 
@@ -40,13 +56,29 @@ def _base_rules(today: str) -> str:
         "generic suggestions. If the evidence is empty OR not actually about the user's "
         "question (e.g. it's about a different topic entirely), say plainly that you "
         "don't have information on this and do not attempt to answer anyway.\n"
-        "6. Do NOT invent specific numbers, dates, program names, fee amounts, or "
-        "topical alignments (e.g. do not claim a person/program/area is relevant to a "
-        "topic such as \"AI\" or \"Cyber Security\" unless the evidence explicitly says so "
-        "— a broad/generic category like \"Engineering & Technology\" is NOT the same as "
-        "a specific match and must not be presented as one).\n"
+        "6. Do NOT invent specific numbers, dates, times, names, program names, fee "
+        "amounts, or topical alignments (e.g. do not claim a person/program/area is "
+        "relevant to a topic such as \"AI\" or \"Cyber Security\" unless the evidence "
+        "explicitly says so — a broad/generic category like \"Engineering & Technology\" "
+        "is NOT the same as a specific match and must not be presented as one).\n"
+        "6b. Any number, time, or date you state must be copied character-for-character "
+        "from the evidence — never adjusted, rounded, 'corrected', or inferred to seem "
+        "more plausible. If two different evidence rows show the IDENTICAL value, your "
+        "answer must show that identical value for both — do not invent a difference "
+        "between them that isn't in the evidence (e.g. do not assume an 'evening' time "
+        "must be different from a 'morning' time just because that seems more likely).\n"
         "7. For each fact or number you present, cite the source file: "
         "(source: filename.txt)\n"
+        "7b. For STRUCTURED DATA rows (anything under a '── STRUCTURED DATA ──' heading), "
+        "the filename to cite is given in THAT ROW'S OWN HEADER LINE, e.g. "
+        "'[ROW 1 | source: supervisors.csv]' or '[ROW 2 | source: shuttle_routes.csv]' — "
+        "the part after 'source: ' and before the closing ']' is the EXACT, correct "
+        "filename for every field belonging to that row. Copy it character-for-character "
+        "into your citation. Do NOT compose your own label such as \"(source: structured "
+        "data)\", \"(source: database)\", or \"(source: internal records)\" — those are "
+        "not real filenames and make the citation unverifiable. The row header itself is "
+        "not a data field — never display the literal text '[ROW 1 | source: ...]' to the "
+        "user; just use the filename inside it for your citation.\n"
         "8. If you cannot cite a source for a claim, do not include it in your answer.\n"
         "9. Be concise. Use proper formatting (bold, line breaks, spacing).\n"
         "\n"
@@ -77,6 +109,22 @@ def _base_rules(today: str) -> str:
         'what was retrieved. Could you check with the transport office, or try rephrasing?"\n'
         'Incorrect answer (DO NOT DO THIS): suggesting Uber/Careem, or answering about '
         "Civil Engineering programs because that's what the evidence happened to contain.\n"
+        "\n"
+        "EXAMPLE — incorrect behavior (silently 'correcting' a literal value):\n"
+        "Evidence: [Two rows, both with timing: 7:00 a.m — one labeled leg: morning, "
+        "one labeled leg: evening.]\n"
+        'Incorrect answer (DO NOT DO THIS): "...departs 7:00 a.m in the morning and '
+        '7:00 p.m in the evening..." — the evidence never said 7:00 p.m anywhere; this '
+        "is an invented value that only seemed more plausible.\n"
+        'Correct answer: "...departs 7:00 a.m for both the morning and evening legs, per '
+        'the evidence (the source data lists the same departure time for both)."\n'
+        "\n"
+        "EXAMPLE — correct structured-data source citation:\n"
+        "Evidence: [STRUCTURED DATA, row header reads: '[ROW 1 | source: supervisors.csv]']\n"
+        'Correct answer: "...Dr. Abdul Ghaffar Memon, Associate Professor (source: '
+        'supervisors.csv)"\n'
+        'Incorrect answer (DO NOT DO THIS): "...(source: structured data)" or '
+        '"...(source: internal database)" — these are not real filenames.\n'
     )
 
 
@@ -166,23 +214,49 @@ def skill_hostel() -> str:
 
 
 def skill_supervisor() -> str:
+    """SUPERVISOR queries — evidence now comes from a deterministic
+    structured lookup (core/supervisor_matcher.py), not raw RAG chunks.
+    This exists specifically because the model previously fabricated two
+    entirely fictional supervisors when asked for an "AI" supervisor and
+    the real evidence had no match — the matching decision has been moved
+    out of the model's hands and into core/supervisor_matcher.py instead.
+
+    FIX (source attribution): the citation instruction below now points
+    at the row HEADER (`[ROW i | source: supervisors.csv]`) rather than a
+    trailing "(cite this row as: ...)" line, matching the new format
+    produced by answer_generator.py's _format_csv_rows(). This is the
+    instruction that previously told the model to read a line it tended
+    to skip past; pointing it at the header — read first, before any of
+    the row's own fields — is the actual fix.
+    """
     return _base_rules(_today()) + (
         "SPECIAL INSTRUCTION — This is a SUPERVISOR query:\n"
-        "- List supervisors organized by research area.\n"
-        "- Use a TABLE format:\n"
+        "- The rows in the evidence (if any) have ALREADY been "
+        "deterministically matched against the requested research area by "
+        "the system before reaching you. Do NOT add, infer, or invent any "
+        "supervisor not present in the evidence, and do NOT relax or "
+        "second-guess the match yourself — every row you were given is "
+        "confirmed correct, and there are no other matching rows beyond "
+        "what's given.\n"
+        "- List supervisors organized by research area, using a TABLE:\n"
         "  | Research Area | Supervisor Name | Designation |\n"
         "  |--------------|-----------------|-------------|\n"
         "  | [area]       | [name]          | [title]     |\n"
-        "- If the user specified a research area (e.g. 'AI', 'Cyber Security'), only "
-        "include a supervisor row if the evidence's subject/research-area field "
-        "EXPLICITLY contains that area or a clear synonym of it. A broad category like "
-        "\"Engineering & Technology\" does NOT count as a match for a specific area like "
-        "\"AI\" — do not present it as one.\n"
-        "- If NO supervisor's listed subject is an explicit match for the requested area, "
-        "say so directly: state that no supervisor's listed subject matches the requested "
-        "area in the evidence. You may separately mention the closest broader category "
-        "that exists, clearly labeled as broader/not a confirmed match — never blend the "
-        "two into a single false claim of relevance.\n"
+        "- Cite the source once below the table using the filename given in "
+        "each row's own header line — e.g. a row header reading "
+        "'[ROW 1 | source: supervisors.csv]' means you cite 'Source: "
+        "supervisors.csv' — copy it character-for-character. Do not invent "
+        "a different label such as 'structured data' or 'internal records'.\n"
+        "- If the evidence is EMPTY, that means no supervisor's listed "
+        "subject matched the requested area — state this directly and "
+        "plainly (e.g. 'No supervisor's listed research area matches "
+        "\"<area>\" in our records.'). Do NOT invent a name, designation, "
+        "or research area to fill the table — under no circumstances "
+        "should this table contain a row that is not explicitly present "
+        "in the evidence, even if an empty table feels like an "
+        "unsatisfying answer. You may suggest the user contact the "
+        "department directly to ask about a supervisor in their specific "
+        "area, since that information isn't in what was retrieved.\n"
     )
 
 
@@ -207,37 +281,87 @@ def skill_contact() -> str:
 
 
 def skill_shuttle() -> str:
-    """Shuttle/transport queries — evidence now comes from a deterministic
-    structured lookup (core/shuttle_matcher.py), not semantic RAG. The
-    csv_rows passed in will be one of three shapes:
-      1. Matched rows with 'matched_stop' + 'match_score' fields — a
-         location was recognized and these are the routes that serve it.
-      2. The full route table (no 'matched_stop' field) — a generic
-         "tell me about shuttle routes" type request.
-      3. Empty — a location was mentioned but nothing matched it.
+    """Shuttle/transport queries — evidence comes from a deterministic
+    structured lookup (core/shuttle_matcher.py), not semantic RAG.
+
+    FIX (source attribution): the citation instruction below now points
+    at the row HEADER, matching the new format from
+    answer_generator.py's _format_csv_rows() (same change as
+    skill_supervisor() above).
     """
     return _base_rules(_today()) + (
         "SPECIAL INSTRUCTION — This is a SHUTTLE/TRANSPORT query:\n"
-        "- If the evidence rows include a 'matched_stop' field, the system has "
-        "already confirmed these routes pass through a stop matching the user's "
-        "mentioned area. Present each as: Route [route_id] ([leg]) — departs "
-        "[timing] — passes through [matched_stop]. List ALL matched routes/legs "
-        "given, even if there are several — do not pick just one.\n"
-        "- If the evidence rows do NOT include a 'matched_stop' field, this is "
-        "the full route table — the user asked generically. Present ALL routes "
-        "given as a table: Route ID | Leg | Timing | Stops (you may summarize a "
-        "long stop list as 'first stop – ... – last stop' for readability, but "
-        "do not drop any route from the table).\n"
-        "- If there is NO evidence at all (empty), say plainly that no route's "
-        "stop list matches the area mentioned. Do NOT name a 'closest' or "
-        "'nearby' route — that would be a guess. Instead: offer to list all "
-        "available routes if the user wants to check manually, suggest they "
-        "share a nearby landmark/stop name instead, and mention contacting the "
-        "university transport office to confirm. Do NOT suggest ride-sharing "
-        "apps or other services not present in the evidence.\n"
-        "- Note any morning-only/evening-only restriction exactly as given in "
-        "the 'leg' field — never imply a route runs both ways if leg says only "
-        "one direction.\n"
+        "- The `timing` field is given literally, per row — copy it "
+        "character-for-character into your answer. Do NOT adjust AM/PM, "
+        "and do NOT infer a different time for an 'evening' leg than what "
+        "the `timing` field literally states, even if a different value "
+        "would seem more plausible (e.g. assuming evening must be PM). If "
+        "two rows show the identical timing value, your answer must show "
+        "that identical value for both — do not 'correct' it into two "
+        "different times.\n"
+        "- Cite the source once using the filename given in each row's own "
+        "header line — e.g. a row header reading '[ROW 1 | source: "
+        "shuttle_routes.csv]' means you cite 'Source: shuttle_routes.csv' "
+        "— copy it character-for-character. Do not invent a different "
+        "label.\n"
+        "- If the evidence rows include a 'matched_stop' field, the "
+        "system has already confirmed these routes pass through a stop "
+        "matching the user's mentioned area. Present each as: Route "
+        "[route_id] ([leg]) — departs [timing] — passes through "
+        "[matched_stop]. List ALL matched routes/legs given, even if "
+        "there are several — do not pick just one.\n"
+        "- If the evidence rows do NOT include a 'matched_stop' field, "
+        "this is the full route table. Present ALL routes given as a "
+        "table: Route ID | Leg | Timing | Stops (you may summarize a long "
+        "stop list as 'first stop – ... – last stop' for readability, but "
+        "do not drop any route from the table). If the user named a "
+        "specific area in their question, add ONE short closing sentence "
+        "noting that none of the stops matched it (e.g. 'None of the "
+        "listed stops match \"<area>\" — see the table above for all "
+        "available routes.'). Keep this to a single sentence — do not add "
+        "further explanation, apology, or suggestions beyond it.\n"
+        "- If there is NO evidence at all (empty), say plainly that "
+        "shuttle route information isn't available right now. Do NOT "
+        "guess or suggest ride-sharing apps or other services not present "
+        "in the evidence.\n"
+        "- Note any morning-only/evening-only restriction exactly as "
+        "given in the 'leg' field — never imply a route runs both ways if "
+        "leg says only one direction.\n"
+    )
+
+
+def skill_scholarships() -> str:
+    """SCHOLARSHIP queries — evidence comes from scholarships.csv via the
+    deterministic structured path (scholarship_builder.py).
+
+    The source file contains scholarship names only — no eligibility
+    criteria, award amounts, or deadlines are present. The skill
+    instructs the model to list names faithfully and explicitly prohibits
+    inventing any details not present in the evidence rows.
+    """
+    return _base_rules(_today()) + (
+        "SPECIAL INSTRUCTION — This is a SCHOLARSHIPS query:\n"
+        "- The evidence rows contain scholarship names as listed by NED "
+        "University. Present them as a clean numbered list in the order "
+        "given (already sorted by scholarship number).\n"
+        "- Use the 'name' field from each row exactly as it appears — do "
+        "NOT paraphrase, abbreviate, or reorder scholarship names.\n"
+        "- The source file contains names only. Do NOT invent, guess, or "
+        "imply any eligibility criteria, award amounts, application "
+        "deadlines, or sponsoring organisations — these details are NOT "
+        "in the evidence. If the user asks about amounts or eligibility, "
+        "state explicitly: 'The available data lists scholarship names "
+        "only; eligibility criteria and award amounts are not included in "
+        "this source. Please contact the NED Financial Aid office for "
+        "those details.'\n"
+        "- Cite the source once at the end of the list using the filename "
+        "given in the row headers — e.g. '[ROW 1 | source: "
+        "scholarships.csv]' means you cite 'Source: scholarships.csv' — "
+        "copy it character-for-character. Do not substitute 'structured "
+        "data' or 'internal database'.\n"
+        "- If the evidence is EMPTY, say plainly that no scholarship "
+        "information was found in what was retrieved and suggest the user "
+        "contact the Financial Aid office directly.\n"
     )
 
 
@@ -275,6 +399,7 @@ def skill_off_topic() -> str:
         "- Hostel and facilities\n"
         "- Shuttle / transport routes\n"
         "- PhD supervisors\n"
+        "- Scholarships\n"
         "- University history and contact info\"\n\n"
         "Keep it short and friendly. Do not try to answer their off-topic question."
     )
@@ -285,34 +410,32 @@ def skill_off_topic() -> str:
 # ═══════════════════════════════════════════════════════════════════════
 
 SKILL_MAP = {
-    "COUNT":      skill_count,
-    "PROGRAMS":   skill_programs,
-    "ELIGIBILITY": skill_eligibility,
-    "FEES":       skill_fees,
-    "DEADLINES":  skill_deadlines,
-    "DOCUMENTS":  skill_documents,
-    "FACILITIES": skill_facilities,
-    "HOSTEL":     skill_hostel,
-    "SUPERVISOR": skill_supervisor,
-    "HISTORY":    skill_history,
-    "CONTACT":    skill_contact,
-    "SHUTTLE":    skill_shuttle,
-    "GENERAL":    skill_general,
-    "OFF_TOPIC":  skill_off_topic,
-    "GREETING":   skill_off_topic,   # not used (handled by pre-router)
-    "FAREWELL":   skill_off_topic,   # not used (handled by pre-router)
+    "COUNT":        skill_count,
+    "PROGRAMS":     skill_programs,
+    "ELIGIBILITY":  skill_eligibility,
+    "FEES":         skill_fees,
+    "DEADLINES":    skill_deadlines,
+    "DOCUMENTS":    skill_documents,
+    "FACILITIES":   skill_facilities,
+    "HOSTEL":       skill_hostel,
+    "SUPERVISOR":   skill_supervisor,
+    "HISTORY":      skill_history,
+    "CONTACT":      skill_contact,
+    "SHUTTLE":      skill_shuttle,
+    "SCHOLARSHIPS": skill_scholarships,
+    "GENERAL":      skill_general,
+    "OFF_TOPIC":    skill_off_topic,
+    "GREETING":     skill_off_topic,   # not used (handled by pre-router)
+    "FAREWELL":     skill_off_topic,   # not used (handled by pre-router)
 }
 
 
 def get_skill(intent: str) -> str:
     """Get the skill prompt for a given intent.
 
-    NOTE: previously defaulted unknown intents straight to skill_off_topic,
-    which silently produced a "zero RAG, canned redirect" answer for any
-    intent string that didn't match the map exactly (e.g. the literal
-    string "RAG" returned by the old router fallback). Now defaults to
-    GENERAL instead, since an unrecognized-but-real query should still get
-    an honest evidence-based answer rather than a hard redirect.
+    Defaults unknown intents to GENERAL (not OFF_TOPIC) so an
+    unrecognized-but-real query still gets an honest evidence-based answer
+    rather than a hard redirect.
     """
     builder = SKILL_MAP.get(intent, skill_general)
     return builder()
