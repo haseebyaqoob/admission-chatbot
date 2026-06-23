@@ -1,71 +1,3 @@
-"""
-answer_generator.py
-────────────────────
-Produces the final answer using intent-specific skill templates.
-Supports conversational context history and configurable token budgets.
-
-EVIDENCE FORMATTING:
-Every evidence item (CSV row or RAG chunk) gets its own clearly fenced
-block with the label directly attached to its own content, so multiple
-items can never visually blend into each other regardless of how long any
-individual field is (this is what fixed the earlier route-mislabeling bug,
-where Route 16's stops were getting attributed to Route 17+3).
-
-SOURCE ATTRIBUTION FOR STRUCTURED ROWS (FIX — this version):
-Structured rows (SUPERVISOR/SHUTTLE/PROGRAMS, tagged by pipeline.py's
-_tag_source with a `_source_file` field) previously had the source
-rendered as a trailing "(cite this row as: ...)" line AFTER all the
-regular fields. In practice, qwen2.5:7b-instruct frequently ignored this
-trailing instruction and composed its own vague placeholder instead —
-"(source: structured data)" — which is not a real filename and makes the
-citation unverifiable.
-
-The fix moves `_source_file` INTO the `[ROW i]` header itself:
-    [ROW 1 | source: supervisors.csv]
-      name: Dr. Abdul Ghaffar Memon
-      ...
-rather than appending it as a separate trailing line. This mirrors what
-_format_rag_evidence() already does successfully for RAG chunks (their
-source has always lived in the `[EVIDENCE i | source: ...]` header, and
-that path has not shown the same fabricated-source-label problem). A
-header is read first and applies to everything beneath it until the next
-boundary, which is a much stronger positional cue for a small local model
-than a trailing instruction the model has often already "moved past" by
-the time it reaches end-of-row. skills.py's instructions have been
-updated to describe this new header location explicitly.
-
-POST-GENERATION TIME-CLAIM VERIFICATION (Root cause #2, fix #2):
-Grounding (giving the model correct evidence) is necessary but is NOT
-sufficient on its own to stop a specific kind of plausible-sounding
-substitution: in production, Route 8's morning and evening legs both had
-the literal evidence value `timing: 7:00 a.m`, and the model still wrote
-"7:00 a.m" for morning and invented "7:00 p.m" for evening — not because
-the evidence was wrong or ambiguous, but because the model "improved" on
-a literal field value with something that seemed more plausible.
-
-The skill-prompt instruction in skills.py (copy `timing` character-for-
-character) is the first line of defense, but per the spec this needs a
-second, structural check: extract any time-like token from the model's
-answer and verify it appears verbatim somewhere in the evidence block. If
-it doesn't, regenerate once with a targeted correction; if it's still
-wrong after that, surface the issue in the answer rather than silently
-shipping a value nobody confirmed.
-
-Scope note: this check is deliberately narrowed to TIME tokens
-(`\\d{1,2}:\\d{2}\\s*[ap]\\.?m`) rather than "any number," per the spec's
-broader suggestion. A generic number-verifier would also flag legitimate,
-intentional reformatting (e.g. the existing skill instruction that turns
-"32" into "thirty-two (32)", or a date reformatted from the source's
-"15/07/2026" into "July 15, 2026"), which would cause false-positive
-regenerations and erode trust in the check. Time values don't have that
-reformatting ambiguity in this domain (they're always presented in the
-same H:MM am/pm shape), so this is the safe place to start. The same
-mechanism (extract → verify verbatim → regenerate-or-flag) could be
-extended to fee/PKR amounts later if a similar fabrication pattern shows
-up there — see the structured-lookup fee/seats work mentioned in the
-chunking-regression spec.
-"""
-
 from __future__ import annotations
 
 import re
@@ -152,7 +84,11 @@ def _format_csv_rows(csv_rows: list[dict]) -> str:
     for i, row in enumerate(csv_rows[:15], 1):
         source_file = row.get("_source_file")
         # FIX: source now lives in the row header, not a trailing line.
-        header = f"[ROW {i} | source: {source_file}]" if source_file else f"[ROW {i}]"
+        header = (
+            f"[ROW {i} | source: {source_file}]"
+            if source_file
+            else f"[ROW {i}]"
+        )
         lines.append(header)
         for k, v in row.items():
             if k == "_source_file":
@@ -177,7 +113,10 @@ def _format_rag_evidence(evidence_parts: list[dict]) -> str:
         content = ep.get("content", "")
         if len(content) > _MAX_CHUNK_CHARS:
             content = content[:_MAX_CHUNK_CHARS] + " …(truncated)"
-        lines.append(f"[EVIDENCE {i} | source: {source}{f' | topic: {topic}' if topic else ''}]")
+        lines.append(
+            f"[EVIDENCE {i} | source: {source}"
+            f"{f' | topic: {topic}' if topic else ''}]"
+        )
         lines.append(content.strip())
         lines.append("---")  # explicit boundary between chunks
     return "\n".join(lines).rstrip("- \n")
@@ -214,7 +153,11 @@ def generate_answer(
     if evidence_parts:
         evidence_sections.append(_format_rag_evidence(evidence_parts))
 
-    evidence_block = "\n\n".join(evidence_sections) if evidence_sections else "(no evidence available)"
+    evidence_block = (
+        "\n\n".join(evidence_sections)
+        if evidence_sections
+        else "(no evidence available)"
+    )
 
     user_prompt_parts = []
     if context_history:
@@ -223,24 +166,29 @@ def generate_answer(
     user_prompt_parts.append(f"Intent: {intent}")
     user_prompt_parts.append(f"EVIDENCE:\n{evidence_block}")
     user_prompt_parts.append(
-        "Generate a helpful answer using the evidence and two-tier reasoning:\n\n"
-        "TIER 1 — Corpus-grounded answers (EVIDENCE-REQUIRED):\n"
-        "  For fees, eligibility, programs, supervisors, schedules, deadlines,\n"
-        "  documents, facilities, hostel, contact info — use ONLY the evidence\n"
-        "  provided above. Cite the source for each fact. If the evidence does\n"
-        "  not contain the answer, say so plainly.\n\n"
-        "TIER 2 — General Institutional Knowledge (NO EVIDENCE REQUIRED):\n"
-        "  For basic factual questions about NED University that a prospective\n"
-        "  student would reasonably expect anyone to know, you may use your own\n"
-        "  general knowledge. These include:\n"
-        "    - University location (e.g. \"Where is NED located?\" → Karachi)\n"
-        "    - Full official name (NED University of Engineering and Technology)\n"
-        "    - Founding year / establishment date (if widely known)\n"
-        "    - General description of the institution\n"
-        "  If you answer from general knowledge, explicitly state it:\n"
-        "  \"(based on general knowledge)\" rather than citing a source.\n\n"
-        "RULE: Before refusing to answer, determine whether this is a basic\n"
-        "institutional fact. If yes, answer it even without retrieved evidence.\n\n"
+        "Generate a helpful answer using the evidence and the rules below:\n\n"
+        "TIER 1 — Corpus-grounded answers (EVIDENCE REQUIRED):\n"
+        "  For ALL topics — fees, eligibility, programs, supervisors, schedules,\n"
+        "  deadlines, documents, facilities, hostel, scholarships, societies,\n"
+        "  contact info — use ONLY the evidence provided above. Cite the source\n"
+        "  for each fact. If the evidence does not contain the answer, respond\n"
+        "  exactly: 'I don't have this information in what was retrieved. Please\n"
+        "  contact the admissions office directly for accurate details.'\n\n"
+        "TIER 2 — Permitted ONLY for these two facts (NO EVIDENCE REQUIRED):\n"
+        "  - NED University's location: Karachi, Pakistan.\n"
+        "  - NED University's full official name: NED University of Engineering\n"
+        "    and Technology.\n"
+        "  If you use either of these, state explicitly: '(based on general\n"
+        "  knowledge)' rather than citing a source.\n"
+        "  For ALL other topics — hostels, scholarships, facilities, societies,\n"
+        "  fees, eligibility, deadlines, supervisors, shuttle routes — use ONLY\n"
+        "  the evidence above. If evidence is absent, respond: 'I don't have\n"
+        "  this information in what was retrieved. Please contact the admissions\n"
+        "  office directly for accurate details.' Never substitute general\n"
+        "  knowledge on these topics, even if the answer seems obvious or widely\n"
+        "  known. The distinction between TIER 1 and TIER 2 is not about\n"
+        "  confidence — it is a hard rule about which two facts may bypass\n"
+        "  evidence.\n\n"
         "Each evidence item is self-contained between its own header and the\n"
         "next boundary marker ('---' or a blank line) — do not mix content\n"
         "across items."
@@ -260,7 +208,10 @@ def generate_answer(
     # time tokens specifically.
     unverified = _unverified_time_claims(answer, evidence_block)
     if unverified:
-        print(f"[answer_generator] Unverified time claim(s) {unverified} — regenerating with correction")
+        print(
+            f"[answer_generator] Unverified time claim(s) {unverified} "
+            "— regenerating with correction"
+        )
         correction = (
             "\n\nIMPORTANT CORRECTION: your previous answer included a time "
             f"value ({', '.join(unverified)}) that does not appear anywhere "
@@ -277,7 +228,9 @@ def generate_answer(
             {"role": "system", "content": system_prompt + correction},
             {"role": "user",   "content": user_prompt},
         ]
-        answer2 = llm.chat(messages_retry, max_new_tokens=_MAX_TOKENS, temperature=0.0)
+        answer2 = llm.chat(
+            messages_retry, max_new_tokens=_MAX_TOKENS, temperature=0.0
+        )
         still_unverified = _unverified_time_claims(answer2, evidence_block)
         if not still_unverified:
             answer = answer2
@@ -286,7 +239,10 @@ def generate_answer(
             # Still wrong after a deterministic-temperature retry — don't
             # ship a silently-fabricated time value. Surface the issue
             # instead of hiding it.
-            print(f"[answer_generator] Still unverified after retry: {still_unverified} — flagging in response")
+            print(
+                f"[answer_generator] Still unverified after retry: "
+                f"{still_unverified} — flagging in response"
+            )
             answer = answer2 + (
                 "\n\n*(Note: a time value in this answer could not be "
                 "automatically verified against the source data — please "
