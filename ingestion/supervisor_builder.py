@@ -5,10 +5,7 @@ Build supervisors.csv from the extracted PhD-supervisor roster text.
 
 Mirrors shuttle_builder.py. The roster is a single-line column table —
 the same shape chunker.py's _COLUMN_ROW already detects for chunking
-purposes (a leading row number, then 2+-space-delimited columns), e.g.:
-
-  1      Dr. Abdul Ghaffar Memon        Associate Professor   Engineering & Technology
-  2      Dr. Abdul Ghani Abro           Assistant Professor   Engineering & Technology
+purposes (a leading row number, then 2+-space-delimited columns), 
 
 This builder parses that same row shape directly into named fields
 (name, designation, subject) instead of leaving it as opaque chunk text,
