@@ -1,0 +1,255 @@
+NED UNIVERSITY - FACILITIES
+============================
+
+1. ENGR. ABUL KALAM LIBRARY
+----------------------------
+Established in 1921, one of Pakistan's leading academic libraries focusing on
+engineering sciences and technology. Serves as the regional reference library
+of engineering and technology.
+
+Library Collection:
+  - General circulation books (textbooks)
+  - Reference books (encyclopedias, handbooks, dictionaries, manuals)
+  - Periodicals (current subscriptions + previous journal volumes)
+  - Government documents & archive material
+    (Acts, Ordinances, Service Rules, Statistical reports, Census reports)
+  - Survey reports, Planning reports, Budgets
+  - Audio Visual content (CDROMs, DVDs)
+  - Digital content (eBooks, eJournals)
+
+Security:
+  - State-of-the-art RFID-based security system
+
+Department Libraries:
+  - Located at City Campus, LEJ Campus, and Main Campus
+  - NED Academy library for CCEE and CMPP students
+
+Book Bank Service (Undergraduates):
+  - Textbooks provided at 10% of cost for the entire semester
+
+Lending Library / Duty Society (Undergraduates):
+  - Textbooks provided free of cost for the entire semester
+
+Technology:
+  - Computerised Library Management System, Website, OPAC, Portal
+  - 65 latest-configuration computers
+  - Digital services: e-Books, e-Journals (HEC National Digital Library),
+    laser printing, scanning, CD/DVD writing, copying
+
+Mission: User-oriented learning environment, preserve universal knowledge.
+
+
+2. INFORMATION TECHNOLOGY (IT) SERVICES
+----------------------------------------
+Established: 1998-99
+
+NEDUET Campus Management System (CMS):
+  - Paperless environment for admin & academic departments
+  - Systems: Undergraduate/PG Student Management, HR Management,
+    Attendance, Security Operations, Academic Performance Monitoring
+  - Journal and research databanks
+  - Single sign-on 24/7 portal (NEDUET Campus Portal)
+  - Online semester registration for UG & PG students
+
+NEDUET Website:
+  - Dedicated Web Development Team
+  - Supports departmental websites
+
+Metro LAN:
+  - First in educational public sector
+  - 37 km Optical Fibre Metro Area Network (MAN)
+  - Connects Main, LEJ & City Campuses
+
+NEDUET ISP:
+  - 24x7 high-speed Internet access
+  - Dial-up service available
+  - Network Operation Centre (NOC) with enterprise-grade equipment
+
+NEDUET WiFi:
+  - Campus-wide coverage via iAccess captive portal
+  - Authentication, accounting services
+
+Video Conferencing:
+  - Centrally-located facility for virtual classes, conferences, seminars
+  - Available 24/7, local and international connectivity
+
+Computational Services (HPC):
+  - First public sector university in Pakistan to build own clusters
+  - Two HPC clusters:
+    - 50 nodes (32-bit architecture)
+    - 32 virtualised nodes (64-bit architecture)
+  - Accessible from all campuses + remotely via internet
+
+Software Repository:
+  - Generic and application-oriented licensed software
+  - Standalone: HPC Centre only | Network-based: entire university
+
+Training:
+  - Trainings, seminars, workshops for staff, faculty, and students
+
+IT Help Desk:
+  - Software & Desktop Support
+  - Network Support
+  - Hardware Maintenance
+  - NEDUET-CMS (Portal)
+  - High Performance Computing (HPC)
+  - Services extended to all three campuses
+
+
+3. INSTRUMENTATION CENTRE
+--------------------------
+Established under HEC grant. Provides testing & calibration services.
+
+Capabilities:
+  - Calibration of multimeters, energy meters,
+    pressure/temperature gauges, water quality, flow
+  - Training for UG and PG students
+  - Assists final year projects and R&D activities
+
+Laboratories:
+  - Electronics and Signals Lab
+  - Pressure and Temperature Lab
+  - Equipment Testing Lab
+  - Water Quality and Flow Testing Lab
+  - Virtual Instrumentation Lab (National Instruments LabVIEW)
+
+Accreditation:
+  - Pursuing ISO 17025 accreditation
+  - Goal: Regional leader in test & calibration
+  - Will provide services to industries/organisations in Karachi area
+
+
+4. NED ACADEMY
+---------------
+Established: 1 July 2008 (CCEE founded 1998)
+
+Objectives:
+  - Update engineers with recent developments
+  - Enhance employability of working engineers
+  - Help lower-tier professionals meet registration levels
+  - Structured programmes for engineers unable to pursue formal Masters
+  - Postgraduate diplomas in specific technologies (sugar, plastics, etc.)
+
+Two Sections:
+  - Centre for Continuing Engineering Education (CCEE)
+    - University-Industry partnerships, continuing education courses
+  - Centre for Multidisciplinary Postgraduate Programmes (CMPP)
+    - Long-duration certificate courses, PG Certificate Courses
+
+
+5. FERROCEMENT INTERNATIONAL NETWORK (FIN-PAKISTAN)
+----------------------------------------------------
+  - National Node for ferrocement, established 1990 in Civil Engineering Dept.
+  - Under International Node at IFIC-AIT-BANGKOK
+  - Disburses research material and disseminates knowledge in ferrocement
+
+
+6. COWASJEE EARTHQUAKE STUDY CENTRE (CESNED)
+----------------------------------------------
+  - Established 2001 after Bhuj earthquake
+  - Under Department of Earthquake Engineering
+  - Houses national & global earthquake data
+  - Disseminates earthquake knowledge
+  - Responds to emergency needs
+  - Guiding principles for pre/post disaster mitigation
+  - Recognised as one of two earthquake study centres in Pakistan
+    (after 2005 Kashmir earthquake)
+
+
+7. SHAKE TABLE TESTING FACILITY
+---------------------------------
+  - State-of-the-art facility in Earthquake Engineering Department
+  - Simulates real-time earthquake ground motion
+  - Records dynamic response of structures
+
+
+8. ADVANCED MATERIAL TESTING FACILITY
+--------------------------------------
+  - State-of-the-art facility in Earthquake Engineering Department
+  - Full-scale static and pseudo-dynamic testing
+  - Tests structural components of buildings and bridges
+
+
+9. PCB FABRICATION LABORATORY
+-------------------------------
+  - Located in Electronic Engineering Department
+  - Trains UG students in PCB fabrication technology
+  - Supported by PCB layout design and auto-routing software
+  - Fabricates PCBs for local requirements
+
+
+10. PRODUCT DEVELOPMENT CENTRE (PDC)
+-------------------------------------
+  - Fully equipped with sophisticated equipment and software
+  - Used for re-engineering
+
+
+11. DIRECTORATE OF INDUSTRIAL LIAISON (DIL)
+--------------------------------------------
+Established: 1997
+
+Activities:
+  - Arranges internship opportunities for students
+  - Collects suggestions for Final Year Design Project topics
+  - Arranges technical/practical help from industries
+  - Industry-assigned projects with advisors
+  - Study visits for students and faculty
+
+
+12. MEDICAL DEPARTMENT
+-----------------------
+Staff:
+  - 6 doctors total
+    - Main Campus: 2 morning, 1 evening
+    - LEJ Campus: 1
+    - City Campus: 1 lady doctor
+  - Headed by Principal Medical Officer
+  - Paramedical staff (male & female nurses)
+
+Facilities (free for students at Main Campus):
+  - Emergency and Outpatient services
+  - Pathological, Radiological, ECG labs
+  - Airway, breathing, circulatory intervention
+  - X-Ray, Pathology Lab, Ambulance (Main Campus only)
+  - Outpatient at City and LEJ Campus
+
+
+13. OTHER STUDENT FACILITIES
+-----------------------------
+
+Duty Society:
+  - Interest-free loans for students in financial need
+  - Apply through Secretary of the Society
+
+Book Bank:
+  - Textbooks issued at nominal charges for one academic year
+  - Books returned at end of academic year
+
+Plain Paper Copiers (PPC):
+  - Document copying at nominal cost
+
+Stationery Shop:
+  - University General Store on campus
+  - No-profit basis, managed by teaching staff committee
+
+Sports Facilities:
+  - Athletics, Badminton, Cricket, Football, Table Tennis,
+    Hockey, Physical Fitness, Basketball
+
+Hostel (Muhammad Bin Qasim Hostel):
+  - Adjacent to campus
+  - Common Room, Prayer Hall, Warden's Office & Room
+  - For non-residents of Karachi
+  - Application form from National Bank of Pakistan or
+    Habib Metropolitan Bank (NED Branch)
+  - Fresh entrants apply after admission selection
+
+Boys' Common Room:
+  - Indoor games, telephone, reading material
+
+Girls' Common Room:
+  - Furnished, attached bath/powder room, maid servant
+
+Transport:
+  - Shuttle bus from convenient points
+  - Places and charges notified by the University
