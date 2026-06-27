@@ -1,253 +1,182 @@
-from __future__ import annotations
 
-import re
-from typing import Any
+from typing import List, Dict, Optional
 
-from config_loader import cfg
-from core.llm_handler import LocalLLM
-from core.skills import get_skill
-
-_MAX_TOKENS = int(cfg["answer_max_tokens"])
-
-# Cap per RAG chunk to avoid blowing the prompt budget on pathological
-# inputs, but generous enough that a normal multi-line record (e.g. a full
-# shuttle route's stop list) is never truncated mid-record.
-_MAX_CHUNK_CHARS = 1500
-
-_TIME_TOKEN_RE = re.compile(r"\b\d{1,2}:\d{2}\s*[ap]\.?\s*m\.?\b", re.IGNORECASE)
+from core.llm_handler import LLMHandler
+from core.query_analyzer import QueryAnalysis
 
 
-def _normalize_time_token(tok: str) -> str:
-    """Normalize a time token for comparison (strip spacing/punctuation
-    variance like "7:00 a.m" vs "7:00a.m." vs "7:00 AM")."""
-    return re.sub(r"[\s.]", "", tok).lower()
+# ─── System Prompt ────────────────────────────────────────────────────────────
+
+_SYSTEM_PROMPT = """\
+You are the NED University Admissions Assistant — a precise, helpful chatbot for prospective students.
+
+## Your Purpose
+Answer questions about NED University admissions using ONLY the evidence provided below.
+
+## Evidence Labels
+- [TEXT]  — narrative, policy, or eligibility content
+- [TABLE] — structured data: fees, seats, schedules, distributions
+
+## Answering Rules
+
+### Accuracy (most important)
+- Use ONLY information present in the evidence. Do NOT invent any detail.
+- For any number (fee, seat count, credit hours, date): copy the EXACT value from evidence.
+  Do not round, approximate, or paraphrase numerical values.
+- Do NOT infer, assume, or reconstruct hierarchies, categories, or groupings that are not
+  explicitly written in the evidence. If the evidence lists items without structure,
+  present them as a flat list — do not add headers, sections, or categories of your own.
+- If the evidence does not contain enough information, say:
+  "I don't have complete information on this. Please contact the admissions office or
+  visit https://ned.edu.pk for the latest details."
+
+### Location / stop matching (shuttle routes)
+- When the question names a specific location (e.g. "Nazimabad", "Korangi", "Malir"),
+  ONLY include routes whose DETAIL OF ROUTES field literally contains that location name.
+- Read every route's stop list carefully and check each one individually before including it.
+- Do NOT include a route just because it seems geographically close or the user might
+  find it useful. If the stop name is not written in the route's stop list, exclude it.
+- If only one or two routes match, list only those. Do not pad the answer with extra routes.
+
+### Table reading
+- When reading a table, match each data cell to its correct column header by position.
+- If a table has multiple header rows (e.g. a merged title row followed by a column-name row),
+  use the row that has the most individual column names as the actual header.
+- Never output placeholder labels like "Col1", "Col2", "Col3" in your answer.
+  If you see these in the evidence, look at the table again to identify the real column names.
+
+### Handling long lists
+- If the evidence contains a list and you can enumerate all items clearly, do so.
+- If there are too many items to list completely, state the total count first (if
+  available), list as many as the evidence supports, then add:
+  "For the complete list, please visit https://ned.edu.pk or contact the admissions office."
+- Never cut a list short without telling the user the list is incomplete.
+
+### Format (adapt to question type)
+- Single fact → 1-2 sentences.
+- Eligibility / policy → short bullet points.
+- Fee structure → table or labeled list (Program: X | Fee: Y per semester).
+- Route/schedule data → preserve the exact stop names and timings from the evidence.
+- Comparison → side-by-side format for each program.
+- Multi-part question → numbered sections, one per part.
+- Always end with: (Source: filename) for at least one citation.
+
+### Language
+- Answer in English only.
+- If evidence contains Urdu text, translate it accurately.
+- Be concise — students are time-pressured.
+
+### Special Handling
+- Scholarship: always mention both eligibility criteria AND amount if both are in evidence.
+- Deadlines: always state the session (e.g., Spring 2026) — never omit the year.
+- Seat distribution: provide total seats AND category breakdown if evidence has both.
+- Comparison: include ALL programs mentioned in the question, not just one.
+- If two pieces of evidence conflict: mention both and note the discrepancy.
+
+## What NOT to Do
+- Do not say "Based on the context" or "According to the provided information"
+- Do not repeat the question
+- Do not add AI disclaimers
+- Do not invent contact numbers, dates, or fees
+- Do not answer from general knowledge about other universities
+- Do not add organizational structure (headings, sub-groups, categories) that is not
+  present in the evidence — present data exactly as it appears
+- Do not output "Col1", "Col2", "Col3" — always use real column names from the table
+"""
+
+_EVIDENCE_BLOCK_TEMPLATE = """\
+{evidence}
+
+---
+Conversation history:
+{context}
+
+Question: {query}
+
+Answer:"""
 
 
-def _unverified_time_claims(answer: str, evidence_block: str) -> list[str]:
-    """Return any time-like tokens in `answer` that don't appear (after
-    normalizing spacing/punctuation) anywhere in `evidence_block`."""
-    evidence_times = {
-        _normalize_time_token(t) for t in _TIME_TOKEN_RE.findall(evidence_block)
-    }
-    bad: list[str] = []
-    for t in _TIME_TOKEN_RE.findall(answer):
-        if _normalize_time_token(t) not in evidence_times:
-            bad.append(t)
-    return bad
+class AnswerGenerator:
+
+    def __init__(self, llm: LLMHandler):
+        self.llm = llm
 
 
-def _format_value(v: Any) -> str:
-    """Render a single field value for display in the evidence block.
+    def _format_evidence(
+        self,
+        chunks: List[Dict],
+        max_chars_per_text_chunk: int = 900,
+    ) -> str:
+        """
+        Format retrieved chunks into an evidence block.
 
-    Lists (e.g. stops_list) get a readable arrow-joined format instead of
-    Python's default repr (['a', 'b', 'c']), which is harder for the model
-    to parse correctly and easier to garble when several rows are nearby.
-    """
-    if isinstance(v, list):
-        return " → ".join(str(x) for x in v)
-    return str(v)
+        Table chunks are NEVER truncated — their structured data must be
+        passed in full so the LLM can read every row (e.g. all shuttle routes).
 
+        Text chunks are truncated at max_chars_per_text_chunk to manage context.
+        """
+        if not chunks:
+            return "No relevant evidence found."
 
-def _format_csv_rows(csv_rows: list[dict]) -> str:
-    """Format CSV/structured rows as clearly fenced, self-labeled blocks.
+        parts = []
+        for i, chunk in enumerate(chunks, 1):
+            label   = "[TABLE]" if chunk["chunk_type"] == "table" else "[TEXT]"
+            path    = chunk.get("heading_path", "")
+            source  = chunk.get("source_file", "unknown")
+            year    = chunk.get("academic_year", "")
+            year_str = f" ({year})" if year else ""
 
-    Each row gets its own [ROW i] header directly attached to its own
-    content, so multiple rows can never visually bleed into each other
-    regardless of how long any individual field is.
+            content = chunk["content"]
 
-    FIX (source attribution): `_source_file` (set by pipeline.py's
-    _tag_source — see its docstring) is pulled out of the regular field
-    list, exactly as before, but is now rendered INSIDE the `[ROW i]`
-    header itself — `[ROW 1 | source: supervisors.csv]` — instead of as a
-    separate trailing "(cite this row as: ...)" line after all the other
-    fields.
+            # Tables: never truncate — pass full content
+            # Text: truncate to stay within context budget
+            if chunk["chunk_type"] != "table" and len(content) > max_chars_per_text_chunk:
+                content = content[:max_chars_per_text_chunk] + " …"
 
-    Why this changed: the trailing-line approach relied on the model
-    reading and obeying an instruction-shaped line positioned AFTER the
-    data it was meant to apply to. qwen2.5:7b-instruct frequently failed
-    to do this in practice and instead composed a vague, unverifiable
-    placeholder like "(source: structured data)". Putting the same value
-    in the header instead means it's the FIRST thing the model reads for
-    this row, and headers-govern-content-until-next-boundary is already
-    the exact convention _format_rag_evidence() below uses successfully
-    for RAG chunk sources — this brings structured rows in line with that
-    proven pattern instead of using a different, weaker convention for no
-    real reason.
+            header = f"[{i}] {label}"
+            if path:
+                header += f" — {path}"
+            header += f"{year_str} | Source: {source}"
 
-    The header is still visually distinct from ordinary `field: value`
-    data rows (it's a single bracketed line, not an indented field), so
-    skills.py's instruction not to display `_source_file` as a table
-    column is unaffected — there's no `_source_file` field left in the
-    per-row field loop to accidentally display in the first place.
-    """
-    lines = ["── STRUCTURED DATA ──"]
-    for i, row in enumerate(csv_rows[:15], 1):
-        source_file = row.get("_source_file")
-        # FIX: source now lives in the row header, not a trailing line.
-        header = (
-            f"[ROW {i} | source: {source_file}]"
-            if source_file
-            else f"[ROW {i}]"
+            parts.append(f"{header}\n{content}")
+
+        return "\n\n---\n\n".join(parts)
+
+    # ─── Main generation ──────────────────────────────────────────────────────
+
+    def generate(
+        self,
+        original_query:       str,
+        analysis:             QueryAnalysis,
+        retrieved_chunks:     List[Dict],
+        conversation_context: str = "",
+    ) -> str:
+        """
+        Generate an answer from retrieved evidence.
+        Adjusts max_chars_per_text_chunk based on number of chunks to manage context.
+        Table chunks are always passed in full regardless of chunk count.
+        """
+        n_chunks = len(retrieved_chunks)
+
+        # Tighter truncation for comparison queries (more text chunks)
+        chars_per_text_chunk = 700 if n_chunks > 6 else 900
+
+        evidence_block = self._format_evidence(
+            retrieved_chunks,
+            max_chars_per_text_chunk=chars_per_text_chunk,
         )
-        lines.append(header)
-        for k, v in row.items():
-            if k == "_source_file":
-                continue
-            if v is None or str(v) in ("nan", "", "None", "[]"):
-                continue
-            lines.append(f"  {k}: {_format_value(v)}")
-        lines.append("")  # blank line = explicit boundary between rows
-    return "\n".join(lines).rstrip()
 
-
-def _format_rag_evidence(evidence_parts: list[dict]) -> str:
-    """Format RAG chunks as clearly fenced, self-labeled blocks.
-
-    Each chunk's source/topic label sits directly above its own content,
-    separated from the next chunk by a blank line + dashed rule.
-    """
-    lines = ["── RETRIEVED EVIDENCE ──"]
-    for i, ep in enumerate(evidence_parts[:6], 1):
-        source = ep.get("source", "unknown")
-        topic = ep.get("topic", "")
-        content = ep.get("content", "")
-        if len(content) > _MAX_CHUNK_CHARS:
-            content = content[:_MAX_CHUNK_CHARS] + " …(truncated)"
-        lines.append(
-            f"[EVIDENCE {i} | source: {source}"
-            f"{f' | topic: {topic}' if topic else ''}]"
+        user_message = _EVIDENCE_BLOCK_TEMPLATE.format(
+            evidence=evidence_block,
+            context=conversation_context.strip() or "None",
+            query=original_query,
         )
-        lines.append(content.strip())
-        lines.append("---")  # explicit boundary between chunks
-    return "\n".join(lines).rstrip("- \n")
 
-
-def generate_answer(
-    query: str,
-    llm: LocalLLM,
-    evidence_parts: list[dict[str, Any]],
-    intent: str,
-    csv_rows: list[dict] | None = None,
-    context_history: str = "",
-) -> str:
-    """
-    Generate a final answer using the intent-specific skill template.
-
-    Parameters
-    ----------
-    query            : original user query
-    llm              : LocalLLM instance
-    evidence_parts   : list of RAG chunks with {source, content, score}
-    intent           : classified intent (used to select skill)
-    csv_rows         : optional CSV/structured query results (as list of dicts)
-    context_history  : recent QA history for conversational memory
-    """
-    system_prompt = get_skill(intent)
-
-    # Build evidence block — each section clearly fenced and self-labeled.
-    evidence_sections: list[str] = []
-
-    if csv_rows:
-        evidence_sections.append(_format_csv_rows(csv_rows))
-
-    if evidence_parts:
-        evidence_sections.append(_format_rag_evidence(evidence_parts))
-
-    evidence_block = (
-        "\n\n".join(evidence_sections)
-        if evidence_sections
-        else "(no evidence available)"
-    )
-
-    user_prompt_parts = []
-    if context_history:
-        user_prompt_parts.append(f"RECENT CONVERSATION:\n{context_history}\n")
-    user_prompt_parts.append(f"User query: {query}")
-    user_prompt_parts.append(f"Intent: {intent}")
-    user_prompt_parts.append(f"EVIDENCE:\n{evidence_block}")
-    user_prompt_parts.append(
-        "Generate a helpful answer using the evidence and the rules below:\n\n"
-        "TIER 1 — Corpus-grounded answers (EVIDENCE REQUIRED):\n"
-        "  For ALL topics — fees, eligibility, programs, supervisors, schedules,\n"
-        "  deadlines, documents, facilities, hostel, scholarships, societies,\n"
-        "  contact info — use ONLY the evidence provided above. Cite the source\n"
-        "  for each fact. If the evidence does not contain the answer, respond\n"
-        "  exactly: 'I don't have this information in what was retrieved. Please\n"
-        "  contact the admissions office directly for accurate details.'\n\n"
-        "TIER 2 — Permitted ONLY for these two facts (NO EVIDENCE REQUIRED):\n"
-        "  - NED University's location: Karachi, Pakistan.\n"
-        "  - NED University's full official name: NED University of Engineering\n"
-        "    and Technology.\n"
-        "  If you use either of these, state explicitly: '(based on general\n"
-        "  knowledge)' rather than citing a source.\n"
-        "  For ALL other topics — hostels, scholarships, facilities, societies,\n"
-        "  fees, eligibility, deadlines, supervisors, shuttle routes — use ONLY\n"
-        "  the evidence above. If evidence is absent, respond: 'I don't have\n"
-        "  this information in what was retrieved. Please contact the admissions\n"
-        "  office directly for accurate details.' Never substitute general\n"
-        "  knowledge on these topics, even if the answer seems obvious or widely\n"
-        "  known. The distinction between TIER 1 and TIER 2 is not about\n"
-        "  confidence — it is a hard rule about which two facts may bypass\n"
-        "  evidence.\n\n"
-        "Each evidence item is self-contained between its own header and the\n"
-        "next boundary marker ('---' or a blank line) — do not mix content\n"
-        "across items."
-    )
-
-    user_prompt = "\n\n".join(user_prompt_parts)
-
-    messages = [
-        {"role": "system", "content": system_prompt},
-        {"role": "user",   "content": user_prompt},
-    ]
-
-    answer = llm.chat(messages, max_new_tokens=_MAX_TOKENS, temperature=0.1)
-
-    # ── Post-generation time-claim verification ──────────────────────
-    # See module docstring for why this exists and why it's scoped to
-    # time tokens specifically.
-    unverified = _unverified_time_claims(answer, evidence_block)
-    if unverified:
-        print(
-            f"[answer_generator] Unverified time claim(s) {unverified} "
-            "— regenerating with correction"
+        answer = self.llm.generate_chat(
+            system      = _SYSTEM_PROMPT,
+            user        = user_message,
+            max_tokens  = 1024,
+            temperature = 0.1,
         )
-        correction = (
-            "\n\nIMPORTANT CORRECTION: your previous answer included a time "
-            f"value ({', '.join(unverified)}) that does not appear anywhere "
-            "in the evidence above. Every time value in your answer must be "
-            "copied character-for-character from the evidence's `timing` "
-            "field (or equivalent) — never inferred, adjusted, or guessed "
-            "(e.g. do not assume an 'evening' leg must be PM just because "
-            "it seems more plausible). If two rows show the identical "
-            "timing value, your answer must show that identical value for "
-            "both. Regenerate the full answer now using ONLY time values "
-            "that appear verbatim in the evidence."
-        )
-        messages_retry = [
-            {"role": "system", "content": system_prompt + correction},
-            {"role": "user",   "content": user_prompt},
-        ]
-        answer2 = llm.chat(
-            messages_retry, max_new_tokens=_MAX_TOKENS, temperature=0.0
-        )
-        still_unverified = _unverified_time_claims(answer2, evidence_block)
-        if not still_unverified:
-            answer = answer2
-            print("[answer_generator] Correction succeeded")
-        else:
-            # Still wrong after a deterministic-temperature retry — don't
-            # ship a silently-fabricated time value. Surface the issue
-            # instead of hiding it.
-            print(
-                f"[answer_generator] Still unverified after retry: "
-                f"{still_unverified} — flagging in response"
-            )
-            answer = answer2 + (
-                "\n\n*(Note: a time value in this answer could not be "
-                "automatically verified against the source data — please "
-                "confirm exact timings with the relevant university office "
-                "before relying on it.)*"
-            )
 
-    return answer
+        return answer
