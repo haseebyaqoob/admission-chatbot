@@ -1,91 +1,137 @@
 """
-llm_handler.py
-──────────────
-Thin wrapper around the local Ollama API.
+core/llm_handler.py — Thin wrapper around the Ollama Python client.
+
+Provides:
+  - generate()       single-turn prompt → text
+  - generate_chat()  system + user messages → text
+  - JSON mode support (Ollama format="json")
+  - Graceful error handling
 """
+
+import json
+import re
+from typing import Optional
 
 import ollama
 
 from config_loader import cfg
-from core.utils import extract_json
-
-_OLLAMA_MODEL = cfg["ollama_model"]
 
 
-class LocalLLM:
-    def __init__(self, model_name: str = _OLLAMA_MODEL):
-        self.model_name = model_name
-        print(f"[llm_init] Using Ollama model: {self.model_name}")
-        # Warm-up ping so any model-load delay happens at startup, not mid-chat
+class LLMHandler:
+    def __init__(self, model: str = None):
+        self.model = model or cfg["ollama_model"]
+        self._warm_up()
+
+    def _warm_up(self) -> None:
+        """Ping Ollama on startup to surface connection errors early."""
         try:
             ollama.chat(
-                model=self.model_name,
+                model=self.model,
                 messages=[{"role": "user", "content": "hi"}],
                 options={"num_predict": 1},
             )
-            print("[llm_init] Ollama connection verified — model ready")
         except Exception as e:
-            print(f"[llm_init] Warning: Ollama warm-up failed: {e}")
+            raise RuntimeError(
+                f"Cannot reach Ollama. Make sure Ollama is running and "
+                f"'{self.model}' is pulled.\nError: {e}"
+            )
 
-    def chat(
+    # ─── Single-turn generation ───────────────────────────────────────────────
+
+    def generate(
         self,
-        messages: list[dict],
-        max_new_tokens: int = 768,
-        temperature: float = 0.3,
-        use_json_format: bool = False,
+        prompt:      str,
+        max_tokens:  int  = 512,
+        temperature: float = 0.1,
+        json_mode:   bool = False,
     ) -> str:
-        """
-        Call the model.
-
-        Parameters
-        ----------
-        messages         : standard OpenAI-style message list
-        max_new_tokens   : token budget for the response
-        temperature      : 0.0 = deterministic ; 0.1–0.3 = near-deterministic
-        use_json_format  : if True, passes format="json" to Ollama, forcing
-                           structurally valid JSON at the inference level.
-        """
+        """Simple single-message generation."""
         try:
             kwargs = dict(
-                model=self.model_name,
-                messages=messages,
+                model=self.model,
+                messages=[{"role": "user", "content": prompt}],
                 options={
-                    "num_predict": max_new_tokens,
+                    "num_predict": max_tokens,
                     "temperature": temperature,
                 },
             )
-            if use_json_format:
+            if json_mode:
                 kwargs["format"] = "json"
 
-            response = ollama.chat(**kwargs)
-            return response["message"]["content"].strip()
+            resp = ollama.chat(**kwargs)
+            return resp["message"]["content"].strip()
         except Exception as e:
-            err_msg = str(e).lower()
-            if "connect" in err_msg:
-                return (
-                    "I'm having trouble connecting to the AI model. "
-                    "Please make sure Ollama is running and the model is available:\n"
-                    "1. Run `ollama serve`\n"
-                    f"2. Run `ollama pull {self.model_name}`\n"
-                    "3. Try again"
-                )
-            return f"I'm sorry, I encountered an error: {e}"
+            return f"[LLM ERROR] {e}"
 
-    def chat_json(
+    # ─── Chat-style generation ────────────────────────────────────────────────
+
+    def generate_chat(
         self,
-        messages: list[dict],
-        max_new_tokens: int = 200,
-        temperature: float = 0.0,
-    ) -> dict | None:
-        """
-        Convenience: call chat with JSON format and extract the result.
+        system:      str,
+        user:        str,
+        max_tokens:  int  = 1024,
+        temperature: float = 0.1,
+        json_mode:   bool = False,
+    ) -> str:
+        """System + user message generation."""
+        try:
+            messages = [
+                {"role": "system", "content": system},
+                {"role": "user",   "content": user},
+            ]
+            kwargs = dict(
+                model=self.model,
+                messages=messages,
+                options={
+                    "num_predict": max_tokens,
+                    "temperature": temperature,
+                },
+            )
+            if json_mode:
+                kwargs["format"] = "json"
 
-        Returns a parsed JSON dict, or None if extraction fails.
-        """
-        raw = self.chat(
-            messages=messages,
-            max_new_tokens=max_new_tokens,
-            temperature=temperature,
-            use_json_format=True,
-        )
-        return extract_json(raw)
+            resp = ollama.chat(**kwargs)
+            return resp["message"]["content"].strip()
+        except Exception as e:
+            return f"[LLM ERROR] {e}"
+
+
+# ─── JSON extraction utility ──────────────────────────────────────────────────
+
+def extract_json(text: str) -> Optional[dict]:
+    """
+    Robustly extract a JSON object from LLM output.
+    Tries four strategies in order.
+    """
+    # 1. Strip markdown fences
+    clean = re.sub(r"```(?:json)?", "", text).replace("```", "").strip()
+    try:
+        return json.loads(clean)
+    except json.JSONDecodeError:
+        pass
+
+    # 2. Extract first {...} block
+    m = re.search(r'\{.*\}', clean, re.DOTALL)
+    if m:
+        try:
+            return json.loads(m.group(0))
+        except json.JSONDecodeError:
+            pass
+
+    # 3. Trailing-comma cleanup
+    if m:
+        fixed = re.sub(r',\s*([}\]])', r'\1', m.group(0))
+        try:
+            return json.loads(fixed)
+        except json.JSONDecodeError:
+            pass
+
+    # 4. Python literal → JSON (True/False/None)
+    if m:
+        py2json = m.group(0).replace("True", "true").replace("False", "false").replace("None", "null")
+        try:
+            return json.loads(py2json)
+        except json.JSONDecodeError:
+            pass
+
+    return None
