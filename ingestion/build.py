@@ -1,61 +1,119 @@
+
+
+import logging
 import sys
+import time
 from pathlib import Path
 
-# Ensure project root is on sys.path
-_PROJECT_ROOT = Path(__file__).resolve().parent.parent
-if str(_PROJECT_ROOT) not in sys.path:
-    sys.path.insert(0, str(_PROJECT_ROOT))
+from config_loader import cfg
 
-from ingestion import (
-    prepare_corpus,
-    csv_builder,
-    shuttle_builder,
-    supervisor_builder,
-    scholarship_builder,
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s  %(message)s",
+    handlers=[
+        logging.StreamHandler(),
+        logging.FileHandler("ingestion.log", encoding="utf-8"),
+    ],
 )
-from index import corpus_index
+log = logging.getLogger("build")
 
 
-def run():
-    print("\n" + "=" * 60)
-    print("  ADMISSION BOT — Ingestion Pipeline")
-    print("=" * 60)
+def _banner(step: str, n: int, total: int) -> None:
+    log.info("")
+    log.info("=" * 60)
+    log.info(f"  STEP {n}/{total} — {step}")
+    log.info("=" * 60)
 
-    # Step 1: Extract all text from corpus
-    print("\nStep 1/6: Extract text from corpus...")
-    prepare_corpus.run()
 
-    # Step 2: Build structured CSV (programs)
-    print("\n Step 2/6: Build programs.csv...")
-    csv_builder.build()
+def run(force: bool = False) -> None:
+    corpus_dir    = cfg["corpus_dir"]
+    extracted_dir = cfg["extracted_dir"]
+    index_dir     = cfg["index_dir"]
+    embed_model   = cfg["embed_model"]
+    reranker_model= cfg.get("reranker_model", "")
 
-    # Step 3: Build structured CSV (shuttle routes)
-    print("\n Step 3/6: Build shuttle_routes.csv...")
-    shuttle_builder.build()
+    t_total = time.time()
 
-    # Step 4: Build structured CSV (PhD supervisors)
-    print("\n Step 4/6: Build supervisors.csv...")
-    supervisor_builder.build()
+    # ── Step 1: Extract ───────────────────────────────────────────────────────
+    _banner("EXTRACT  (PDF page routing + Docling + TXT)", 1, 4)
 
-    # Step 5: Build structured CSV (scholarships)
-    print("\n Step 5/6: Build scholarships.csv...")
-    scholarship_builder.build()
+    if force:
+        # Wipe previous extraction outputs so everything is re-run
+        import shutil
+        ext_path = Path(extracted_dir)
+        if ext_path.exists():
+            shutil.rmtree(ext_path)
+            log.info(f"Cleared {extracted_dir} (--force)")
 
-    # Step 6: Build FAISS index (force=True to rebuild with fresh chunks)
-    print("\n Step 6/6: Build vector index...")
-    corpus_index.build(force=True)
+    from ingestion.extractor import run as extract_run
+    manifest = extract_run(corpus_dir)
 
-    # Invalidate the BM25 cache so the next app startup rebuilds it from
-    # the freshly chunked corpus rather than a stale pickle.
-    bm25_cache = _PROJECT_ROOT / "data" / "index" / "bm25_index.pkl"
-    if bm25_cache.exists():
-        bm25_cache.unlink()
-        print(f"[build] BM25 cache invalidated: {bm25_cache}")
+    n_errors = sum(1 for e in manifest if e.get("error"))
+    if n_errors:
+        log.warning(f"{n_errors} file(s) failed during extraction — check ingestion.log")
 
-    print("\n" + "=" * 60)
-    print("Ingestion complete! Run 'chainlit run app.py' to start.")
-    print("=" * 60)
+    # ── Step 2: Post-process ──────────────────────────────────────────────────
+    _banner("POSTPROCESS  (Docling JSON → clean RAG-ready JSON)", 2, 4)
+
+    from ingestion.postprocessor import run as postprocess_run
+    postprocess_run()
+
+    # Verify we have at least some _clean.json files
+    clean_files = list(Path(extracted_dir).glob("*_clean.json"))
+    clean_files = [f for f in clean_files if "manifest" not in f.name]
+    if not clean_files:
+        log.error("No *_clean.json files produced. Aborting.")
+        sys.exit(1)
+    log.info(f"Clean JSON files ready: {len(clean_files)}")
+
+    # ── Step 3: Chunk ─────────────────────────────────────────────────────────
+    _banner("CHUNK  (structure-aware, atomic tables)", 3, 4)
+
+    from ingestion.chunker import chunk_all_clean_files
+    chunks = chunk_all_clean_files(extracted_dir)
+
+    if not chunks:
+        log.error("No chunks produced. Check extracted_dir contents.")
+        sys.exit(1)
+
+    text_chunks  = [c for c in chunks if c.chunk_type == "text"]
+    table_chunks = [c for c in chunks if c.chunk_type == "table"]
+    log.info(f"Chunks: {len(chunks)} total  "
+             f"({len(text_chunks)} text, {len(table_chunks)} table)")
+
+    # ── Step 4: Build index ───────────────────────────────────────────────────
+    _banner("INDEX  (BGE embed → FAISS + BM25)", 4, 4)
+
+    from index.hybrid_searcher import HybridSearcher
+    searcher = HybridSearcher(
+        embed_model_name    = embed_model,
+        reranker_model_name = reranker_model,
+    )
+    t0 = time.time()
+    searcher.build(chunks)
+    searcher.save(index_dir)
+    log.info(f"Index built in {time.time()-t0:.1f}s → {index_dir}")
+
+    # ── Summary ───────────────────────────────────────────────────────────────
+    log.info("")
+    log.info("=" * 60)
+    log.info(f"BUILD COMPLETE in {time.time()-t_total:.1f}s")
+    log.info(f"  Clean JSON files : {len(clean_files)}")
+    log.info(f"  Total chunks     : {len(chunks)}")
+    log.info(f"    Text chunks    : {len(text_chunks)}")
+    log.info(f"    Table chunks   : {len(table_chunks)}")
+    log.info(f"  Index            : {index_dir}")
+    log.info("=" * 60)
+    log.info("")
+    log.info("Next: chainlit run app.py   or   python scripts/chat_cli.py")
 
 
 if __name__ == "__main__":
-    run()
+    import argparse
+    parser = argparse.ArgumentParser(description="Build the admissions RAG index")
+    parser.add_argument(
+        "--force", action="store_true",
+        help="Wipe extracted/ and rebuild from scratch"
+    )
+    args = parser.parse_args()
+    run(force=args.force)
