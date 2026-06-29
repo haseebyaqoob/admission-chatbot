@@ -1,90 +1,84 @@
 """
-app.py
-──────
-Chainlit web-chat interface for the NED Admissions Bot.
+app.py — Chainlit web UI for the admissions chatbot.
 
-Authentication: hardcoded for local dev via @cl.password_auth_callback.
+Run:
+    chainlit run app.py
+
+Requires:
+  - Ollama running with the configured model pulled
+  - Index built: python -m ingestion.build
 """
 
 import asyncio
-import sys
 from datetime import datetime
-
-# ── Python 3.14+ / Windows compatibility ────────────────────────────
-if sys.platform == "win32":
-    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-try:
-    asyncio.get_running_loop()
-except RuntimeError:
-    loop = asyncio.new_event_loop()
-    asyncio.set_event_loop(loop)
 
 import chainlit as cl
 
-from core.pipeline import get_pipeline
+from config_loader import cfg
+from core.llm_handler import LLMHandler
+from core.pipeline import RAGPipeline
+from db.database import Database
+from index.hybrid_searcher import HybridSearcher
+
+# ─── One-time startup: load models + index ────────────────────────────────────
+
+print("Loading index …")
+_searcher = HybridSearcher()
+_searcher.load(cfg["index_dir"])
+
+print("Connecting to Ollama …")
+_llm = LLMHandler()
+
+_db       = Database()
+_pipeline = RAGPipeline(searcher=_searcher, llm=_llm, db=_db)
+print("Ready.\n")
 
 
-# ── Authentication ─────────────────────────────────────────────────────
-_HARDCODED_USERS = {
-    "admin": "admin123",
-}
-
+# ─── Auth (local dev — change for production) ─────────────────────────────────
 
 @cl.password_auth_callback
-def auth_callback(username: str, password: str) -> cl.User | None:
-    username = username.strip().lower()
-    password = password.strip()
-    if _HARDCODED_USERS.get(username) == password:
-        return cl.User(
-            identifier=username,
-            metadata={"role": "user", "provider": "credentials"},
-        )
-    print(f"[auth] Login failed for '{username}'")
+def auth(username: str, password: str):
+    if username == "admin" and password == "admin123":
+        return cl.User(identifier="admin", metadata={"role": "admin"})
     return None
 
 
-# ── Chat handlers ──────────────────────────────────────────────────────
+# ─── Chat lifecycle ───────────────────────────────────────────────────────────
 
 @cl.on_chat_start
-async def on_chat_start():
-    """Send a welcome message with example queries."""
-    pipeline = get_pipeline()
+async def on_start():
     session_id = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
-    pipeline.set_session(session_id)
     cl.user_session.set("session_id", session_id)
 
-    welcome_msg = (
-        "**Welcome to the NED Admissions Assistant!**\n\n"
-        "I can help you with NED University admissions:\n"
-        "- Programs and degrees offered\n"
-        "- Eligibility criteria\n"
-        "- Fee information\n"
-        "- Deadlines and schedule\n"
-        "- Required documents\n"
-        "- Hostel facilities\n"
-        "- PhD supervisors\n\n"
-        "**Try asking:**\n"
-        '- "What programs does CS offer?"\n'
-        '- "What is the eligibility for MS Data Science?"\n'
-        '- "When is the last date for admission 2026?"\n'
-        '- "Find PhD supervisors in AI"'
-    )
-
-    await cl.Message(content=welcome_msg, author="NED Admissions Bot").send()
+    await cl.Message(
+        content=(
+            "👋 **Welcome to NED University Admissions Assistant!**\n\n"
+            "I can help with:\n"
+            "- 📚 Degree programs & departments\n"
+            "- ✅ Eligibility criteria (BE / MS / PhD)\n"
+            "- 💰 Fee structures\n"
+            "- 🏆 Scholarships & financial aid\n"
+            "- 📅 Admission deadlines\n"
+            "- 📄 Required documents\n"
+            "- 🏠 Hostel & facilities\n\n"
+            "Ask me anything about NED admissions!"
+        )
+    ).send()
 
 
 @cl.on_message
 async def on_message(message: cl.Message):
-    """Handle user messages via the pipeline."""
-    pipeline = get_pipeline()
     session_id = cl.user_session.get("session_id")
-    if session_id:
-        pipeline.set_session(session_id)
 
-    async with cl.Step(name="Thinking...", show_input=False):
-        loop = asyncio.get_event_loop()
-        response = await loop.run_in_executor(
-            None, pipeline.process_query, message.content
-        )
+    # Show typing placeholder
+    msg = cl.Message(content="")
+    await msg.send()
 
-    await cl.Message(content=response, author="NED Admissions Bot").send()
+    # Run sync pipeline in thread pool
+    loop     = asyncio.get_event_loop()
+    response = await loop.run_in_executor(
+        None, _pipeline.process, message.content, session_id
+    )
+
+    msg.content = response
+    await msg.update()
