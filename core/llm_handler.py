@@ -1,13 +1,3 @@
-"""
-core/llm_handler.py — Thin wrapper around the Ollama Python client.
-
-Provides:
-  - generate()       single-turn prompt → text
-  - generate_chat()  system + user messages → text
-  - JSON mode support (Ollama format="json")
-  - Graceful error handling
-"""
-
 import json
 import re
 from typing import Optional
@@ -36,7 +26,6 @@ class LLMHandler:
                 f"'{self.model}' is pulled.\nError: {e}"
             )
 
-    # ─── Single-turn generation ───────────────────────────────────────────────
 
     def generate(
         self,
