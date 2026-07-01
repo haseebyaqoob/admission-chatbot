@@ -1,18 +1,3 @@
-"""
-core/pipeline.py — Main RAG pipeline.
-
-Flow:
-  1. Conversational check (greetings etc.)  → canned response, no RAG
-  2. Off-topic check (non-admissions query) → polite refusal, no RAG
-  3. Query analysis (LLM) → rewritten query, key terms, retrieval hints
-  4. Hybrid search (BM25 + FAISS + table boost) → initial_k candidates
-  5. Reranking → final_k chunks
-  6. Answer generation → response
-
-Key design: Zero hardcoded document routing.
-The pipeline generalizes to any query through retrieval quality alone.
-"""
-
 from typing import Optional
 
 from core.llm_handler import LLMHandler
@@ -23,7 +8,6 @@ from db.database import Database
 from config_loader import cfg
 
 
-# ─── Simple conversational responses (no RAG needed) ─────────────────────────
 
 _GREETINGS = {"hi", "hello", "hey", "salam", "assalam", "assalamualaikum"}
 _FAREWELLS  = {"bye", "goodbye", "thanks", "thank you", "shukriya", "shukria"}
@@ -50,7 +34,6 @@ _META_RESPONSE = (
     "Just ask your question!"
 )
 
-# ─── Off-topic detection ──────────────────────────────────────────────────────
 # Keywords that strongly indicate a non-university / non-admissions query.
 # Kept intentionally broad — the LLM fallback handles edge cases.
 
@@ -114,7 +97,6 @@ class RAGPipeline:
         self.analyzer  = QueryAnalyzer(llm)
         self.generator = AnswerGenerator(llm)
 
-    # ─── Conversational check ─────────────────────────────────────────────────
 
     def _check_conversational(self, query: str) -> Optional[str]:
         """Return a canned response if the query is purely conversational."""
@@ -127,7 +109,6 @@ class RAGPipeline:
             return _META_RESPONSE
         return None
 
-    # ─── Conversation context builder ────────────────────────────────────────
 
     def _get_context(self, session_id: str) -> str:
         """Fetch last N QA pairs from DB and format as context string."""
@@ -144,7 +125,6 @@ class RAGPipeline:
             lines.append(f"{label}: {msg}")
         return "\n".join(lines)
 
-    # ─── Main entry point ─────────────────────────────────────────────────────
 
     def process(self, query: str, session_id: str) -> str:
         """
@@ -159,28 +139,23 @@ class RAGPipeline:
         """
         query = query.strip()
 
-        # ── Step 0: Conversational check ─────────────────────────────────────
         canned = self._check_conversational(query)
         if canned:
             self.db.save_message(session_id, "user",      query,  intent="CONVERSATIONAL")
             self.db.save_message(session_id, "assistant", canned, intent="CONVERSATIONAL")
             return canned
 
-        # ── Step 0b: Off-topic check ──────────────────────────────────────────
         if _is_off_topic(query):
             self.db.save_message(session_id, "user",      query,              intent="OFF_TOPIC")
             self.db.save_message(session_id, "assistant", _OFF_TOPIC_RESPONSE, intent="OFF_TOPIC")
             return _OFF_TOPIC_RESPONSE
 
-        # ── Step 1: Query analysis ────────────────────────────────────────────
         context = self._get_context(session_id)
         analysis: QueryAnalysis = self.analyzer.analyze(query, context)
 
-        # ── Step 2: Retrieval ─────────────────────────────────────────────────
         initial_k = cfg.get("initial_top_k", 20)
         if analysis.is_comparison:
-            initial_k = max(initial_k, 30)  # more candidates for multi-program queries
-
+            initial_k = max(initial_k, 30) 
         results = self.searcher.search(
             query         = analysis.get_search_query(),
             key_terms     = analysis.key_terms,
@@ -189,7 +164,6 @@ class RAGPipeline:
             prefer_tables = (analysis.needs_table_data or analysis.is_numerical),
         )
 
-        # ── Step 3: Answer generation ─────────────────────────────────────────
         answer = self.generator.generate(
             original_query       = query,
             analysis             = analysis,
@@ -197,7 +171,6 @@ class RAGPipeline:
             conversation_context = context,
         )
 
-        # ── Step 4: Persist ───────────────────────────────────────────────────
         sources = list({r["source_file"] for r in results})
         self.db.save_message(session_id, "user",      query,  sources=sources)
         self.db.save_message(session_id, "assistant", answer, sources=sources)
