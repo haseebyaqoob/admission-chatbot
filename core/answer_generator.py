@@ -5,7 +5,6 @@ from core.llm_handler import LLMHandler
 from core.query_analyzer import QueryAnalysis
 
 
-# ─── System Prompt ────────────────────────────────────────────────────────────
 
 _SYSTEM_PROMPT = """\
 You are the NED University Admissions Assistant — a precise, helpful chatbot for prospective students.
