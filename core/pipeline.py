@@ -125,7 +125,6 @@ class RAGPipeline:
             lines.append(f"{label}: {msg}")
         return "\n".join(lines)
 
-
     def process(self, query: str, session_id: str) -> str:
         """
         Process a user query and return a response.
