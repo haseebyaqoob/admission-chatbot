@@ -52,7 +52,6 @@ class LLMHandler:
         except Exception as e:
             return f"[LLM ERROR] {e}"
 
-    # ─── Chat-style generation ────────────────────────────────────────────────
 
     def generate_chat(
         self,
